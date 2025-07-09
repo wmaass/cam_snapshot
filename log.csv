@@ -1,0 +1,540 @@
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Facility Name', 'Hospital County', 'Permanent Facility Id', 'Operating Certificate Number', 'Hospital Service Area', 'Race', 'Gender', 'Zip Code', 'Payment Typology 3', 'Payment Typology 1', 'Ethnicity', 'Patient Disposition', 'Age Group', 'Payment Typology 2', 'Length of Stay', 'Emergency Department Indicator', 'Type of Admission', 'APR MDC Description', 'CCS Diagnosis Description', 'APR MDC Code', 'APR Medical Surgical Description', 'APR DRG Code', 'APR Severity of Illness Code', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'APR Risk of Mortality', 'CCS Procedure Code', 'CCS Diagnosis Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Hospital County  Permanent Facility Id  ...  CCS Procedure Code  CCS Diagnosis Code  Total Costs
+811683        0.382775         0.375000               0.138282  ...            0.255411            0.041284     0.021441
+1853328       0.382775         0.375000               0.138282  ...            0.952381            0.082951     0.000146
+1665537       0.966507         0.964286               0.120679  ...            0.000000            0.250765     0.000574
+84852         0.258373         0.857143               0.097985  ...            0.251082            0.023700     0.003126
+801437        0.822967         0.589286               0.073489  ...            0.000000            0.000382     0.002125
+...                ...              ...                    ...  ...                 ...                 ...          ...
+2186792       0.488038         0.446429               0.155673  ...            0.935065            0.048165     0.004478
+1532469       0.373206         0.678571               0.172747  ...            0.000000            0.000382     0.002202
+765707        0.918660         0.553571               0.066490  ...            0.662338            0.080657     0.004909
+2311560       0.559809         0.446429               0.154507  ...            0.987013            0.041284     0.001159
+1289381       0.009569         0.000000               0.000000  ...            0.636364            0.087538     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Facility Name', 'Hospital County', 'Permanent Facility Id', 'Operating Certificate Number', 'Hospital Service Area', 'Race', 'Gender', 'Zip Code', 'Payment Typology 3', 'Payment Typology 1', 'Ethnicity', 'Patient Disposition', 'Age Group', 'Payment Typology 2', 'Length of Stay', 'Emergency Department Indicator', 'Type of Admission', 'APR MDC Description', 'CCS Diagnosis Description', 'APR MDC Code', 'APR Medical Surgical Description', 'APR DRG Code', 'APR Severity of Illness Code', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'APR Risk of Mortality', 'CCS Procedure Code', 'CCS Diagnosis Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Hospital County  Permanent Facility Id  ...  CCS Procedure Code  CCS Diagnosis Code  Total Costs
+811683        0.382775         0.375000               0.138282  ...            0.255411            0.041284     0.021441
+1853328       0.382775         0.375000               0.138282  ...            0.952381            0.082951     0.000146
+1665537       0.966507         0.964286               0.120679  ...            0.000000            0.250765     0.000574
+84852         0.258373         0.857143               0.097985  ...            0.251082            0.023700     0.003126
+801437        0.822967         0.589286               0.073489  ...            0.000000            0.000382     0.002125
+...                ...              ...                    ...  ...                 ...                 ...          ...
+2186792       0.488038         0.446429               0.155673  ...            0.935065            0.048165     0.004478
+1532469       0.373206         0.678571               0.172747  ...            0.000000            0.000382     0.002202
+765707        0.918660         0.553571               0.066490  ...            0.662338            0.080657     0.004909
+2311560       0.559809         0.446429               0.154507  ...            0.987013            0.041284     0.001159
+1289381       0.009569         0.000000               0.000000  ...            0.636364            0.087538     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Facility Name', 'Hospital County', 'Permanent Facility Id', 'Operating Certificate Number', 'Hospital Service Area', 'Race', 'Gender', 'Zip Code', 'Payment Typology 3', 'Payment Typology 1', 'Ethnicity', 'Patient Disposition', 'Age Group', 'Payment Typology 2', 'Length of Stay', 'Emergency Department Indicator', 'Type of Admission', 'APR MDC Description', 'CCS Diagnosis Description', 'APR MDC Code', 'APR Medical Surgical Description', 'APR DRG Code', 'APR Severity of Illness Code', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'APR Risk of Mortality', 'CCS Procedure Code', 'CCS Diagnosis Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Hospital County  Permanent Facility Id  ...  CCS Procedure Code  CCS Diagnosis Code  Total Costs
+811683        0.382775         0.375000               0.138282  ...            0.255411            0.041284     0.021441
+1853328       0.382775         0.375000               0.138282  ...            0.952381            0.082951     0.000146
+1665537       0.966507         0.964286               0.120679  ...            0.000000            0.250765     0.000574
+84852         0.258373         0.857143               0.097985  ...            0.251082            0.023700     0.003126
+801437        0.822967         0.589286               0.073489  ...            0.000000            0.000382     0.002125
+...                ...              ...                    ...  ...                 ...                 ...          ...
+2186792       0.488038         0.446429               0.155673  ...            0.935065            0.048165     0.004478
+1532469       0.373206         0.678571               0.172747  ...            0.000000            0.000382     0.002202
+765707        0.918660         0.553571               0.066490  ...            0.662338            0.080657     0.004909
+2311560       0.559809         0.446429               0.154507  ...            0.987013            0.041284     0.001159
+1289381       0.009569         0.000000               0.000000  ...            0.636364            0.087538     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Facility Name', 'Hospital County', 'Permanent Facility Id', 'Operating Certificate Number', 'Hospital Service Area', 'Race', 'Gender', 'Zip Code', 'Payment Typology 3', 'Payment Typology 1', 'Ethnicity', 'Patient Disposition', 'Age Group', 'Payment Typology 2', 'Length of Stay', 'Emergency Department Indicator', 'Type of Admission', 'APR MDC Description', 'CCS Diagnosis Description', 'APR MDC Code', 'APR Medical Surgical Description', 'APR DRG Code', 'APR Severity of Illness Code', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'APR Risk of Mortality', 'CCS Procedure Code', 'CCS Diagnosis Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Hospital County  Permanent Facility Id  ...  CCS Procedure Code  CCS Diagnosis Code  Total Costs
+811683        0.382775         0.375000               0.138282  ...            0.255411            0.041284     0.021441
+1853328       0.382775         0.375000               0.138282  ...            0.952381            0.082951     0.000146
+1665537       0.966507         0.964286               0.120679  ...            0.000000            0.250765     0.000574
+84852         0.258373         0.857143               0.097985  ...            0.251082            0.023700     0.003126
+801437        0.822967         0.589286               0.073489  ...            0.000000            0.000382     0.002125
+...                ...              ...                    ...  ...                 ...                 ...          ...
+2186792       0.488038         0.446429               0.155673  ...            0.935065            0.048165     0.004478
+1532469       0.373206         0.678571               0.172747  ...            0.000000            0.000382     0.002202
+765707        0.918660         0.553571               0.066490  ...            0.662338            0.080657     0.004909
+2311560       0.559809         0.446429               0.154507  ...            0.987013            0.041284     0.001159
+1289381       0.009569         0.000000               0.000000  ...            0.636364            0.087538     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Facility Name', 'Hospital County', 'Permanent Facility Id', 'Operating Certificate Number', 'Hospital Service Area', 'Race', 'Gender', 'Zip Code', 'Payment Typology 3', 'Payment Typology 1', 'Ethnicity', 'Patient Disposition', 'Age Group', 'Payment Typology 2', 'Length of Stay', 'Emergency Department Indicator', 'Type of Admission', 'APR MDC Description', 'CCS Diagnosis Description', 'APR MDC Code', 'APR Medical Surgical Description', 'APR DRG Code', 'APR Severity of Illness Code', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'APR Risk of Mortality', 'CCS Procedure Code', 'CCS Diagnosis Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Hospital County  Permanent Facility Id  ...  CCS Procedure Code  CCS Diagnosis Code  Total Costs
+811683        0.382775         0.375000               0.138282  ...            0.255411            0.041284     0.021441
+1853328       0.382775         0.375000               0.138282  ...            0.952381            0.082951     0.000146
+1665537       0.966507         0.964286               0.120679  ...            0.000000            0.250765     0.000574
+84852         0.258373         0.857143               0.097985  ...            0.251082            0.023700     0.003126
+801437        0.822967         0.589286               0.073489  ...            0.000000            0.000382     0.002125
+...                ...              ...                    ...  ...                 ...                 ...          ...
+2186792       0.488038         0.446429               0.155673  ...            0.935065            0.048165     0.004478
+1532469       0.373206         0.678571               0.172747  ...            0.000000            0.000382     0.002202
+765707        0.918660         0.553571               0.066490  ...            0.662338            0.080657     0.004909
+2311560       0.559809         0.446429               0.154507  ...            0.987013            0.041284     0.001159
+1289381       0.009569         0.000000               0.000000  ...            0.636364            0.087538     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Race', 'Zip Code', 'Facility Name', 'Ethnicity', 'Length of Stay', 'Hospital County', 'Permanent Facility Id', 'Hospital Service Area', 'Age Group', 'APR MDC Description', 'APR MDC Code', 'APR Severity of Illness Code', 'APR Medical Surgical Description', 'APR DRG Code', 'Payment Typology 3', 'Type of Admission', 'Emergency Department Indicator', 'Payment Typology 1', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'CCS Diagnosis Description', 'APR Risk of Mortality', 'CCS Diagnosis Code', 'Operating Certificate Number', 'Payment Typology 2', 'Total Costs'], ['Length of Stay'])",{},"             Race  Zip Code  Facility Name  ...  Operating Certificate Number  Payment Typology 2  Total Costs
+811683   1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.021441
+1853328  1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.000146
+1665537  1.000000      0.08       0.966507  ...                      0.848326                 1.0     0.000574
+84852    1.000000      0.32       0.258373  ...                      0.732000                 0.4     0.003126
+801437   0.333333      0.48       0.822967  ...                      0.495581                 0.4     0.002125
+...           ...       ...            ...  ...                           ...                 ...          ...
+1665620  1.000000      0.12       0.966507  ...                      0.848326                 0.7     0.001432
+2011667  1.000000      0.80       0.086124  ...                      0.188326                 0.8     0.001459
+190950   0.666667      1.00       0.727273  ...                      0.841083                 0.7     0.001828
+922808   1.000000      0.98       0.870813  ...                      0.376648                 0.8     0.000779
+894621   0.666667      0.06       0.976077  ...                      0.840358                 0.7     0.003332
+
+[233856 rows x 27 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Race', 'Zip Code', 'Facility Name', 'Ethnicity', 'Length of Stay', 'Hospital County', 'Permanent Facility Id', 'Hospital Service Area', 'Age Group', 'APR MDC Description', 'APR MDC Code', 'APR Severity of Illness Code', 'APR Medical Surgical Description', 'APR DRG Code', 'Payment Typology 3', 'Type of Admission', 'Emergency Department Indicator', 'Payment Typology 1', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'CCS Diagnosis Description', 'APR Risk of Mortality', 'CCS Diagnosis Code', 'Operating Certificate Number', 'Payment Typology 2', 'Total Costs'], ['Length of Stay'])",{},"             Race  Zip Code  Facility Name  ...  Operating Certificate Number  Payment Typology 2  Total Costs
+811683   1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.021441
+1853328  1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.000146
+1665537  1.000000      0.08       0.966507  ...                      0.848326                 1.0     0.000574
+84852    1.000000      0.32       0.258373  ...                      0.732000                 0.4     0.003126
+801437   0.333333      0.48       0.822967  ...                      0.495581                 0.4     0.002125
+...           ...       ...            ...  ...                           ...                 ...          ...
+1665620  1.000000      0.12       0.966507  ...                      0.848326                 0.7     0.001432
+2011667  1.000000      0.80       0.086124  ...                      0.188326                 0.8     0.001459
+190950   0.666667      1.00       0.727273  ...                      0.841083                 0.7     0.001828
+922808   1.000000      0.98       0.870813  ...                      0.376648                 0.8     0.000779
+894621   0.666667      0.06       0.976077  ...                      0.840358                 0.7     0.003332
+
+[233856 rows x 27 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Race', 'Zip Code', 'Facility Name', 'Ethnicity', 'Length of Stay', 'Hospital County', 'Permanent Facility Id', 'Hospital Service Area', 'Age Group', 'APR MDC Description', 'APR MDC Code', 'APR Severity of Illness Code', 'APR Medical Surgical Description', 'APR DRG Code', 'Payment Typology 3', 'Type of Admission', 'Emergency Department Indicator', 'Payment Typology 1', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'CCS Diagnosis Description', 'APR Risk of Mortality', 'CCS Diagnosis Code', 'Operating Certificate Number', 'Payment Typology 2', 'Total Costs'], ['Length of Stay'])",{},"             Race  Zip Code  Facility Name  ...  Operating Certificate Number  Payment Typology 2  Total Costs
+811683   1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.021441
+1853328  1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.000146
+1665537  1.000000      0.08       0.966507  ...                      0.848326                 1.0     0.000574
+84852    1.000000      0.32       0.258373  ...                      0.732000                 0.4     0.003126
+801437   0.333333      0.48       0.822967  ...                      0.495581                 0.4     0.002125
+...           ...       ...            ...  ...                           ...                 ...          ...
+1665620  1.000000      0.12       0.966507  ...                      0.848326                 0.7     0.001432
+2011667  1.000000      0.80       0.086124  ...                      0.188326                 0.8     0.001459
+190950   0.666667      1.00       0.727273  ...                      0.841083                 0.7     0.001828
+922808   1.000000      0.98       0.870813  ...                      0.376648                 0.8     0.000779
+894621   0.666667      0.06       0.976077  ...                      0.840358                 0.7     0.003332
+
+[233856 rows x 27 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Race', 'Zip Code', 'Facility Name', 'Ethnicity', 'Length of Stay', 'Hospital County', 'Permanent Facility Id', 'Hospital Service Area', 'Age Group', 'APR MDC Description', 'APR MDC Code', 'APR Severity of Illness Code', 'APR Medical Surgical Description', 'APR DRG Code', 'Payment Typology 3', 'Type of Admission', 'Emergency Department Indicator', 'Payment Typology 1', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'CCS Diagnosis Description', 'APR Risk of Mortality', 'CCS Diagnosis Code', 'Operating Certificate Number', 'Payment Typology 2', 'Total Costs'], ['Length of Stay'])",{},"             Race  Zip Code  Facility Name  ...  Operating Certificate Number  Payment Typology 2  Total Costs
+811683   1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.021441
+1853328  1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.000146
+1665537  1.000000      0.08       0.966507  ...                      0.848326                 1.0     0.000574
+84852    1.000000      0.32       0.258373  ...                      0.732000                 0.4     0.003126
+801437   0.333333      0.48       0.822967  ...                      0.495581                 0.4     0.002125
+...           ...       ...            ...  ...                           ...                 ...          ...
+1665620  1.000000      0.12       0.966507  ...                      0.848326                 0.7     0.001432
+2011667  1.000000      0.80       0.086124  ...                      0.188326                 0.8     0.001459
+190950   0.666667      1.00       0.727273  ...                      0.841083                 0.7     0.001828
+922808   1.000000      0.98       0.870813  ...                      0.376648                 0.8     0.000779
+894621   0.666667      0.06       0.976077  ...                      0.840358                 0.7     0.003332
+
+[233856 rows x 27 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Race', 'Zip Code', 'Facility Name', 'Ethnicity', 'Length of Stay', 'Hospital County', 'Permanent Facility Id', 'Hospital Service Area', 'Age Group', 'APR MDC Description', 'APR MDC Code', 'APR Severity of Illness Code', 'APR Medical Surgical Description', 'APR DRG Code', 'Payment Typology 3', 'Type of Admission', 'Emergency Department Indicator', 'Payment Typology 1', 'CCS Procedure Description', 'APR DRG Description', 'APR Severity of Illness Description', 'CCS Diagnosis Description', 'APR Risk of Mortality', 'CCS Diagnosis Code', 'Operating Certificate Number', 'Payment Typology 2', 'Total Costs'], ['Length of Stay'])",{},"             Race  Zip Code  Facility Name  ...  Operating Certificate Number  Payment Typology 2  Total Costs
+811683   1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.021441
+1853328  1.000000      0.22       0.382775  ...                      0.999567                 0.8     0.000146
+1665537  1.000000      0.08       0.966507  ...                      0.848326                 1.0     0.000574
+84852    1.000000      0.32       0.258373  ...                      0.732000                 0.4     0.003126
+801437   0.333333      0.48       0.822967  ...                      0.495581                 0.4     0.002125
+...           ...       ...            ...  ...                           ...                 ...          ...
+1665620  1.000000      0.12       0.966507  ...                      0.848326                 0.7     0.001432
+2011667  1.000000      0.80       0.086124  ...                      0.188326                 0.8     0.001459
+190950   0.666667      1.00       0.727273  ...                      0.841083                 0.7     0.001828
+922808   1.000000      0.98       0.870813  ...                      0.376648                 0.8     0.000779
+894621   0.666667      0.06       0.976077  ...                      0.840358                 0.7     0.003332
+
+[233856 rows x 27 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Operating Certificate Number', 'Facility Name', 'Permanent Facility Id', 'Hospital Service Area', 'Hospital County', 'Payment Typology 1', 'Payment Typology 3', 'Age Group', 'Race', 'Zip Code', 'Gender', 'Ethnicity', 'Payment Typology 2', 'Patient Disposition', 'Type of Admission', 'Length of Stay', 'Emergency Department Indicator', 'CCS Diagnosis Description', 'APR DRG Description', 'APR Risk of Mortality', 'CCS Procedure Description', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'CCS Procedure Code', 'APR MDC Description', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Operating Certificate Number  Facility Name  Permanent Facility Id  ...  APR MDC Description  APR MDC Code  Total Costs
+811683                       0.999567       0.382775               0.138282  ...                 0.44          0.04     0.021441
+1853328                      0.999567       0.382775               0.138282  ...                 0.84          0.60     0.000146
+1665537                      0.848326       0.966507               0.120679  ...                 0.76          0.76     0.000574
+84852                        0.732000       0.258373               0.097985  ...                 0.08          0.64     0.003126
+801437                       0.495581       0.822967               0.073489  ...                 0.68          0.72     0.002125
+...                               ...            ...                    ...  ...                  ...           ...          ...
+2186792                      0.999713       0.488038               0.155673  ...                 0.48          0.16     0.004478
+1532469                      0.999854       0.373206               0.172747  ...                 0.68          0.72     0.002202
+765707                       0.463567       0.918660               0.066490  ...                 0.40          0.32     0.004909
+2311560                      0.999717       0.559809               0.154507  ...                 0.44          0.04     0.001159
+1289381                      0.000000       0.009569               0.000000  ...                 0.40          0.32     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Operating Certificate Number', 'Facility Name', 'Permanent Facility Id', 'Hospital Service Area', 'Hospital County', 'Payment Typology 1', 'Payment Typology 3', 'Age Group', 'Race', 'Zip Code', 'Gender', 'Ethnicity', 'Payment Typology 2', 'Patient Disposition', 'Type of Admission', 'Length of Stay', 'Emergency Department Indicator', 'CCS Diagnosis Description', 'APR DRG Description', 'APR Risk of Mortality', 'CCS Procedure Description', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'CCS Procedure Code', 'APR MDC Description', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Operating Certificate Number  Facility Name  Permanent Facility Id  ...  APR MDC Description  APR MDC Code  Total Costs
+811683                       0.999567       0.382775               0.138282  ...                 0.44          0.04     0.021441
+1853328                      0.999567       0.382775               0.138282  ...                 0.84          0.60     0.000146
+1665537                      0.848326       0.966507               0.120679  ...                 0.76          0.76     0.000574
+84852                        0.732000       0.258373               0.097985  ...                 0.08          0.64     0.003126
+801437                       0.495581       0.822967               0.073489  ...                 0.68          0.72     0.002125
+...                               ...            ...                    ...  ...                  ...           ...          ...
+2186792                      0.999713       0.488038               0.155673  ...                 0.48          0.16     0.004478
+1532469                      0.999854       0.373206               0.172747  ...                 0.68          0.72     0.002202
+765707                       0.463567       0.918660               0.066490  ...                 0.40          0.32     0.004909
+2311560                      0.999717       0.559809               0.154507  ...                 0.44          0.04     0.001159
+1289381                      0.000000       0.009569               0.000000  ...                 0.40          0.32     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Operating Certificate Number', 'Facility Name', 'Permanent Facility Id', 'Hospital Service Area', 'Hospital County', 'Payment Typology 1', 'Payment Typology 3', 'Age Group', 'Race', 'Zip Code', 'Gender', 'Ethnicity', 'Payment Typology 2', 'Patient Disposition', 'Type of Admission', 'Length of Stay', 'Emergency Department Indicator', 'CCS Diagnosis Description', 'APR DRG Description', 'APR Risk of Mortality', 'CCS Procedure Description', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'CCS Procedure Code', 'APR MDC Description', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Operating Certificate Number  Facility Name  Permanent Facility Id  ...  APR MDC Description  APR MDC Code  Total Costs
+811683                       0.999567       0.382775               0.138282  ...                 0.44          0.04     0.021441
+1853328                      0.999567       0.382775               0.138282  ...                 0.84          0.60     0.000146
+1665537                      0.848326       0.966507               0.120679  ...                 0.76          0.76     0.000574
+84852                        0.732000       0.258373               0.097985  ...                 0.08          0.64     0.003126
+801437                       0.495581       0.822967               0.073489  ...                 0.68          0.72     0.002125
+...                               ...            ...                    ...  ...                  ...           ...          ...
+2186792                      0.999713       0.488038               0.155673  ...                 0.48          0.16     0.004478
+1532469                      0.999854       0.373206               0.172747  ...                 0.68          0.72     0.002202
+765707                       0.463567       0.918660               0.066490  ...                 0.40          0.32     0.004909
+2311560                      0.999717       0.559809               0.154507  ...                 0.44          0.04     0.001159
+1289381                      0.000000       0.009569               0.000000  ...                 0.40          0.32     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Operating Certificate Number', 'Facility Name', 'Permanent Facility Id', 'Hospital Service Area', 'Hospital County', 'Payment Typology 1', 'Payment Typology 3', 'Age Group', 'Race', 'Zip Code', 'Gender', 'Ethnicity', 'Payment Typology 2', 'Patient Disposition', 'Type of Admission', 'Length of Stay', 'Emergency Department Indicator', 'CCS Diagnosis Description', 'APR DRG Description', 'APR Risk of Mortality', 'CCS Procedure Description', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'CCS Procedure Code', 'APR MDC Description', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Operating Certificate Number  Facility Name  Permanent Facility Id  ...  APR MDC Description  APR MDC Code  Total Costs
+811683                       0.999567       0.382775               0.138282  ...                 0.44          0.04     0.021441
+1853328                      0.999567       0.382775               0.138282  ...                 0.84          0.60     0.000146
+1665537                      0.848326       0.966507               0.120679  ...                 0.76          0.76     0.000574
+84852                        0.732000       0.258373               0.097985  ...                 0.08          0.64     0.003126
+801437                       0.495581       0.822967               0.073489  ...                 0.68          0.72     0.002125
+...                               ...            ...                    ...  ...                  ...           ...          ...
+2186792                      0.999713       0.488038               0.155673  ...                 0.48          0.16     0.004478
+1532469                      0.999854       0.373206               0.172747  ...                 0.68          0.72     0.002202
+765707                       0.463567       0.918660               0.066490  ...                 0.40          0.32     0.004909
+2311560                      0.999717       0.559809               0.154507  ...                 0.44          0.04     0.001159
+1289381                      0.000000       0.009569               0.000000  ...                 0.40          0.32     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+2186792                      5               25  ...       82396.64     24831.33
+1532469                      5               38  ...       60330.65     12211.42
+765707                       1               31  ...       64060.94     27217.90
+2311560                      5               25  ...       26105.99      6427.41
+1289381                      0                0  ...       88874.83     32538.27
+
+[468714 rows x 34 columns], ['Operating Certificate Number', 'Facility Name', 'Permanent Facility Id', 'Hospital Service Area', 'Hospital County', 'Payment Typology 1', 'Payment Typology 3', 'Age Group', 'Race', 'Zip Code', 'Gender', 'Ethnicity', 'Payment Typology 2', 'Patient Disposition', 'Type of Admission', 'Length of Stay', 'Emergency Department Indicator', 'CCS Diagnosis Description', 'APR DRG Description', 'APR Risk of Mortality', 'CCS Procedure Description', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'CCS Procedure Code', 'APR MDC Description', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Operating Certificate Number  Facility Name  Permanent Facility Id  ...  APR MDC Description  APR MDC Code  Total Costs
+811683                       0.999567       0.382775               0.138282  ...                 0.44          0.04     0.021441
+1853328                      0.999567       0.382775               0.138282  ...                 0.84          0.60     0.000146
+1665537                      0.848326       0.966507               0.120679  ...                 0.76          0.76     0.000574
+84852                        0.732000       0.258373               0.097985  ...                 0.08          0.64     0.003126
+801437                       0.495581       0.822967               0.073489  ...                 0.68          0.72     0.002125
+...                               ...            ...                    ...  ...                  ...           ...          ...
+2186792                      0.999713       0.488038               0.155673  ...                 0.48          0.16     0.004478
+1532469                      0.999854       0.373206               0.172747  ...                 0.68          0.72     0.002202
+765707                       0.463567       0.918660               0.066490  ...                 0.40          0.32     0.004909
+2311560                      0.999717       0.559809               0.154507  ...                 0.44          0.04     0.001159
+1289381                      0.000000       0.009569               0.000000  ...                 0.40          0.32     0.005868
+
+[467718 rows x 30 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Facility Name', 'Permanent Facility Id', 'Age Group', 'Length of Stay', 'Race', 'Hospital County', 'Hospital Service Area', 'Zip Code', 'Ethnicity', 'CCS Diagnosis Description', 'Operating Certificate Number', 'APR DRG Description', 'Payment Typology 1', 'Payment Typology 3', 'Type of Admission', 'CCS Procedure Description', 'APR Risk of Mortality', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'Payment Typology 2', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'APR MDC Description', 'Emergency Department Indicator', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Permanent Facility Id  Age Group  ...  Emergency Department Indicator  APR MDC Code  Total Costs
+811683        0.382775               0.138282       0.50  ...                             1.0          0.04     0.021441
+1853328       0.382775               0.138282       0.00  ...                             0.0          0.60     0.000146
+1665537       0.966507               0.120679       0.25  ...                             1.0          0.76     0.000574
+84852         0.258373               0.097985       1.00  ...                             1.0          0.64     0.003126
+801437        0.822967               0.073489       0.75  ...                             1.0          0.72     0.002125
+...                ...                    ...        ...  ...                             ...           ...          ...
+1665620       0.966507               0.120679       1.00  ...                             0.0          0.68     0.001432
+2011667       0.086124               0.021845       0.50  ...                             0.0          0.40     0.001459
+190950        0.727273               0.116225       1.00  ...                             0.0          0.32     0.001828
+922808        0.870813               0.043690       0.75  ...                             1.0          0.20     0.000779
+894621        0.976077               0.110710       0.25  ...                             0.0          0.56     0.003332
+
+[233856 rows x 27 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Facility Name', 'Permanent Facility Id', 'Age Group', 'Length of Stay', 'Race', 'Hospital County', 'Hospital Service Area', 'Zip Code', 'Ethnicity', 'CCS Diagnosis Description', 'Operating Certificate Number', 'APR DRG Description', 'Payment Typology 1', 'Payment Typology 3', 'Type of Admission', 'CCS Procedure Description', 'APR Risk of Mortality', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'Payment Typology 2', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'APR MDC Description', 'Emergency Department Indicator', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Permanent Facility Id  Age Group  ...  Emergency Department Indicator  APR MDC Code  Total Costs
+811683        0.382775               0.138282       0.50  ...                             1.0          0.04     0.021441
+1853328       0.382775               0.138282       0.00  ...                             0.0          0.60     0.000146
+1665537       0.966507               0.120679       0.25  ...                             1.0          0.76     0.000574
+84852         0.258373               0.097985       1.00  ...                             1.0          0.64     0.003126
+801437        0.822967               0.073489       0.75  ...                             1.0          0.72     0.002125
+...                ...                    ...        ...  ...                             ...           ...          ...
+1665620       0.966507               0.120679       1.00  ...                             0.0          0.68     0.001432
+2011667       0.086124               0.021845       0.50  ...                             0.0          0.40     0.001459
+190950        0.727273               0.116225       1.00  ...                             0.0          0.32     0.001828
+922808        0.870813               0.043690       0.75  ...                             1.0          0.20     0.000779
+894621        0.976077               0.110710       0.25  ...                             0.0          0.56     0.003332
+
+[233856 rows x 27 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Facility Name', 'Permanent Facility Id', 'Age Group', 'Length of Stay', 'Race', 'Hospital County', 'Hospital Service Area', 'Zip Code', 'Ethnicity', 'CCS Diagnosis Description', 'Operating Certificate Number', 'APR DRG Description', 'Payment Typology 1', 'Payment Typology 3', 'Type of Admission', 'CCS Procedure Description', 'APR Risk of Mortality', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'Payment Typology 2', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'APR MDC Description', 'Emergency Department Indicator', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Permanent Facility Id  Age Group  ...  Emergency Department Indicator  APR MDC Code  Total Costs
+811683        0.382775               0.138282       0.50  ...                             1.0          0.04     0.021441
+1853328       0.382775               0.138282       0.00  ...                             0.0          0.60     0.000146
+1665537       0.966507               0.120679       0.25  ...                             1.0          0.76     0.000574
+84852         0.258373               0.097985       1.00  ...                             1.0          0.64     0.003126
+801437        0.822967               0.073489       0.75  ...                             1.0          0.72     0.002125
+...                ...                    ...        ...  ...                             ...           ...          ...
+1665620       0.966507               0.120679       1.00  ...                             0.0          0.68     0.001432
+2011667       0.086124               0.021845       0.50  ...                             0.0          0.40     0.001459
+190950        0.727273               0.116225       1.00  ...                             0.0          0.32     0.001828
+922808        0.870813               0.043690       0.75  ...                             1.0          0.20     0.000779
+894621        0.976077               0.110710       0.25  ...                             0.0          0.56     0.003332
+
+[233856 rows x 27 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Facility Name', 'Permanent Facility Id', 'Age Group', 'Length of Stay', 'Race', 'Hospital County', 'Hospital Service Area', 'Zip Code', 'Ethnicity', 'CCS Diagnosis Description', 'Operating Certificate Number', 'APR DRG Description', 'Payment Typology 1', 'Payment Typology 3', 'Type of Admission', 'CCS Procedure Description', 'APR Risk of Mortality', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'Payment Typology 2', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'APR MDC Description', 'Emergency Department Indicator', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Permanent Facility Id  Age Group  ...  Emergency Department Indicator  APR MDC Code  Total Costs
+811683        0.382775               0.138282       0.50  ...                             1.0          0.04     0.021441
+1853328       0.382775               0.138282       0.00  ...                             0.0          0.60     0.000146
+1665537       0.966507               0.120679       0.25  ...                             1.0          0.76     0.000574
+84852         0.258373               0.097985       1.00  ...                             1.0          0.64     0.003126
+801437        0.822967               0.073489       0.75  ...                             1.0          0.72     0.002125
+...                ...                    ...        ...  ...                             ...           ...          ...
+1665620       0.966507               0.120679       1.00  ...                             0.0          0.68     0.001432
+2011667       0.086124               0.021845       0.50  ...                             0.0          0.40     0.001459
+190950        0.727273               0.116225       1.00  ...                             0.0          0.32     0.001828
+922808        0.870813               0.043690       0.75  ...                             1.0          0.20     0.000779
+894621        0.976077               0.110710       0.25  ...                             0.0          0.56     0.003332
+
+[233856 rows x 27 columns]"
+pre_processing,"(         Hospital Service Area  Hospital County  ...  Total Charges  Total Costs
+811683                       5               21  ...      380104.00    118883.77
+1853328                      5               21  ...        5220.00       809.34
+1665537                      3               54  ...       13240.00      3184.66
+84852                        4               48  ...      100357.00     17333.39
+801437                       3               33  ...       47404.37     11781.22
+...                        ...              ...  ...            ...          ...
+1665620                      3               54  ...       35609.41      7940.90
+2011667                      7               14  ...       23723.39      8089.76
+190950                       3               54  ...       22786.04     10135.71
+922808                       2               26  ...       10671.44      4322.46
+894621                       3               54  ...       29031.00     18473.82
+
+[234357 rows x 34 columns], ['Facility Name', 'Permanent Facility Id', 'Age Group', 'Length of Stay', 'Race', 'Hospital County', 'Hospital Service Area', 'Zip Code', 'Ethnicity', 'CCS Diagnosis Description', 'Operating Certificate Number', 'APR DRG Description', 'Payment Typology 1', 'Payment Typology 3', 'Type of Admission', 'CCS Procedure Description', 'APR Risk of Mortality', 'APR DRG Code', 'APR Severity of Illness Description', 'APR Medical Surgical Description', 'Payment Typology 2', 'APR Severity of Illness Code', 'CCS Diagnosis Code', 'APR MDC Description', 'Emergency Department Indicator', 'APR MDC Code', 'Total Costs'], ['Length of Stay'])",{},"         Facility Name  Permanent Facility Id  Age Group  ...  Emergency Department Indicator  APR MDC Code  Total Costs
+811683        0.382775               0.138282       0.50  ...                             1.0          0.04     0.021441
+1853328       0.382775               0.138282       0.00  ...                             0.0          0.60     0.000146
+1665537       0.966507               0.120679       0.25  ...                             1.0          0.76     0.000574
+84852         0.258373               0.097985       1.00  ...                             1.0          0.64     0.003126
+801437        0.822967               0.073489       0.75  ...                             1.0          0.72     0.002125
+...                ...                    ...        ...  ...                             ...           ...          ...
+1665620       0.966507               0.120679       1.00  ...                             0.0          0.68     0.001432
+2011667       0.086124               0.021845       0.50  ...                             0.0          0.40     0.001459
+190950        0.727273               0.116225       1.00  ...                             0.0          0.32     0.001828
+922808        0.870813               0.043690       0.75  ...                             1.0          0.20     0.000779
+894621        0.976077               0.110710       0.25  ...                             0.0          0.56     0.003332
+
+[233856 rows x 27 columns]"

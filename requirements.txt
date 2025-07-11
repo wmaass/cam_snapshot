@@ -1,0 +1,26 @@
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+matplotlib>=3.4.3
+seaborn>=0.11.1
+scikit-learn>=1.0
+joblib>=1.1.0
+plotly>=5.5.0
+dash>=2.0.0
+dash-bootstrap-components>=1.0.0
+umap-learn>=0.5.1
+shap>=0.41.0
+GPUtil>=1.4.0
+ipython>=8.0.0
+h2o==3.44.0.3
+openai>=1.0.0
+flask>=2.0.0
+
+# Webbrowser-Handling (Standard in Python, keine Extra-Bibliothek nötig)
+
+# JSON und Sammlungen – Standardbibliotheken, keine Angabe nötig
+
+# Plotly Graph Objects ist Teil von plotly
+# SciPy.stats, .signal, .ndimage – enthalten in scipy
+
+# regex – ist in der Standardbibliothek, kein Eintrag nötig

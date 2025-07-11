@@ -11,6 +11,9 @@ import GPUtil
 import os
 import shap
 
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
+
 from sklearn.model_selection import train_test_split
 
 # Suppress warnings
@@ -30,28 +33,28 @@ try:
     print(os.getcwd())
 
     if GPUs:
-        path_data = '../../data/'
+        path_data = '../data/'
     else:
 #        path_data = '~/Dropbox/CAData/'
-        path_data = './data/'
+        path_data = '../data/'
 
     d_name = "hdma_1M.csv"
     d_name_short = "HIS17"
 
-    path_ranked = './results/'+app_name+'/ranked/'
+    path_ranked = './results/'+app_name+'/ranked_h2o/'
 
     # if path_ranked does not exist then create
     if not os.path.exists(path_ranked):
         os.makedirs(path_ranked)
 
-    path_df_train = './results/'+app_name+'/ranked/train.csv'
-    path_df_test = './results/'+app_name+'/ranked/test.csv'
-    path_df_original = './results/'+app_name+'/ranked/df_original.csv'
-    path_rank_encodings = './results/'+app_name+'/ranked/rank_encoded.csv'
-    path_combined_ranking = './results/'+app_name+'/ranked/combined_ranking.csv'
-    path_combined_ranking_data = './results/'+app_name+'/ranked/combined_ranking_data.csv'
-    path_shap_values = './results/'+app_name+'/ranked/shap_values_df.csv'
-    path_best_model = './results/'+app_name+'/ranked/model/'
+    path_df_train = './results/'+app_name+'/ranked_h2o/train.csv'
+    path_df_test = './results/'+app_name+'/ranked_h2o/test.csv'
+    path_df_original = './results/'+app_name+'/ranked_h2o/df_original.csv'
+    path_rank_encodings = './results/'+app_name+'/ranked_h2o/rank_encoded.csv'
+    path_combined_ranking = './results/'+app_name+'/ranked_h2o/combined_ranking.csv'
+    path_combined_ranking_data = './results/'+app_name+'/ranked_h2o/combined_ranking_data.csv'
+    path_shap_values = './results/'+app_name+'/ranked_h2o/shap_values_df.csv'
+    path_best_model = './results/'+app_name+'/ranked_h2o/model/'
 
     target = "Total Costs"
     leaky_features = 'Total Charges'
@@ -60,7 +63,7 @@ try:
     df = pd.read_csv(path_data + d_name, delimiter=',', quotechar='"', encoding='latin1')
 
     # Sample 100,000 rows
-    df = df.sample(n=200000, random_state=42)
+    #df = df.sample(n=100000, random_state=42)
 
     # Remove only Total Charges to prevent data leakage
     df = df.drop([leaky_features], axis=1)
@@ -205,8 +208,10 @@ try:
     best_gbm.train(x=predictors, y=response, training_frame=train_h2o, validation_frame=test_h2o)
 
     # Save the model
-    os.makedirs(path_best_model, exist_ok=True)  # Create the directory if it doesn't exist
-    model_path = h2o.save_model(model=best_gbm, path=path_best_model, force=True)
+    # Speichern des Modells dauerhaft unter dem Namen "best_model" im Zielordner
+    os.makedirs(path_best_model, exist_ok=True)
+    model_path = h2o.save_model(model=best_gbm, path=os.path.join(path_best_model, "best_model_h2o"), force=True)
+
     print(f"Model saved to: {model_path}")
 
     # Print the parameters of the trained model
@@ -247,12 +252,82 @@ try:
             plt.close()
 
     best_gbm.varimp_plot()
+    
+    ################################
+
+    from concurrent.futures import ProcessPoolExecutor, as_completed
+
+    def _compute_contributions_chunk(model_path, chunk_path):
+
+        model = h2o.load_model(model_path)
+        chunk = h2o.import_file(chunk_path)
+        contrib = model.predict_contributions(chunk)
+        return contrib
+
+    def compute_contributions_in_chunks_gpu_parallel(model, h2o_frame, chunk_size=20000, max_workers=4):
+        print("\n🔧 Compute Contributions in Chunks (Parallel with Threads)...")
+        backend = model.params.get("backend", {}).get("actual")
+        if backend != "gpu":
+            print("⚠️  Warnung: Modell wurde nicht mit 'backend=\"gpu\"' trainiert. GPU wird möglicherweise nicht genutzt!")
+
+        import tempfile
+        import os
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+        import h2o
+
+        all_contributions = []
+        n_rows = h2o_frame.nrows
+        n_chunks = (n_rows + chunk_size - 1) // chunk_size
+        print(f"📊 Eingeteilt in {n_chunks} Blöcke à {chunk_size} Zeilen")
+
+        # Speichern des Modells temporär für Threads
+        model_path = h2o.save_model(model=model, path=tempfile.gettempdir(), force=True)
+
+        # Speichern der Datenblöcke als CSV
+        chunk_paths = []
+        for idx, i in enumerate(range(0, n_rows, chunk_size), 1):
+            chunk = h2o_frame[i:i + chunk_size, :]
+            chunk_path = os.path.join(tempfile.gettempdir(), f"chunk_{idx}.csv")
+            h2o.download_csv(chunk, chunk_path)
+            chunk_paths.append(chunk_path)
+
+        # Parallele Ausführung mit Threads
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = [executor.submit(_compute_contributions_chunk, model_path, cp) for cp in chunk_paths]
+            for idx, future in enumerate(as_completed(futures), 1):
+                try:
+                    result = future.result()
+                    if result is None:
+                        print(f"⚠️  Block {idx} hat kein Ergebnis geliefert.")
+                        continue
+                    all_contributions.append(result)
+                    print(f"✅ Block {idx} fertig")
+                except Exception as e:
+                    print(f"❌ Fehler in Block {idx}: {e}")
+
+        # Zusammenführen
+        if not all_contributions:
+            return None
+
+        result = all_contributions[0]
+        for contrib in all_contributions[1:]:
+            result = result.rbind(contrib)
+
+        print(f"🎯 Fertig. Gesamtanzahl Zeilen: {result.nrows}")
+        return result
+
+    
+    ################################
 
     # determine SHAP values for model gbm
     #shap_values = gbm.predict(test, type="shap")
 
     # calculate SHAP values using function predict_contributions
-    contributions = best_gbm.predict_contributions(test_h2o)
+    #contributions = best_gbm.predict_contributions(test_h2o)
+    
+    # Berechne SHAP-Werte blockweise und parallelisiert
+    contributions = compute_contributions_in_chunks_gpu_parallel(best_gbm, test_h2o, chunk_size=20000, max_workers=6)
+
 
     # create dataframe from H2O test
     test_df = test_h2o.as_data_frame(use_pandas=True)

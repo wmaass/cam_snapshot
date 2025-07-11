@@ -1,0 +1,2442 @@
+,Feature,Rank,Median_Total_Costs,Original_Category,Count
+0,Hospital Service Area,1,6100.12,Southern Tier,23253
+1,Hospital Service Area,2,6626.285,Finger Lakes,153160
+2,Hospital Service Area,3,6771.04,Western NY,166915
+3,Hospital Service Area,4,6989.17,Central NY,158507
+4,Hospital Service Area,5,7259.055,Capital/Adirond,170192
+5,Hospital Service Area,6,9633.16,Long Island,348957
+6,Hospital Service Area,7,9679.630000000001,Hudson Valley,246884
+7,Hospital Service Area,8,10019.845,New York City,1070546
+8,Hospital County,1,3260.45,Wayne,6562
+9,Hospital County,2,3740.86,Chautauqua,10219
+10,Hospital County,3,3843.885,Livingston,2380
+11,Hospital County,4,3963.72,Genesee,4791
+12,Hospital County,5,4033.58,Orleans,375
+13,Hospital County,6,4239.1849999999995,Cayuga,5220
+14,Hospital County,7,4360.045,Allegany,2088
+15,Hospital County,8,4486.22,Yates,707
+16,Hospital County,9,4636.02,Steuben,5803
+17,Hospital County,10,4707.75,Wyoming,1765
+18,Hospital County,11,4709.15,Fulton,2861
+19,Hospital County,12,4752.145,Schuyler,496
+20,Hospital County,13,4938.34,Cattaraugus,6281
+21,Hospital County,14,5104.855,Cortland,3812
+22,Hospital County,15,5343.45,Ontario,11671
+23,Hospital County,16,5358.635,St Lawrence,10802
+24,Hospital County,17,5424.76,Oswego,4490
+25,Hospital County,18,5659.05,Sullivan,4495
+26,Hospital County,19,5682.7,Schoharie,465
+27,Hospital County,20,5781.01,Niagara,16081
+28,Hospital County,21,5829.57,Montgomery,6351
+29,Hospital County,22,5890.215,Rensselaer,10526
+30,Hospital County,23,5892.01,Tompkins,7058
+31,Hospital County,24,6010.08,Columbia,5070
+32,Hospital County,25,6050.89,Warren,13453
+33,Hospital County,26,6055.465,Broome,21922
+34,Hospital County,27,6095.950000000001,Herkimer,762
+35,Hospital County,28,6185.0,Jefferson,11359
+36,Hospital County,29,6248.94,Chemung,12797
+37,Hospital County,30,6288.5650000000005,Oneida,28832
+38,Hospital County,31,6465.29,Richmond,57351
+39,Hospital County,32,6531.145,Madison,4430
+40,Hospital County,33,7026.24,Putnam,7137
+41,Hospital County,34,7221.24,Dutchess,35064
+42,Hospital County,35,7270.795,Schenectady,22160
+43,Hospital County,36,7336.73,Chenango,1331
+44,Hospital County,37,7488.58,Otsego,12073
+45,Hospital County,38,7518.084999999999,Saratoga,10530
+46,Hospital County,39,7550.844999999999,Monroe,112744
+47,Hospital County,40,7707.12,Erie,125315
+48,Hospital County,41,7764.04,Albany,72655
+49,Hospital County,42,7943.51,Essex,407
+50,Hospital County,43,8128.28,Queens,201007
+51,Hospital County,44,8536.54,Rockland,31383
+52,Hospital County,45,8566.415,Onondaga,80466
+53,Hospital County,46,8900.05,Suffolk,164344
+54,Hospital County,47,9042.395,Kings,233512
+55,Hospital County,48,9085.84,Franklin,4223
+56,Hospital County,49,9115.439999999999,Lewis,1276
+57,Hospital County,50,9416.65,Bronx,182959
+58,Hospital County,51,10020.5,Orange,39334
+59,Hospital County,52,10261.465,Clinton,8862
+60,Hospital County,53,10315.69,Nassau,184613
+61,Hospital County,54,10945.02,Westchester,119302
+62,Hospital County,55,11304.32,Ulster,10169
+63,Hospital County,56,12067.365,Delaware,556
+64,Hospital County,57,13705.54,Manhattan,395717
+65,Facility Name,1,1761.975,Monroe Community Hospital,2
+66,Facility Name,2,2298.0,Ira Davenport Memorial Hospital Inc,345
+67,Facility Name,3,2762.55,SJRH - Park Care Pavilion,6962
+68,Facility Name,4,2944.91,Westfield Memorial Hospital Inc,15
+69,Facility Name,5,2984.93,Alice Hyde Medical Center,1817
+70,Facility Name,6,3245.41,The Burdett Care Center,1928
+71,Facility Name,7,3260.45,Newark-Wayne Community Hospital,6562
+72,Facility Name,8,3302.0,St James Mercy Hospital,800
+73,Facility Name,9,3307.7,TLC Health Network Lake Shore Hospital,721
+74,Facility Name,10,3617.4799999999996,Oswego Hospital - Alvin L Krakau Comm Mtl Health Center Div,778
+75,Facility Name,11,3694.835,UPMC Chautauqua at WCA,7536
+76,Facility Name,12,3772.72,United Memorial Medical Center North Street Campus,4347
+77,Facility Name,13,3800.75,Cohen Children's Medical Center,18889
+78,Facility Name,14,3843.885,Nicholas H Noyes Memorial Hospital,2380
+79,Facility Name,15,3960.73,Brooks Memorial Hospital,1947
+80,Facility Name,16,4014.09,Cuba Memorial Hospital Inc,19
+81,Facility Name,17,4028.465,Bertrand Chaffee Hospital,962
+82,Facility Name,18,4033.58,Medina Memorial Hospital,375
+83,Facility Name,19,4148.625,"Rome Memorial Hospital, Inc",3804
+84,Facility Name,20,4170.145,Our Lady of Lourdes Memorial Hospital Inc,4710
+85,Facility Name,21,4239.1849999999995,Auburn Community Hospital,5220
+86,Facility Name,22,4373.15,Memorial Hosp of Wm F & Gertrude F Jones A/K/A Jones Memorial Hosp,2069
+87,Facility Name,23,4453.924999999999,Staten Island University Hosp-South,9424
+88,Facility Name,24,4459.245000000001,Highland Hospital,18508
+89,Facility Name,25,4486.22,Soldiers and Sailors Memorial Hospital of Yates County Inc,707
+90,Facility Name,26,4520.94,Clifton Springs Hospital and Clinic,2341
+91,Facility Name,27,4642.325000000001,Sisters of Charity Hospital,14870
+92,Facility Name,28,4646.2,Flushing Hospital Medical Center,16542
+93,Facility Name,29,4707.75,Wyoming County Community Hospital,1765
+94,Facility Name,30,4709.15,Nathan Littauer Hospital,2861
+95,Facility Name,31,4752.145,Schuyler Hospital,496
+96,Facility Name,32,4778.575,Claxton-Hepburn Medical Center,3022
+97,Facility Name,33,4938.34,Olean General Hospital,6281
+98,Facility Name,34,4941.5599999999995,Eastern Niagara Hospital - Lockport Division,4170
+99,Facility Name,35,5014.014999999999,F F Thompson Hospital,5542
+100,Facility Name,36,5095.42,Niagara Falls Memorial Medical Center,5531
+101,Facility Name,37,5104.855,Cortland Regional Medical Center Inc,3812
+102,Facility Name,38,5193.120000000001,Corning Hospital,4658
+103,Facility Name,39,5212.35,Oneida Healthcare,2941
+104,Facility Name,40,5249.76,Eastern Long Island Hospital,2842
+105,Facility Name,41,5389.98,Aurelia Osborn Fox Memorial Hospital,1997
+106,Facility Name,42,5393.52,Crouse Hospital,20363
+107,Facility Name,43,5407.19,St. Joseph's Hospital,2155
+108,Facility Name,44,5424.64,Women And Children's Hospital Of Buffalo,12401
+109,Facility Name,45,5447.42,Faxton-St Lukes Healthcare St Lukes Division,15024
+110,Facility Name,46,5459.235000000001,Canton-Potsdam Hospital,5310
+111,Facility Name,47,5493.514999999999,Massena Memorial Hospital,2140
+112,Facility Name,48,5501.88,Albany Medical Center - South Clinical Campus,6
+113,Facility Name,49,5620.91,Catskill Regional Medical Center,4456
+114,Facility Name,50,5656.385,St. Mary's Healthcare,6180
+115,Facility Name,51,5665.030000000001,Carthage Area Hospital Inc,1274
+116,Facility Name,52,5681.12,Brooklyn Hospital Center - Downtown Campus,14057
+117,Facility Name,53,5682.7,Cobleskill Regional Hospital,465
+118,Facility Name,54,5830.55,SBH Health System,14805
+119,Facility Name,55,5867.98,Richmond University Medical Center,16619
+120,Facility Name,56,5886.15,Oswego Hospital,3712
+121,Facility Name,57,5892.01,Cayuga Medical Center at Ithaca,7058
+122,Facility Name,58,5919.04,Millard Fillmore Suburban Hospital,17449
+123,Facility Name,59,6001.25,Northern Dutchess Hospital,5850
+124,Facility Name,60,6010.08,Columbia Memorial Hospital,5070
+125,Facility Name,61,6050.89,Glens Falls Hospital,13453
+126,Facility Name,62,6095.950000000001,Little Falls Hospital,762
+127,Facility Name,63,6201.41,Jamaica Hospital Medical Center,21330
+128,Facility Name,64,6213.885,Ellenville Regional Hospital,310
+129,Facility Name,65,6213.95,Samaritan Medical Center,9979
+130,Facility Name,66,6217.280000000001,United Health Services Hospitals Inc. - Wilson Medical Center,12842
+131,Facility Name,67,6243.674999999999,Degraff Memorial Hospital,1214
+132,Facility Name,68,6267.15,St. Peter's Addiction Recovery Center,593
+133,Facility Name,69,6312.71,Nyack Hospital,12857
+134,Facility Name,70,6318.24,New York Eye and Ear Infirmary of Mount Sinai,307
+135,Facility Name,71,6332.17,Ellis Hospital - Bellevue Woman's Care Center Division,5076
+136,Facility Name,72,6469.835,United Memorial Medical Center Bank Street Campus,444
+137,Facility Name,73,6556.58,Arnot Ogden Medical Center,10642
+138,Facility Name,74,6561.005,Samaritan Hospital,8194
+139,Facility Name,75,6571.38,St Charles Hospital,10951
+140,Facility Name,76,6576.48,Redacted for Confidentiality,5155
+141,Facility Name,77,6644.34,Rochester General Hospital,33245
+142,Facility Name,78,6723.87,Mount Sinai Hospital - Mount Sinai Hospital of Queens,8743
+143,Facility Name,79,6899.855,St Joseph's Medical Center,3886
+144,Facility Name,80,6904.745,Albany Memorial Hospital,2494
+145,Facility Name,81,6946.870000000001,Lincoln Medical & Mental Health Center,21432
+146,Facility Name,82,6955.58,The Unity Hospital of Rochester-St Marys Campus,483
+147,Facility Name,83,7026.24,Putnam Hospital Center,7137
+148,Facility Name,84,7106.79,Geneva General Hospital,3788
+149,Facility Name,85,7203.17,Vassar Brothers Medical Center,23267
+150,Facility Name,86,7262.26,Good Samaritan Hospital Medical Center,26139
+151,Facility Name,87,7284.64,St Peters Hospital,28631
+152,Facility Name,88,7285.725,Mount St Marys Hospital and Health Center,5166
+153,Facility Name,89,7304.41,Ellis Hospital,14711
+154,Facility Name,90,7333.02,Staten Island University Hosp-North,30991
+155,Facility Name,91,7336.73,Chenango Memorial Hospital Inc,1331
+156,Facility Name,92,7379.62,RUMC-Bayley Seton,317
+157,Facility Name,93,7457.174999999999,St. Mary's Hospital,404
+158,Facility Name,94,7460.23,O'Connor Hospital,142
+159,Facility Name,95,7491.32,Maimonides Medical Center,40071
+160,Facility Name,96,7501.9,Mercy Hospital of Buffalo,21735
+161,Facility Name,97,7518.084999999999,Saratoga Hospital,10530
+162,Facility Name,98,7519.31,New York-Presbyterian/Lower Manhattan Hospital,12891
+163,Facility Name,99,7530.355,Long Island Jewish Forest Hills,15680
+164,Facility Name,100,7751.38,United Health Services Hospitals Inc. - Binghamton General Hospital,4370
+165,Facility Name,101,7814.75,St Josephs Hospital Health Center,26509
+166,Facility Name,102,7906.29,Brookhaven Memorial Hospital Medical Center Inc,12131
+167,Facility Name,103,7931.835,St Catherine of Siena Hospital,11040
+168,Facility Name,104,7939.0650000000005,The University of Vermont Health Network - Elizabethtown Community Hospital,396
+169,Facility Name,105,7983.95,Mount Sinai West,25473
+170,Facility Name,106,8076.43,"New York Community Hospital of Brooklyn, Inc",6704
+171,Facility Name,107,8085.48,Crouse Hospital - Commonwealth Division,723
+172,Facility Name,108,8195.15,Albany Medical Center Hospital,40931
+173,Facility Name,109,8239.58,Gouverneur Hospital,299
+174,Facility Name,110,8295.22,Mary Imogene Bassett Hospital,10076
+175,Facility Name,111,8298.185,Mount Sinai Brooklyn,9318
+176,Facility Name,112,8364.41,Catskill Regional Medical Center - G. Hermann Site,39
+177,Facility Name,113,8373.875,Wyckoff Heights Medical Center,13794
+178,Facility Name,114,8447.72,Clifton-Fine Hospital,31
+179,Facility Name,115,8458.625,Sisters of Charity Hospital - St Joseph Campus,4240
+180,Facility Name,116,8526.13,North Central Bronx Hospital,7375
+181,Facility Name,117,8574.53,South Nassau Communities Hospital,21901
+182,Facility Name,118,8601.005000000001,New York-Presbyterian/Lawrence Hospital,11618
+183,Facility Name,119,8607.36,New York - Presbyterian Brooklyn Methodist Hospital,36153
+184,Facility Name,120,8617.54,Interfaith Medical Center,8735
+185,Facility Name,121,8628.02,NewYork-Presbyterian/Hudson Valley Hospital,9263
+186,Facility Name,122,8659.33,St. Joseph Hospital,5972
+187,Facility Name,123,8661.494999999999,University Hospital - Stony Brook Southampton Hospital,4708
+188,Facility Name,124,8704.2,St Luke's Cornwall Hospital/Newburgh,10451
+189,Facility Name,125,8851.6,Long Island Jewish Valley Stream,8613
+190,Facility Name,126,8917.18,Bronx-Lebanon Hospital Center - Fulton Division,4131
+191,Facility Name,127,8948.6,Southside Hospital,22779
+192,Facility Name,128,9054.7,Metropolitan Hospital Center,10539
+193,Facility Name,129,9081.69,Strong Memorial Hospital,43275
+194,Facility Name,130,9100.49,New York Presbyterian Hospital - Allen Hospital,12115
+195,Facility Name,131,9115.439999999999,Lewis County General Hospital,1276
+196,Facility Name,132,9159.705,New York - Presbyterian/Queens,33474
+197,Facility Name,133,9202.435000000001,White Plains Hospital Center,17690
+198,Facility Name,134,9340.28,Erie County Medical Center,15837
+199,Facility Name,135,9345.66,Mercy Medical Center,10829
+200,Facility Name,136,9365.795,Huntington Hospital,16856
+201,Facility Name,137,9368.035,"River Hospital, Inc.",106
+202,Facility Name,138,9407.17,St Joseph's MC-St Vincents Westchester Division,3081
+203,Facility Name,139,9410.885,Good Samaritan Hospital of Suffern,16146
+204,Facility Name,140,9441.2,Kenmore Mercy Hospital,8163
+205,Facility Name,141,9444.96,SJRH - St Johns Division,9080
+206,Facility Name,142,9502.17,Elmhurst Hospital Center,20855
+207,Facility Name,143,9761.0,Woodhull Medical & Mental Health Center,11098
+208,Facility Name,144,9853.98,Jacobi Medical Center,19513
+209,Facility Name,145,9903.154999999999,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,29124
+210,Facility Name,146,9960.48,The Unity Hospital of Rochester,17231
+211,Facility Name,147,9985.380000000001,NYU Langone Hospital-Brooklyn,23954
+212,Facility Name,148,9986.42,Long Island Jewish Medical Center,43891
+213,Facility Name,149,10004.93,Orange Regional Medical Center,22911
+214,Facility Name,150,10008.665,St Johns Episcopal Hospital So Shore,7858
+215,Facility Name,151,10048.9,Moses-Ludington Hospital,11
+216,Facility Name,152,10065.06,Queens Hospital Center,13745
+217,Facility Name,153,10145.65,Montefiore Medical Center-Wakefield Hospital,15325
+218,Facility Name,154,10193.85,Lenox Hill Hospital,32546
+219,Facility Name,155,10211.98,St Elizabeth Medical Center,10004
+220,Facility Name,156,10229.33,Nassau University Medical Center,18488
+221,Facility Name,157,10261.465,The University of Vermont Health Network - Champlain Valley Physicians Hospital,8862
+222,Facility Name,158,10326.76,North Shore University Hospital,48316
+223,Facility Name,159,10330.06,Brookdale Hospital Medical Center,14133
+224,Facility Name,160,10337.115,Montefiore Medical Center - Henry & Lucy Moses Div,43092
+225,Facility Name,161,10397.785,Peconic Bay Medical Center,8558
+226,Facility Name,162,10426.62,Mid-Hudson Valley Division of Westchester Medical Center,5947
+227,Facility Name,163,10452.27,Kings County Hospital Center,21579
+228,Facility Name,164,10520.61,Plainview Hospital,8443
+229,Facility Name,165,10766.82,Community Memorial Hospital Inc,1489
+230,Facility Name,166,10814.11,Northern Westchester Hospital,9949
+231,Facility Name,167,10844.035,Bellevue Hospital Center,25886
+232,Facility Name,168,10909.735,John T Mather Memorial Hospital of Port Jefferson New York Inc,11842
+233,Facility Name,169,10956.58,UPSTATE University Hospital at Community General,8055
+234,Facility Name,170,11033.055,University Hospital,36498
+235,Facility Name,171,11066.66,Kingsbrook Jewish Medical Center,8503
+236,Facility Name,172,11218.49,Glen Cove Hospital,4643
+237,Facility Name,173,11258.1,HealthAlliance Hospital Broadway Campus,6957
+238,Facility Name,174,11297.57,Bronx-Lebanon Hospital Center - Concourse Division,25563
+239,Facility Name,175,11407.7,Mount Sinai Beth Israel,20115
+240,Facility Name,176,11411.675,Harlem Hospital Center,11850
+241,Facility Name,177,11622.765,Buffalo General Medical Center,24752
+242,Facility Name,178,11829.595000000001,NYU Winthrop Hospital,36702
+243,Facility Name,179,12042.77,University Hospital SUNY Health Science Center,24816
+244,Facility Name,180,12093.560000000001,Bon Secours Community Hospital,3542
+245,Facility Name,181,12129.37,Coney Island Hospital,14261
+246,Facility Name,182,12450.16,HealthAlliance Hospital Mary's Avenue Campus,2902
+247,Facility Name,183,12660.1,New York Presbyterian Hospital - Columbia Presbyterian Center,49079
+248,Facility Name,184,12726.27,Sunnyview Hospital and Rehabilitation Center,2373
+249,Facility Name,185,12985.75,Montefiore New Rochelle Hospital,6733
+250,Facility Name,186,13031.185000000001,St Francis Hospital,16894
+251,Facility Name,187,13053.535,St Anthony Community Hospital,2430
+252,Facility Name,188,13087.74,Margaretville Hospital,109
+253,Facility Name,189,13113.47,New York Presbyterian Hospital - Westchester Division,4371
+254,Facility Name,190,13214.91,St. Mary's Healthcare - Amsterdam Memorial Campus,171
+255,Facility Name,191,13568.22,Montefiore Mount Vernon Hospital,3031
+256,Facility Name,192,13699.435,Adirondack Medical Center-Saranac Lake Site,2406
+257,Facility Name,193,13877.02,Phelps Memorial Hospital Assn,8115
+258,Facility Name,194,14155.27,New York Presbyterian Hospital - New York Weill Cornell Center,46119
+259,Facility Name,195,14408.34,Mount Sinai Hospital,52335
+260,Facility Name,196,15141.265,Syosset Hospital,3812
+261,Facility Name,197,15243.88,Delaware Valley Hospital Inc,305
+262,Facility Name,198,15332.84,Calvary Hospital Inc,2599
+263,Facility Name,199,15533.565,Roswell Park Cancer Institute,4906
+264,Facility Name,200,15558.77,Mount Sinai St. Luke's,14102
+265,Facility Name,201,15643.029999999999,University Hospital of Brooklyn,11152
+266,Facility Name,202,16363.74,SJRH - Dobbs Ferry Pavillion,807
+267,Facility Name,203,16653.33,NYU Langone Hospitals,36547
+268,Facility Name,204,19077.41,Westchester Medical Center,21711
+269,Facility Name,205,20355.335,Helen Hayes Hospital,2380
+270,Facility Name,206,23617.775,Winifred Masterson Burke Rehabilitation Hospital,2420
+271,Facility Name,207,23902.13,Hospital for Special Surgery,15071
+272,Facility Name,208,24411.835,Memorial Sloan Kettering Memorial Hospital,23300
+273,Facility Name,209,30396.485,NYU Langone Orthopedic Hospital,7174
+274,Facility Name,210,37566.78,Blythedale Childrens Hospital,585
+275,Facility Name,211,130009.005,Henry J. Carter Specialty Hospital,268
+276,Age Group,1,3240.22,0 to 17,338345
+277,Age Group,2,7208.79,18 to 29,233886
+278,Age Group,3,8192.28,30 to 49,450134
+279,Age Group,4,11676.05,70 or Older,664780
+280,Age Group,5,11679.0,50 to 69,656424
+281,Zip Code,1,5182.24,147,17487
+282,Zip Code,2,6090.88,149,6162
+283,Zip Code,3,6092.83,148,24153
+284,Zip Code,4,6205.95,145,33309
+285,Zip Code,5,6241.25,139,7130
+286,Zip Code,6,6335.73,135,10189
+287,Zip Code,7,6611.0,122,19476
+288,Zip Code,8,6676.629999999999,144,29934
+289,Zip Code,9,6704.135,146,59046
+290,Zip Code,10,6706.9400000000005,137,11614
+291,Zip Code,11,6718.71,143,10055
+292,Zip Code,12,6828.97,136,26455
+293,Zip Code,13,6952.215,123,18868
+294,Zip Code,14,6967.6900000000005,130,39712
+295,Zip Code,15,7018.575000000001,121,30954
+296,Zip Code,16,7069.11,140,44203
+297,Zip Code,17,7075.44,120,36129
+298,Zip Code,18,7103.21,138,12170
+299,Zip Code,19,7168.805,142,66942
+300,Zip Code,20,7172.84,141,21662
+301,Zip Code,21,7195.475,131,18116
+302,Zip Code,22,7211.2,134,20837
+303,Zip Code,23,7245.790000000001,128,24312
+304,Zip Code,24,7306.82,103,62013
+305,Zip Code,25,7372.504999999999,132,27858
+306,Zip Code,26,7725.37,133,15619
+307,Zip Code,27,7795.675,126,10670
+308,Zip Code,28,8324.765,111,18920
+309,Zip Code,29,8975.55,125,46514
+310,Zip Code,30,9173.76,114,91975
+311,Zip Code,31,9197.09,113,119787
+312,Zip Code,32,9417.18,104,217951
+313,Zip Code,33,9422.58,129,14007
+314,Zip Code,34,9432.06,112,293867
+315,Zip Code,35,9571.18,117,188469
+316,Zip Code,36,9723.445,127,11774
+317,Zip Code,37,9849.3,119,34140
+318,Zip Code,38,9903.46,124,20111
+319,Zip Code,39,10015.03,109,58871
+320,Zip Code,40,10033.33,115,89023
+321,Zip Code,41,10051.36,116,17082
+322,Zip Code,42,10062.52,110,26278
+323,Zip Code,43,10071.65,107,29683
+324,Zip Code,44,10212.13,106,8895
+325,Zip Code,45,10768.965,118,8130
+326,Zip Code,46,11491.04,105,62234
+327,Zip Code,47,11598.075,100,160860
+328,Zip Code,48,11887.94,101,5521
+329,Zip Code,49,12771.99,108,8622
+330,Zip Code,50,14625.73,OOS,66761
+331,Gender,1,4065.29,U,75
+332,Gender,2,8654.884999999998,F,1296954
+333,Gender,3,9394.945,M,1046540
+334,Race,1,8742.76,Other Race,590915
+335,Race,2,8830.93,White,1317040
+336,Race,3,9441.83,Black/African American,411487
+337,Race,4,10073.01,Multi-racial,24127
+338,Ethnicity,1,8350.295,Unknown,141116
+339,Ethnicity,2,8534.7,Spanish/Hispanic,297871
+340,Ethnicity,3,9049.125,Not Span/Hispanic,1895664
+341,Ethnicity,4,9259.49,Multi-ethnic,8918
+342,Patient Disposition,1,4211.62,Left Against Medical Advice,50543
+343,Patient Disposition,2,4501.15,Admitted from Ambulatory Surgery,43
+344,Patient Disposition,3,7098.95,Another Type Not Listed,6875
+345,Patient Disposition,4,7317.93,Home or Self Care,1541447
+346,Patient Disposition,5,7562.87,Critical Access Hospital,125
+347,Patient Disposition,6,7797.09,Short-term Hospital,40573
+348,Patient Disposition,7,8330.619999999999,Psychiatric Hospital or Unit of Hosp,11986
+349,Patient Disposition,8,8847.15,Facility w/ Custodial/Supportive Care,6787
+350,Patient Disposition,9,9089.23,Court/Law Enforcement,4117
+351,Patient Disposition,10,10576.21,Hosp Basd Medicare Approved Swing Bed,1455
+352,Patient Disposition,11,10670.53,Federal Health Care Facility,747
+353,Patient Disposition,12,13547.630000000001,Cancer Center or Children's Hospital,1822
+354,Patient Disposition,13,14601.904999999999,Home w/ Home Health Services,337480
+355,Patient Disposition,14,15240.06,Hospice - Home,11376
+356,Patient Disposition,15,16457.385000000002,Skilled Nursing Home,222782
+357,Patient Disposition,16,16457.5,Medicaid Cert Nursing Facility,696
+358,Patient Disposition,17,17461.455,Hospice - Medical Facility,12614
+359,Patient Disposition,18,17885.45,Expired,49305
+360,Patient Disposition,19,22495.885000000002,Inpatient Rehabilitation Facility,40354
+361,Patient Disposition,20,24439.335,Medicare Cert Long Term Care Hospital,2442
+362,CCS Diagnosis Description,1,2152.31,Liveborn,219894
+363,CCS Diagnosis Description,2,2160.4,Medical examination/evaluation,77
+364,CCS Diagnosis Description,3,3288.475,Hemolytic jaundice and perinatal jaundice,2324
+365,CCS Diagnosis Description,4,3968.09,Adjustment disorders,3887
+366,CCS Diagnosis Description,5,4214.31,Administrative/social admission,93
+367,CCS Diagnosis Description,6,4638.03,Diabetes mellitus without complication,227
+368,CCS Diagnosis Description,7,4727.88,Substance-related disorders,36468
+369,CCS Diagnosis Description,8,5073.14,Other upper respiratory infections,5118
+370,CCS Diagnosis Description,9,5083.09,Acute and chronic tonsillitis,1935
+371,CCS Diagnosis Description,10,5193.05,Abdominal pain,5815
+372,CCS Diagnosis Description,11,5277.31,Allergic reactions,1601
+373,CCS Diagnosis Description,12,5383.68,Anxiety disorders,3253
+374,CCS Diagnosis Description,13,5407.22,Alcohol-related disorders,50957
+375,CCS Diagnosis Description,14,5443.74,Essential hypertension,1216
+376,CCS Diagnosis Description,15,5520.09,Nonspecific chest pain,21603
+377,CCS Diagnosis Description,16,5659.315,Spontaneous abortion,1358
+378,CCS Diagnosis Description,17,5659.705,Headache; including migraine,4514
+379,CCS Diagnosis Description,18,5750.0599999999995,Conditions associated with dizziness or vertigo,5224
+380,CCS Diagnosis Description,19,5774.095,Blindness and vision defects,410
+381,CCS Diagnosis Description,20,5775.49,Screening and history of mental health and substance abuse codes,3
+382,CCS Diagnosis Description,21,5850.99,Other pregnancy and delivery including normal,6756
+383,CCS Diagnosis Description,22,5868.29,Nausea and vomiting,1941
+384,CCS Diagnosis Description,23,5935.01,Noninfectious gastroenteritis,8680
+385,CCS Diagnosis Description,24,5945.76,OB-related trauma to perineum and vulva,18911
+386,CCS Diagnosis Description,25,5973.02,Induced abortion,365
+387,CCS Diagnosis Description,26,5979.01,Umbilical cord complication,7739
+388,CCS Diagnosis Description,27,6016.105,Early or threatened labor,9540
+389,CCS Diagnosis Description,28,6058.3150000000005,Otitis media and related conditions,792
+390,CCS Diagnosis Description,29,6082.57,Developmental disorders,119
+391,CCS Diagnosis Description,30,6166.495000000001,Birth trauma,26
+392,CCS Diagnosis Description,31,6217.17,Transient cerebral ischemia,8202
+393,CCS Diagnosis Description,32,6246.43,Acute bronchitis,9685
+394,CCS Diagnosis Description,33,6320.385,Other ear and sense organ disorders,620
+395,CCS Diagnosis Description,34,6343.69,Fluid and electrolyte disorders,23765
+396,CCS Diagnosis Description,35,6344.969999999999,Viral infection,5024
+397,CCS Diagnosis Description,36,6388.5,Asthma,19819
+398,CCS Diagnosis Description,37,6430.87,Other screening for suspected conditions (not mental disorders or infectious disease),1307
+399,CCS Diagnosis Description,38,6446.86,Poisoning by nonmedicinal substances,1039
+400,CCS Diagnosis Description,39,6480.65,"Impulse control disorders, NEC",1091
+401,CCS Diagnosis Description,40,6487.33,Personality disorders,1533
+402,CCS Diagnosis Description,41,6579.41,Superficial injury; contusion,2717
+403,CCS Diagnosis Description,42,6597.275,Syncope,14784
+404,CCS Diagnosis Description,43,6615.46,Female infertility,11
+405,CCS Diagnosis Description,44,6675.16,Other complications of pregnancy,23159
+406,CCS Diagnosis Description,45,6677.325,Fever of unknown origin,2860
+407,CCS Diagnosis Description,46,6709.42,Intestinal infection,13053
+408,CCS Diagnosis Description,47,6718.62,Poisoning by psychotropic agents,1467
+409,CCS Diagnosis Description,48,6787.04,Genitourinary symptoms and ill-defined conditions,2222
+410,CCS Diagnosis Description,49,6794.93,Contraceptive and procreative management,32
+411,CCS Diagnosis Description,50,6834.06,Prolonged pregnancy,30873
+412,CCS Diagnosis Description,51,6891.32,Suicide and intentional self-inflicted injury,5383
+413,CCS Diagnosis Description,52,6892.610000000001,Other complications of birth; puerperium affecting management of mother,43138
+414,CCS Diagnosis Description,53,6950.49,"Disorders usually diagnosed in infancy, childhood, or adolescence",537
+415,CCS Diagnosis Description,54,6980.375,Skin and subcutaneous tissue infections,36750
+416,CCS Diagnosis Description,55,7064.715,Other infections; including parasitic,1370
+417,CCS Diagnosis Description,56,7084.36,Inflammatory diseases of female pelvic organs,1835
+418,CCS Diagnosis Description,57,7099.075,Immunizations and screening for infectious disease,96
+419,CCS Diagnosis Description,58,7156.445,Fetal distress and abnormal forces of labor,9080
+420,CCS Diagnosis Description,59,7204.51,Epilepsy; convulsions,26715
+421,CCS Diagnosis Description,60,7274.465,Other injuries and conditions due to external causes,6200
+422,CCS Diagnosis Description,61,7277.9349999999995,Diabetes or abnormal glucose tolerance complicating pregnancy; childbirth; or the puerperium,7808
+423,CCS Diagnosis Description,62,7280.08,Hemorrhoids,1805
+424,CCS Diagnosis Description,63,7280.67,Other perinatal conditions,3433
+425,CCS Diagnosis Description,64,7288.82,Influenza,6503
+426,CCS Diagnosis Description,65,7346.87,Diseases of mouth; excluding dental,1455
+427,CCS Diagnosis Description,66,7374.6,Open wounds of head; neck; and trunk,2376
+428,CCS Diagnosis Description,67,7383.89,Fetopelvic disproportion; obstruction,1375
+429,CCS Diagnosis Description,68,7387.72,Poisoning by other medications and drugs,4528
+430,CCS Diagnosis Description,69,7511.56,E Codes: Adverse effects of medical drugs,435
+431,CCS Diagnosis Description,70,7526.01,Cataract,22
+432,CCS Diagnosis Description,71,7530.575,Urinary tract infections,31656
+433,CCS Diagnosis Description,72,7541.36,Gastritis and duodenitis,5040
+434,CCS Diagnosis Description,73,7602.805,Other circulatory disease,6346
+435,CCS Diagnosis Description,74,7605.565,Glaucoma,96
+436,CCS Diagnosis Description,75,7635.95,Pancreatic disorders (not diabetes),16763
+437,CCS Diagnosis Description,76,7674.0650000000005,Polyhydramnios and other problems of amniotic cavity,29394
+438,CCS Diagnosis Description,77,7717.8,Gout and other crystal arthropathies,1821
+439,CCS Diagnosis Description,78,7727.78,Ectopic pregnancy,1301
+440,CCS Diagnosis Description,79,7755.57,Menstrual disorders,765
+441,CCS Diagnosis Description,80,7777.2,Open wounds of extremities,2171
+442,CCS Diagnosis Description,81,7788.66,Retinal detachments; defects; vascular occlusion; and retinopathy,358
+443,CCS Diagnosis Description,82,7802.11,Inflammatory conditions of male genital organs,1723
+444,CCS Diagnosis Description,83,7807.31,Hemorrhage during pregnancy; abruptio placenta; placenta previa,3175
+445,CCS Diagnosis Description,84,7854.25,Mood disorders,54465
+446,CCS Diagnosis Description,85,7880.62,Deficiency and other anemia,11491
+447,CCS Diagnosis Description,86,7882.03,Lymphadenitis,1003
+448,CCS Diagnosis Description,87,7939.02,Ovarian cyst,1198
+449,CCS Diagnosis Description,88,7943.99,Other eye disorders,643
+450,CCS Diagnosis Description,89,8029.385,Other skin disorders,1066
+451,CCS Diagnosis Description,90,8077.74,Forceps delivery,23
+452,CCS Diagnosis Description,91,8097.13,Other diseases of kidney and ureters,8505
+453,CCS Diagnosis Description,92,8147.115,Acute posthemorrhagic anemia,3358
+454,CCS Diagnosis Description,93,8158.42,Residual codes; unclassified,7111
+455,CCS Diagnosis Description,94,8180.41,Chronic obstructive pulmonary disease and bronchiectasis,45325
+456,CCS Diagnosis Description,95,8188.62,Calculus of urinary tract,3386
+457,CCS Diagnosis Description,96,8213.705,Intestinal obstruction without hernia,18796
+458,CCS Diagnosis Description,97,8219.65,Other connective tissue disease,8803
+459,CCS Diagnosis Description,98,8224.240000000002,Nonmalignant breast conditions,1236
+460,CCS Diagnosis Description,99,8247.21,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),38175
+461,CCS Diagnosis Description,100,8295.295,Postabortion complications,38
+462,CCS Diagnosis Description,101,8349.18,Other non-traumatic joint disorders,2599
+463,CCS Diagnosis Description,102,8407.1,Esophageal disorders,6947
+464,CCS Diagnosis Description,103,8425.98,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),1095
+465,CCS Diagnosis Description,104,8479.5,Thyroid disorders,2044
+466,CCS Diagnosis Description,105,8481.67,Other male genital disorders,793
+467,CCS Diagnosis Description,106,8526.8,Previous C-section,26557
+468,CCS Diagnosis Description,107,8547.455,Hypertension complicating pregnancy; childbirth and the puerperium,16252
+469,CCS Diagnosis Description,108,8634.61,Malposition; malpresentation,7734
+470,CCS Diagnosis Description,109,8664.1,Hyperplasia of prostate,2603
+471,CCS Diagnosis Description,110,8690.27,Anal and rectal conditions,2869
+472,CCS Diagnosis Description,111,8720.145,Other lower respiratory disease,7058
+473,CCS Diagnosis Description,112,8720.97,Other upper respiratory disease,2672
+474,CCS Diagnosis Description,113,8816.14,Other inflammatory condition of skin,973
+475,CCS Diagnosis Description,114,8864.16,Cardiac dysrhythmias,41981
+476,CCS Diagnosis Description,115,8899.17,Appendicitis and other appendiceal conditions,14351
+477,CCS Diagnosis Description,116,8911.41,Sickle cell anemia,9237
+478,CCS Diagnosis Description,117,8922.48,Sprains and strains,1558
+479,CCS Diagnosis Description,118,8965.81,Diverticulosis and diverticulitis,18925
+480,CCS Diagnosis Description,119,9039.34,Menopausal disorders,285
+481,CCS Diagnosis Description,120,9071.4,Phlebitis; thrombophlebitis and thromboembolism,7201
+482,CCS Diagnosis Description,121,9167.654999999999,Acute and unspecified renal failure,26728
+483,CCS Diagnosis Description,122,9234.95,Other female genital disorders,2259
+484,CCS Diagnosis Description,123,9355.21,Varicose veins of lower extremity,562
+485,CCS Diagnosis Description,124,9416.01,"Attention-deficit, conduct, and disruptive behavior disorders",1303
+486,CCS Diagnosis Description,125,9424.21,Meningitis (except that caused by tuberculosis or sexually transmitted disease),1511
+487,CCS Diagnosis Description,126,9425.345000000001,Multiple sclerosis,1908
+488,CCS Diagnosis Description,127,9498.7,Osteoporosis,21
+489,CCS Diagnosis Description,128,9531.2,Pulmonary heart disease,11161
+490,CCS Diagnosis Description,129,9544.5,Other fractures,14701
+491,CCS Diagnosis Description,130,9654.235,Regional enteritis and ulcerative colitis,6952
+492,CCS Diagnosis Description,131,9704.564999999999,Disorders of teeth and jaw,2088
+493,CCS Diagnosis Description,132,9799.87,Disorders of lipid metabolism,113
+494,CCS Diagnosis Description,133,9822.19,Other hereditary and degenerative nervous system conditions,1665
+495,CCS Diagnosis Description,134,9828.28,Congestive heart failure; nonhypertensive,12083
+496,CCS Diagnosis Description,135,9861.61,Diabetes mellitus with complications,40891
+497,CCS Diagnosis Description,136,9909.95,Other endocrine disorders,3822
+498,CCS Diagnosis Description,137,9911.37,Hepatitis,1063
+499,CCS Diagnosis Description,138,9972.89,Gastrointestinal hemorrhage,21900
+500,CCS Diagnosis Description,139,10012.255000000001,Endometriosis,1046
+501,CCS Diagnosis Description,140,10216.81,Malaise and fatigue,4093
+502,CCS Diagnosis Description,141,10291.53,Other gastrointestinal disorders,13629
+503,CCS Diagnosis Description,142,10415.865,Other diseases of veins and lymphatics,1634
+504,CCS Diagnosis Description,143,10422.23,Miscellaneous disorders,1919
+505,CCS Diagnosis Description,144,10502.779999999999,Skull and face fractures,3846
+506,CCS Diagnosis Description,145,10510.35,Benign neoplasm of uterus,8127
+507,CCS Diagnosis Description,146,10524.32,Occlusion or stenosis of precerebral arteries,4666
+508,CCS Diagnosis Description,147,10547.44,Hypertension with complications and secondary hypertension,73867
+509,CCS Diagnosis Description,148,10668.455,"Delirium, dementia, and amnestic and other cognitive disorders",7404
+510,CCS Diagnosis Description,149,10677.79,Prolapse of female genital organs,1703
+511,CCS Diagnosis Description,150,10778.435000000001,Other nutritional; endocrine; and metabolic disorders,26266
+512,CCS Diagnosis Description,151,10791.845,Cancer of thyroid,1088
+513,CCS Diagnosis Description,152,10835.34,Gastroduodenal ulcer (except hemorrhage),2135
+514,CCS Diagnosis Description,153,10844.06,Other and ill-defined heart disease,638
+515,CCS Diagnosis Description,154,10980.955,Bacterial infection; unspecified site,1814
+516,CCS Diagnosis Description,155,11085.08,Biliary tract disease,24004
+517,CCS Diagnosis Description,156,11122.27,Other nervous system disorders,21287
+518,CCS Diagnosis Description,157,11197.47,Fracture of upper limb,8123
+519,CCS Diagnosis Description,158,11207.24,Coagulation and hemorrhagic disorders,3339
+520,CCS Diagnosis Description,159,11388.91,Other hematologic conditions,365
+521,CCS Diagnosis Description,160,11392.62,Lung disease due to external agents,445
+522,CCS Diagnosis Description,161,11499.6,Diseases of white blood cells,3729
+523,CCS Diagnosis Description,162,11521.36,Mycoses,929
+524,CCS Diagnosis Description,163,11563.46,Other liver diseases,7147
+525,CCS Diagnosis Description,164,11567.36,Sexually transmitted infections (not HIV or hepatitis),350
+526,CCS Diagnosis Description,165,11591.1,Aspiration pneumonitis; food/vomitus,8441
+527,CCS Diagnosis Description,166,11646.8,Genitourinary congenital anomalies,603
+528,CCS Diagnosis Description,167,11871.32,Parkinson`s disease,1903
+529,CCS Diagnosis Description,168,11879.22,Other disorders of stomach and duodenum,3067
+530,CCS Diagnosis Description,169,11879.9,Digestive congenital anomalies,948
+531,CCS Diagnosis Description,170,11997.34,Schizophrenia and other psychotic disorders,41928
+532,CCS Diagnosis Description,171,12029.62,Other diseases of bladder and urethra,1143
+533,CCS Diagnosis Description,172,12147.185,Nephritis; nephrosis; renal sclerosis,896
+534,CCS Diagnosis Description,173,12240.91,Intracranial injury,12645
+535,CCS Diagnosis Description,174,12261.41,Pleurisy; pneumothorax; pulmonary collapse,5983
+536,CCS Diagnosis Description,175,12345.35,Complications of surgical procedures or medical care,32259
+537,CCS Diagnosis Description,176,12376.875,Abdominal hernia,11676
+538,CCS Diagnosis Description,177,12381.23,Crushing injury or internal injury,4367
+539,CCS Diagnosis Description,178,12599.880000000001,Immunity disorders,654
+540,CCS Diagnosis Description,179,12606.11,Peritonitis and intestinal abscess,1247
+541,CCS Diagnosis Description,180,12675.85,Rheumatoid arthritis and related disease,894
+542,CCS Diagnosis Description,181,12818.705,Cancer of cervix,684
+543,CCS Diagnosis Description,182,12826.47,Chronic kidney disease,549
+544,CCS Diagnosis Description,183,13000.935000000001,Neoplasms of unspecified nature or uncertain behavior,2760
+545,CCS Diagnosis Description,184,13180.77,Systemic lupus erythematosus and connective tissue disorders,2371
+546,CCS Diagnosis Description,185,13243.33,Cancer of other female genital organs,435
+547,CCS Diagnosis Description,186,13412.43,Burns,2228
+548,CCS Diagnosis Description,187,13428.72,Nutritional deficiencies,895
+549,CCS Diagnosis Description,188,13616.835,Respiratory failure; insufficiency; arrest (adult),22176
+550,CCS Diagnosis Description,189,13739.83,Chronic ulcer of skin,2737
+551,CCS Diagnosis Description,190,13816.64,Cancer of prostate,4648
+552,CCS Diagnosis Description,191,13880.57,Maintenance chemotherapy; radiotherapy,9707
+553,CCS Diagnosis Description,192,14152.51,Acquired foot deformities,307
+554,CCS Diagnosis Description,193,14297.18,Cardiac arrest and ventricular fibrillation,1583
+555,CCS Diagnosis Description,194,14336.67,Cancer of uterus,2108
+556,CCS Diagnosis Description,195,14375.715,Acute cerebrovascular disease,37068
+557,CCS Diagnosis Description,196,14402.74,Septicemia (except in labor),117175
+558,CCS Diagnosis Description,197,14462.23,Melanomas of skin,175
+559,CCS Diagnosis Description,198,14547.845000000001,Shock,300
+560,CCS Diagnosis Description,199,14742.470000000001,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),5538
+561,CCS Diagnosis Description,200,14847.07,Joint disorders and dislocations; trauma-related,1497
+562,CCS Diagnosis Description,201,15138.93,Cancer of other male genital organs,82
+563,CCS Diagnosis Description,202,15264.115,Peripheral and visceral atherosclerosis,7014
+564,CCS Diagnosis Description,203,15324.630000000001,Coronary atherosclerosis and other heart disease,29906
+565,CCS Diagnosis Description,204,15445.96,Fracture of lower limb,13703
+566,CCS Diagnosis Description,205,15623.650000000001,Acute myocardial infarction,35032
+567,CCS Diagnosis Description,206,15682.32,Other non-epithelial cancer of skin,423
+568,CCS Diagnosis Description,207,15906.23,Other congenital anomalies,2081
+569,CCS Diagnosis Description,208,16117.95,Cancer of breast,4854
+570,CCS Diagnosis Description,209,16158.045,Cancer of kidney and renal pelvis,3356
+571,CCS Diagnosis Description,210,16359.134999999998,Cancer of ovary,1692
+572,CCS Diagnosis Description,211,16392.46,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),4753
+573,CCS Diagnosis Description,212,16431.46,HIV infection,2611
+574,CCS Diagnosis Description,213,17076.23,Cancer of other urinary organs,285
+575,CCS Diagnosis Description,214,17108.72,Other bone disease and musculoskeletal deformities,3209
+576,CCS Diagnosis Description,215,17185.82,Other and unspecified benign neoplasm,8109
+577,CCS Diagnosis Description,216,17375.08,Complication of device; implant or graft,36630
+578,CCS Diagnosis Description,217,17561.97,Spondylosis; intervertebral disc disorders; other back problems,34686
+579,CCS Diagnosis Description,218,17777.11,Osteoarthritis,70865
+580,CCS Diagnosis Description,219,17941.684999999998,Conduction disorders,5096
+581,CCS Diagnosis Description,220,18395.95,Fracture of neck of femur (hip),17338
+582,CCS Diagnosis Description,221,18995.83,Other aftercare,9266
+583,CCS Diagnosis Description,222,19235.114999999998,Cancer of bladder,2260
+584,CCS Diagnosis Description,223,19327.230000000003,Secondary malignancies,15852
+585,CCS Diagnosis Description,224,19386.96,Pathological fracture,3332
+586,CCS Diagnosis Description,225,19469.19,Nervous system congenital anomalies,597
+587,CCS Diagnosis Description,226,19558.835,Cancer of bronchus; lung,9558
+588,CCS Diagnosis Description,227,19794.25,Rehabilitation care; fitting of prostheses; and adjustment of devices,71
+589,CCS Diagnosis Description,228,19872.66,Cancer of colon,5951
+590,CCS Diagnosis Description,229,20084.2,Aortic and peripheral arterial embolism or thrombosis,1259
+591,CCS Diagnosis Description,230,20157.67,Cancer of pancreas,2989
+592,CCS Diagnosis Description,231,20432.39,Malignant neoplasm without specification of site,903
+593,CCS Diagnosis Description,232,20675.105,Cancer of liver and intrahepatic bile duct,2264
+594,CCS Diagnosis Description,233,20885.425000000003,Paralysis,1122
+595,CCS Diagnosis Description,234,21170.61,Cystic fibrosis,715
+596,CCS Diagnosis Description,235,21648.805,Late effects of cerebrovascular disease,8276
+597,CCS Diagnosis Description,236,22279.21,Cancer; other respiratory and intrathoracic,205
+598,CCS Diagnosis Description,237,22982.87,Coma; stupor; and brain damage,361
+599,CCS Diagnosis Description,238,23297.055,Cancer of bone and connective tissue,1170
+600,CCS Diagnosis Description,239,23417.1,Cancer of esophagus,937
+601,CCS Diagnosis Description,240,23503.305,Cancer of rectum and anus,2454
+602,CCS Diagnosis Description,241,23648.16,Cancer of other GI organs; peritoneum,1569
+603,CCS Diagnosis Description,242,24128.38,Cancer of stomach,2293
+604,CCS Diagnosis Description,243,24296.48,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),817
+605,CCS Diagnosis Description,244,24473.63,Hodgkin`s disease,317
+606,CCS Diagnosis Description,245,24626.35,Cancer; other and unspecified primary,700
+607,CCS Diagnosis Description,246,24638.27,Cancer of head and neck,2322
+608,CCS Diagnosis Description,247,25329.300000000003,Gangrene,1678
+609,CCS Diagnosis Description,248,25527.995000000003,Cancer of testis,124
+610,CCS Diagnosis Description,249,27242.87,Cancer of brain and nervous system,2903
+611,CCS Diagnosis Description,250,27376.78,Intrauterine hypoxia and birth asphyxia,132
+612,CCS Diagnosis Description,251,27457.9,Non-Hodgkin`s lymphoma,2986
+613,CCS Diagnosis Description,252,27532.114999999998,Other and ill-defined cerebrovascular disease,2114
+614,CCS Diagnosis Description,253,28987.57,Other CNS infection and poliomyelitis,533
+615,CCS Diagnosis Description,254,33002.49,Cardiac and circulatory congenital anomalies,3035
+616,CCS Diagnosis Description,255,33104.31,Other acquired deformities,4488
+617,CCS Diagnosis Description,256,34028.4,Short gestation; low birth weight; and fetal growth retardation,425
+618,CCS Diagnosis Description,257,35003.325,Aortic; peripheral; and visceral artery aneurysms,5316
+619,CCS Diagnosis Description,258,35109.41,Spinal cord injury,642
+620,CCS Diagnosis Description,259,36244.21,Tuberculosis,517
+621,CCS Diagnosis Description,260,40957.009999999995,Respiratory distress syndrome,220
+622,CCS Diagnosis Description,261,43964.745,Multiple myeloma,1934
+623,CCS Diagnosis Description,262,44037.075,Leukemias,3290
+624,CCS Diagnosis Description,263,51954.2,Heart valve disorders,12110
+625,CCS Procedure Description,1,1537.3249999999998,OPHTHALM-/OT-OLOGIC DX,35564
+626,CCS Procedure Description,2,2170.68,CIRCUMCISION,45615
+627,CCS Procedure Description,3,2274.13,PROPHYLACTIC VAC/INOCUL,67632
+628,CCS Procedure Description,4,4435.264999999999,ALCO/DRUG REHAB/DETOX,59238
+629,CCS Procedure Description,5,4718.7,FETAL MONITORING,4457
+630,CCS Procedure Description,6,5654.335,ELECTROGR CARDIAC MONIT,4652
+631,CCS Procedure Description,7,5865.965,OT THER OBSTETRICAL PRC,634
+632,CCS Procedure Description,8,5983.95,OT NON-OR THER PRC NOSE,2197
+633,CCS Procedure Description,9,6014.334999999999,ART RUPT MEMB ASSIS DLV,1610
+634,CCS Procedure Description,10,6023.305,NO PROC,695044
+635,CCS Procedure Description,11,6269.08,D&C; ASPIR AFT DLV/ABOR,1728
+636,CCS Procedure Description,12,6359.52,OT PRCS TO ASSIST DELIV,118794
+637,CCS Procedure Description,13,6504.395,TONSIL-/ADENOID-ECTOMY,1036
+638,CCS Procedure Description,14,6608.04,VARI VEIN STRIP;LOW LMB,8
+639,CCS Procedure Description,15,6625.04,REPAIR RETINAL TEAR,21
+640,CCS Procedure Description,16,6650.0650000000005,SUTURE SKIN/SUBCUT TISS,10446
+641,CCS Procedure Description,17,6683.33,ABORTION (TERM OF PREG),475
+642,CCS Procedure Description,18,6804.1,FORCEP;VAC;BREACH DELIV,6739
+643,CCS Procedure Description,19,6841.23,OT NON-OR THER PRC; FEM,2829
+644,CCS Procedure Description,20,6944.65,DX AMNIOCENTESIS,25
+645,CCS Procedure Description,21,7086.95,ARTERIAL BLOOD GASES,307
+646,CCS Procedure Description,22,7113.43,LOWER GI X-RAY,27
+647,CCS Procedure Description,23,7115.514999999999,EPISIOTOMY,1536
+648,CCS Procedure Description,24,7392.76,CT SCAN ABDOMEN,6916
+649,CCS Procedure Description,25,7463.4,TYMPANOPLASTY,5
+650,CCS Procedure Description,26,7552.91,CT SCAN CHEST,1106
+651,CCS Procedure Description,27,7567.66,"OT DX PRC (INTERVW,EVAL",8284
+652,CCS Procedure Description,28,7572.13,OT OR THER PRC; FEM ORG,2249
+653,CCS Procedure Description,29,7608.67,OT THER PRCS ON MUSCLES,10275
+654,CCS Procedure Description,30,7624.215,MAMMOGRAPHY,2
+655,CCS Procedure Description,31,7667.675,NASOGASTRIC TUBE,5556
+656,CCS Procedure Description,32,7843.68,DX ULTRASOUND AB/RETRO,1251
+657,CCS Procedure Description,33,8001.53,ROUTINE CHEST X-RAY,3668
+658,CCS Procedure Description,34,8115.55,CONTROL OF EPISTAXIS,635
+659,CCS Procedure Description,35,8207.56,PERITONEAL DIALYSIS,722
+660,CCS Procedure Description,36,8273.265,OT NON-OR THER PRC RESP,23866
+661,CCS Procedure Description,37,8341.595000000001,OTHER THERAPEUTIC PRCS,96242
+662,CCS Procedure Description,38,8388.755000000001,RMVL ECTOPIC PREGNANCY,468
+663,CCS Procedure Description,39,8392.89,"TRACTN, SPLNT, OT WOUND",2951
+664,CCS Procedure Description,40,8407.875,NONOP RMVL FOREIGN BODY,1594
+665,CCS Procedure Description,41,8461.72,CARDIAC STRESS TESTS,2397
+666,CCS Procedure Description,42,8471.98,COMP AXIAL TOMOGR (CT),9847
+667,CCS Procedure Description,43,8577.025000000001,DX ULTRASOUND OF GI,190
+668,CCS Procedure Description,44,8608.1,OTHER RADIOISOTOPE SCAN,594
+669,CCS Procedure Description,45,8732.66,REPAIR CYST-/RECT-OCELE,31
+670,CCS Procedure Description,46,8734.675,ELECTROENCEPHALOGRAM,17160
+671,CCS Procedure Description,47,8748.11,ORAL AND DENTAL SVCS,708
+672,CCS Procedure Description,48,8825.425,CONV OF CARDIAC RHYTHM,4742
+673,CCS Procedure Description,49,8932.0,DX ULTRASOUND HEAD/NECK,309
+674,CCS Procedure Description,50,9031.06,"INCIS/DRAIN, SKIN/SUBCU",9081
+675,CCS Procedure Description,51,9077.75,RADIOISOTOPE PULM SCAN,197
+676,CCS Procedure Description,52,9085.7,EXTRACORP LTIHO;URINARY,471
+677,CCS Procedure Description,53,9158.91,OTHER CT SCAN,3063
+678,CCS Procedure Description,54,9165.8,APPENDECTOMY,12614
+679,CCS Procedure Description,55,9177.2,DX ULTRASOUND URINARY,897
+680,CCS Procedure Description,56,9188.58,UPPER GI X-RAY,349
+681,CCS Procedure Description,57,9199.73,LIG/OCCL FALLOPIAN TUBE,48
+682,CCS Procedure Description,58,9228.555,ELECTROCARDIOGRAM,6216
+683,CCS Procedure Description,59,9232.28,"INJ/ASP MUSC,TENDONS,ST",1903
+684,CCS Procedure Description,60,9270.09,GENI INCONTINENCE PRCS,3
+685,CCS Procedure Description,61,9282.92,HEMORRHOID PRCS,189
+686,CCS Procedure Description,62,9299.37,TRANS RES PROSTATE-TURP,2119
+687,CCS Procedure Description,63,9422.849999999999,URETERAL CATHETERIZATN,5610
+688,CCS Procedure Description,64,9503.35,RADIOISOTOPE SCAN/FUNCT,5
+689,CCS Procedure Description,65,9558.56,INTRAVENOUS PYELOGRAM,573
+690,CCS Procedure Description,66,9562.765,LENS & CATARACT PRCS,68
+691,CCS Procedure Description,67,9602.12,OT OPER FALLOPIAN TUBES,1875
+692,CCS Procedure Description,68,9774.09,THYROIDECTOMY;PART/FULL,1742
+693,CCS Procedure Description,69,9782.14,OTHER DX ULTRASOUND,2168
+694,CCS Procedure Description,70,9805.665,OT OPERATIONS ON OVARY,826
+695,CCS Procedure Description,71,9831.91,DX PRCS ON NOSE & MOUTH,2301
+696,CCS Procedure Description,72,9969.35,MYRINGOTOMY,171
+697,CCS Procedure Description,73,10034.44,CESAREAN SECTION,73357
+698,CCS Procedure Description,74,10055.57,OT NON-OR THER PRCS; M,487
+699,CCS Procedure Description,75,10096.55,TRANSURETHRAL EXCISION,4025
+700,CCS Procedure Description,76,10260.51,MAG RESONANCE IMAGING,5239
+701,CCS Procedure Description,77,10261.78,OT THER PRCS EYELIDS,2271
+702,CCS Procedure Description,78,10265.68,BLOOD TRANSFUSION,59154
+703,CCS Procedure Description,79,10323.63,OTHER OR THER PRCS NOSE,2829
+704,CCS Procedure Description,80,10362.415,INS CATHETER/SPNL STIM,1386
+705,CCS Procedure Description,81,10404.96,OT INTRAOCULAR THER PRC,141
+706,CCS Procedure Description,82,10507.32,GLAUCOMA PROCEDURES,73
+707,CCS Procedure Description,83,10533.98,DX DILAT/CURETTAGE -D&C,521
+708,CCS Procedure Description,84,10561.01,HEMODIALYSIS,25239
+709,CCS Procedure Description,85,10582.16,ARTHROSCOPY,24
+710,CCS Procedure Description,86,10615.51,PSYCHO/PSYCHI EVAL/THER,51097
+711,CCS Procedure Description,87,10656.15,INDWELLING CATHETER,4875
+712,CCS Procedure Description,88,10778.06,ARTHROCENTESIS,1240
+713,CCS Procedure Description,89,10880.689999999999,OT NON-OR THER PRC MUSC,1838
+714,CCS Procedure Description,90,10903.46,DX PRCS ON EYE,79
+715,CCS Procedure Description,91,10983.79,OT EXC CERVIX & UTERUS,2463
+716,CCS Procedure Description,92,11003.415,UP GASTRO ENDOSC/BIOPSY,28864
+717,CCS Procedure Description,93,11013.9,DX ULTRASOUND HEART,27515
+718,CCS Procedure Description,94,11044.57,GASTRECTOMY; PART/TOTAL,15170
+719,CCS Procedure Description,95,11059.56,INGUINAL/FEMORAL HERNIA,2110
+720,CCS Procedure Description,96,11115.84,HYSTERECTOMY; AB/VAG,10669
+721,CCS Procedure Description,97,11139.33,OT DX RADIO & RELATED,1851
+722,CCS Procedure Description,98,11231.39,OTHER RESP THERAPY,3247
+723,CCS Procedure Description,99,11339.57,PRCS ON THE URETHRA,785
+724,CCS Procedure Description,100,11404.125,DX PRCS ON EAR,272
+725,CCS Procedure Description,101,11437.98,OT EXTRAOCULAR MUSC/ORB,88
+726,CCS Procedure Description,102,11443.28,OT NON-OR LW GI THER PR,3165
+727,CCS Procedure Description,103,11554.21,COLONOSCOPY AND BIOPSY,4943
+728,CCS Procedure Description,104,11571.335,OT THERAPEUTIC EAR PRCS,1142
+729,CCS Procedure Description,105,11576.52,OTHER BOWEL DX PRCS,6536
+730,CCS Procedure Description,106,11717.51,OT DX PRCS; FEMALE ORGN,575
+731,CCS Procedure Description,107,11812.2,"LUMPECTOMY, QUAD BREAST",469
+732,CCS Procedure Description,108,11925.45,OT OR THER PRCS; MALE,1125
+733,CCS Procedure Description,109,12027.165,DIAGNOSTIC SPINAL TAP,10576
+734,CCS Procedure Description,110,12036.09,DX PRCS; MALE GENITAL,260
+735,CCS Procedure Description,111,12072.91,MASTOIDECTOMY,38
+736,CCS Procedure Description,112,12280.9,CHOLECYSTECTOMY/EXPLOR,16587
+737,CCS Procedure Description,113,12433.744999999999,DX CARDIAC CATHETERIZTN,30644
+738,CCS Procedure Description,114,12506.15,TRACHE-/LARYNG-OSCOPY,339
+739,CCS Procedure Description,115,12521.560000000001,"TRTMNT,FRAC RADIUS/ULNA",2238
+740,CCS Procedure Description,116,12590.085,OT OR THER PRC MUSC/SKL,1272
+741,CCS Procedure Description,117,12627.670000000002,NONOP URINARY SYS MEASR,8
+742,CCS Procedure Description,118,12667.2,CORNEAL TRANSPLANT,22
+743,CCS Procedure Description,119,12755.869999999999,PLASTIC PRCS ON NOSE,32
+744,CCS Procedure Description,120,12879.77,OT NON-OR THER NERV SYS,1228
+745,CCS Procedure Description,121,12879.81,PROCTOSCOPY & AR BIOPSY,1209
+746,CCS Procedure Description,122,12907.74,ENDARTERECTOMY;VES HEAD,4640
+747,CCS Procedure Description,123,12956.135,BREAST BIOPSY & DX PRCS,454
+748,CCS Procedure Description,124,12970.095,NEPHRO-/NEPHROS-TOMY,1222
+749,CCS Procedure Description,125,12997.34,OOPHORECTOMY; UNI/BILAT,1023
+750,CCS Procedure Description,126,13076.65,ESOPHAGEAL DILATATION,803
+751,CCS Procedure Description,127,13077.65,OT NON-OR THER PRC SKIN,5669
+752,CCS Procedure Description,128,13149.66,ENDOSCOPY URINARY TRACT,1570
+753,CCS Procedure Description,129,13150.51,OT NON-OR THER PRC URIN,5622
+754,CCS Procedure Description,130,13370.87,DIV OF JOINT CAPSULE,143
+755,CCS Procedure Description,131,13432.395,ABDOMINAL PARACENTESIS,8708
+756,CCS Procedure Description,132,13476.725,DX PHYSICAL THERAPY,1498
+757,CCS Procedure Description,133,13643.145,DECOMP PERIPHERAL NERVE,3312
+758,CCS Procedure Description,134,13726.365,OT OR UP GI THER PRCS,10658
+759,CCS Procedure Description,135,13884.84,LAPAROSCOPY,753
+760,CCS Procedure Description,136,13926.07,MYELOGRAM,85
+761,CCS Procedure Description,137,14048.58,OPEN PROSTATECTOMY,4183
+762,CCS Procedure Description,138,14101.4,EXCISION OF SKIN LESION,1897
+763,CCS Procedure Description,139,14124.57,OT NON-OR UP GI THER PR,3744
+764,CCS Procedure Description,140,14163.965,INTRAOP CHOLANGIOGRAM,36
+765,CCS Procedure Description,141,14201.845000000001,ENDO RETRO CAN OF PANCR,116
+766,CCS Procedure Description,142,14297.02,OTHER HERNIA REPAIR,4597
+767,CCS Procedure Description,143,14539.39,LAMINECTOMY; EXC IV DSC,3853
+768,CCS Procedure Description,144,14827.76,"TRTMNT,FACE FRACT/DISLC",2325
+769,CCS Procedure Description,145,14915.72,MASTECTOMY,2469
+770,CCS Procedure Description,146,15102.19,OT NON-OR GI THER PRCS,13035
+771,CCS Procedure Description,147,15267.69,CANCER CHEMOTHERAPY,10637
+772,CCS Procedure Description,148,15273.24,ENTERAL/PARENTERAL NUTR,7483
+773,CCS Procedure Description,149,15333.59,INCISION OF PLEURA,13055
+774,CCS Procedure Description,150,15377.84,RADIOISOTOPE BONE SCAN,28
+775,CCS Procedure Description,151,15780.494999999999,OT DX PRCS ON MUSC/SKEL,5462
+776,CCS Procedure Description,152,15877.165,OTHER GI DX PRCS,6754
+777,CCS Procedure Description,153,16129.36,NEPHRECTOMY; PART/TOTAL,4452
+778,CCS Procedure Description,154,16192.3,"TRTMNT,FRAC LOWR EXTREM",8356
+779,CCS Procedure Description,155,16644.42,OT DX PRC SKIN/SUBCUTAN,5279
+780,CCS Procedure Description,156,16972.67,OT FRACTURE/DISLOC PRC,5003
+781,CCS Procedure Description,157,17298.83,OT OR LOW GI THER PRCS,10517
+782,CCS Procedure Description,158,17335.935,OT PHYS THER/REHAB,2454
+783,CCS Procedure Description,159,17351.690000000002,OT OR THER PRCS URINARY,3044
+784,CCS Procedure Description,160,17441.35,CEREBRAL ARTERIOGRAM,1400
+785,CCS Procedure Description,161,17565.07,OT OR THER PRC SKN/BRST,11394
+786,CCS Procedure Description,162,17657.38,CONTRAST AORTOGRAM,572
+787,CCS Procedure Description,163,17684.364999999998,ARTERIO FEMORAL/LOW ART,400
+788,CCS Procedure Description,164,17785.655,OT DX PRCS OF RESP TRCT,1108
+789,CCS Procedure Description,165,17819.065000000002,PERC TRANSLUM COR ANGIO,24810
+790,CCS Procedure Description,166,17872.06,DX ENDOCRINE PRCS,269
+791,CCS Procedure Description,167,17909.26,OT VASC CATH; NOT HEART,27137
+792,CCS Procedure Description,168,17926.51,RESP INTUB/MECH VENTIL,74043
+793,CCS Procedure Description,169,17942.5,ARTHROPLASTY KNEE,41041
+794,CCS Procedure Description,170,18014.23,OT THER ENDOCRINE PRCS,1583
+795,CCS Procedure Description,171,18291.7,OT THER PRCS; HEM/LYMPH,4650
+796,CCS Procedure Description,172,18500.895,OT DX PRCS URINARY TRCT,1444
+797,CCS Procedure Description,173,18731.28,EXCISION; LYS PERI ADHS,3401
+798,CCS Procedure Description,174,18757.84,ARTERIO/VENOGRAM-NOT HH,629
+799,CCS Procedure Description,175,18855.64,"TRTMNT,FRAC HIP/FEMUR",13890
+800,CCS Procedure Description,176,18984.97,BIOPSY OF LIVER,2245
+801,CCS Procedure Description,177,19060.7,ARTHROPLASTY-NOT HIP/KN,5689
+802,CCS Procedure Description,178,19170.335,"HIP REPLACEMENT,TOT/PRT",34228
+803,CCS Procedure Description,179,19359.77,OT OR THER PRC ON JOINT,5600
+804,CCS Procedure Description,180,19419.82,DX BRONCHOSCOPY & BIOPS,7148
+805,CCS Procedure Description,181,19523.18,EXPLORATORY LAPAROTOMY,186
+806,CCS Procedure Description,182,20084.375,CORONARY THROMBOLYSIS,8
+807,CCS Procedure Description,183,20701.45,OT OR THER PRCS ON BONE,2330
+808,CCS Procedure Description,184,21216.405,OT OR RX PRCS RESP SYS,3752
+809,CCS Procedure Description,185,21223.04,OT DX PRCS ON LUNG,180
+810,CCS Procedure Description,186,21686.375,COLORECTAL RESECTION,9370
+811,CCS Procedure Description,187,21824.49,IRR XCRANIAL VENT SHUNT,1565
+812,CCS Procedure Description,188,22264.83,PARTIAL EXCISION BONE,3883
+813,CCS Procedure Description,189,22717.39,OT NON-OR THER CARDIO,3835
+814,CCS Procedure Description,190,23133.495,EMBOL-/ENDARTER-ECTOMY,2542
+815,CCS Procedure Description,191,23246.48,LOBECTOMY/PNEUMONECTOMY,5365
+816,CCS Procedure Description,192,23376.495000000003,"PHYS THER EXER, MANIPUL",12780
+817,CCS Procedure Description,193,23388.11,OT OR GI THER PRCS,7411
+818,CCS Procedure Description,194,24143.7,OT DX CARDIOVASC PRCS,1930
+819,CCS Procedure Description,195,24178.715,LOC EXC LRG INTEST LESN,2552
+820,CCS Procedure Description,196,24415.0,AMPUTATE LOWER EXTRMITY,7981
+821,CCS Procedure Description,197,24822.91,SKIN GRAFT,1795
+822,CCS Procedure Description,198,24905.875,GASTROSTOMY; TEMP/PERM,3608
+823,CCS Procedure Description,199,25768.445,THERAPEUTIC RADIOLOGY,1802
+824,CCS Procedure Description,200,26038.28,PRCS ON SPLEEN,436
+825,CCS Procedure Description,201,26660.59,OTHER OR THER NERV SYS,5993
+826,CCS Procedure Description,202,26932.39,SMALL BOWEL RESECTON,555
+827,CCS Procedure Description,203,27203.38,PERIPH VASCULAR BYPASS,5151
+828,CCS Procedure Description,204,28078.96,BONE MARROW BIOPSY,2625
+829,CCS Procedure Description,205,28480.28,OT OR PRCS VES NOT HEAD,17045
+830,CCS Procedure Description,206,28532.04,CARDIAC PACEMAKER/DEFIB,11633
+831,CCS Procedure Description,207,28672.675,COLOSTOMY; TEMP/PERM,1098
+832,CCS Procedure Description,208,29307.114999999998,OTHER DX NERV SYS PRCS,2070
+833,CCS Procedure Description,209,29460.82,DES LES RETINA/CHOROID,39
+834,CCS Procedure Description,210,30215.68,OTHER OR HEART PRCS,8795
+835,CCS Procedure Description,211,30488.69,SWAN-GANZ CATH MONITOR,214
+836,CCS Procedure Description,212,30683.120000000003,SPINAL FUSION,24144
+837,CCS Procedure Description,213,31346.2,ILEO- & OT ENTER-OSTOMY,1094
+838,CCS Procedure Description,214,33097.705,OT OR PRCS ON VES HEAD,3570
+839,CCS Procedure Description,215,35577.19,INCISION & EXCISION CNS,5497
+840,CCS Procedure Description,216,45214.14,COR ARTERY BYP GRF-CABG,8387
+841,CCS Procedure Description,217,48673.68,AORTIC RESECTION; REPL,186
+842,CCS Procedure Description,218,51827.994999999995,OT VASCULAR BYP/SHUNT,408
+843,CCS Procedure Description,219,60142.62,HEART VALVE PRCS,11685
+844,CCS Procedure Description,220,76476.72,KIDNEY TRANSPLANT,1335
+845,CCS Procedure Description,221,91735.79,EXTRA CIRC AUX OPEN HRT,767
+846,CCS Procedure Description,222,118687.97,BONE MARROW TRANSPLANT,1626
+847,CCS Procedure Description,223,126825.735,TRACHEOSTOMY; TEMP/PERM,3886
+848,CCS Procedure Description,224,196853.92,OT ORGAN TRANSPLANTATN,647
+849,APR DRG Code,1,1671.635,581,1654
+850,APR DRG Code,2,1947.22,640,190245
+851,APR DRG Code,3,2334.52,589,390
+852,APR DRG Code,4,2641.36,565,629
+853,APR DRG Code,5,2656.885,770,13174
+854,APR DRG Code,6,2949.985,626,8340
+855,APR DRG Code,7,3507.775,563,2058
+856,APR DRG Code,8,3843.02,633,3895
+857,APR DRG Code,9,3861.86,955,43
+858,APR DRG Code,10,4218.81,773,15207
+859,APR DRG Code,11,4334.674999999999,566,13060
+860,APR DRG Code,12,4351.22,564,527
+861,APR DRG Code,13,4351.8,774,5212
+862,APR DRG Code,14,4585.43,580,55
+863,APR DRG Code,15,4614.29,755,4002
+864,APR DRG Code,16,4795.795,811,1638
+865,APR DRG Code,17,5060.705,251,5564
+866,APR DRG Code,18,5098.61,561,3777
+867,APR DRG Code,19,5273.88,532,1964
+868,APR DRG Code,20,5343.215,203,12208
+869,APR DRG Code,21,5437.14,775,21685
+870,APR DRG Code,22,5525.985,198,13324
+871,APR DRG Code,23,5564.9,113,10920
+872,APR DRG Code,24,5584.555,756,3376
+873,APR DRG Code,25,5589.345,249,20940
+874,APR DRG Code,26,5631.6,54,4769
+875,APR DRG Code,27,5637.82,639,6267
+876,APR DRG Code,28,5667.16,754,11713
+877,APR DRG Code,29,5717.87,111,5189
+878,APR DRG Code,30,5765.924999999999,776,1896
+879,APR DRG Code,31,5833.4349999999995,57,2320
+880,APR DRG Code,32,5903.18,546,740
+881,APR DRG Code,33,5978.94,465,5931
+882,APR DRG Code,34,6026.98,723,4179
+883,APR DRG Code,35,6115.2,97,1745
+884,APR DRG Code,36,6116.715,422,10826
+885,APR DRG Code,37,6177.209999999999,138,7228
+886,APR DRG Code,38,6216.16,384,4165
+887,APR DRG Code,39,6260.4400000000005,531,1564
+888,APR DRG Code,40,6282.335,47,7842
+889,APR DRG Code,41,6282.56,247,14009
+890,APR DRG Code,42,6289.31,144,7561
+891,APR DRG Code,43,6321.08,544,1762
+892,APR DRG Code,44,6322.85,560,138842
+893,APR DRG Code,45,6340.17,141,19613
+894,APR DRG Code,46,6385.085,115,3832
+895,APR DRG Code,47,6470.92,385,3566
+896,APR DRG Code,48,6473.07,201,31805
+897,APR DRG Code,49,6507.655,204,17602
+898,APR DRG Code,50,6548.36,722,3477
+899,APR DRG Code,51,6556.98,114,2297
+900,APR DRG Code,52,6570.095,752,1584
+901,APR DRG Code,53,6585.57,815,987
+902,APR DRG Code,54,6618.96,282,14358
+903,APR DRG Code,55,6639.555,383,32702
+904,APR DRG Code,56,6696.445,812,10832
+905,APR DRG Code,57,6753.68,772,18566
+906,APR DRG Code,58,6790.175,82,2104
+907,APR DRG Code,59,6832.530000000001,199,10232
+908,APR DRG Code,60,6851.895,340,1974
+909,APR DRG Code,61,6861.7,51,679
+910,APR DRG Code,62,6971.095,53,25766
+911,APR DRG Code,63,6991.7,244,14565
+912,APR DRG Code,64,7018.505,420,22292
+913,APR DRG Code,65,7042.22,542,4097
+914,APR DRG Code,66,7061.34,501,2603
+915,APR DRG Code,67,7112.005,425,12906
+916,APR DRG Code,68,7145.66,342,6327
+917,APR DRG Code,69,7154.64,351,14205
+918,APR DRG Code,70,7173.13,816,4575
+919,APR DRG Code,71,7176.09,663,14209
+920,APR DRG Code,72,7219.92,254,18136
+921,APR DRG Code,73,7251.34,243,5077
+922,APR DRG Code,74,7278.24,861,12112
+923,APR DRG Code,75,7305.965,463,30274
+924,APR DRG Code,76,7331.18,341,2695
+925,APR DRG Code,77,7357.63,468,4102
+926,APR DRG Code,78,7549.06,48,5427
+927,APR DRG Code,79,7624.6900000000005,139,34552
+928,APR DRG Code,80,7665.06,207,6625
+929,APR DRG Code,81,7677.25,541,3283
+930,APR DRG Code,82,7718.84,245,5490
+931,APR DRG Code,83,7722.285,246,1834
+932,APR DRG Code,84,7738.52,347,14421
+933,APR DRG Code,85,7900.955,813,4644
+934,APR DRG Code,86,7902.29,135,4415
+935,APR DRG Code,87,8041.615,140,43704
+936,APR DRG Code,88,8059.75,545,1128
+937,APR DRG Code,89,8074.21,196,1164
+938,APR DRG Code,90,8163.52,758,2390
+939,APR DRG Code,91,8226.21,844,1482
+940,APR DRG Code,92,8260.38,46,991
+941,APR DRG Code,93,8305.575,751,23944
+942,APR DRG Code,94,8349.485,80,546
+943,APR DRG Code,95,8486.54,284,8059
+944,APR DRG Code,96,8523.29,724,3417
+945,APR DRG Code,97,8542.865,483,464
+946,APR DRG Code,98,8554.195,753,25430
+947,APR DRG Code,99,8557.9,482,1775
+948,APR DRG Code,100,8578.07,56,173
+949,APR DRG Code,101,8634.0,134,9725
+950,APR DRG Code,102,8678.78,197,11231
+951,APR DRG Code,103,8693.994999999999,760,1002
+952,APR DRG Code,104,8703.88,469,25029
+953,APR DRG Code,105,8732.93,143,6280
+954,APR DRG Code,106,8769.45,52,5897
+955,APR DRG Code,107,8779.61,190,16708
+956,APR DRG Code,108,8780.57,241,12105
+957,APR DRG Code,109,8788.06,424,5143
+958,APR DRG Code,110,8914.22,225,11877
+959,APR DRG Code,111,8945.75,248,7945
+960,APR DRG Code,112,9008.46,470,3772
+961,APR DRG Code,113,9012.17,283,3371
+962,APR DRG Code,114,9044.470000000001,662,8702
+963,APR DRG Code,115,9127.075,226,1066
+964,APR DRG Code,116,9128.29,252,3485
+965,APR DRG Code,117,9141.53,894,1431
+966,APR DRG Code,118,9358.98,446,3377
+967,APR DRG Code,119,9372.27,517,563
+968,APR DRG Code,120,9409.65,349,1791
+969,APR DRG Code,121,9415.97,205,427
+970,APR DRG Code,122,9441.07,95,117
+971,APR DRG Code,123,9447.575,200,1476
+972,APR DRG Code,124,9462.91,191,6527
+973,APR DRG Code,125,9484.3,253,14643
+974,APR DRG Code,126,9489.36,316,1154
+975,APR DRG Code,127,9500.98,381,796
+976,APR DRG Code,128,9733.119999999999,194,61678
+977,APR DRG Code,129,9811.17,404,2025
+978,APR DRG Code,130,9842.875,380,4016
+979,APR DRG Code,131,9978.35,55,6842
+980,APR DRG Code,132,10017.41,514,549
+981,APR DRG Code,133,10037.86,242,1222
+982,APR DRG Code,134,10051.880000000001,540,74558
+983,APR DRG Code,135,10171.555,513,5878
+984,APR DRG Code,136,10175.54,757,4991
+985,APR DRG Code,137,10211.689999999999,421,3478
+986,APR DRG Code,138,10288.55,279,3698
+987,APR DRG Code,139,10299.465,364,5448
+988,APR DRG Code,140,10308.71,228,2136
+989,APR DRG Code,141,10346.49,423,809
+990,APR DRG Code,142,10404.96,73,577
+991,APR DRG Code,143,10431.2,466,8889
+992,APR DRG Code,144,10443.08,956,197
+993,APR DRG Code,145,10481.935,43,2338
+994,APR DRG Code,146,10597.654999999999,530,1370
+995,APR DRG Code,147,10662.525,519,7496
+996,APR DRG Code,148,10713.56,280,3823
+997,APR DRG Code,149,10840.75,403,18900
+998,APR DRG Code,150,10931.26,518,1114
+999,APR DRG Code,151,10968.58,98,2303
+1000,APR DRG Code,152,10975.64,346,3506
+1001,APR DRG Code,153,11091.11,206,2895
+1002,APR DRG Code,154,11113.935,142,2154
+1003,APR DRG Code,155,11146.154999999999,462,746
+1004,APR DRG Code,156,11210.09,636,1307
+1005,APR DRG Code,157,11255.16,661,3053
+1006,APR DRG Code,158,11263.52,42,6403
+1007,APR DRG Code,159,11282.555,721,7274
+1008,APR DRG Code,160,11410.925,500,610
+1009,APR DRG Code,161,11488.51,930,1728
+1010,APR DRG Code,162,11511.015,461,990
+1011,APR DRG Code,163,11591.91,133,18671
+1012,APR DRG Code,164,11766.88,263,14495
+1013,APR DRG Code,165,11781.125,45,25846
+1014,APR DRG Code,166,11967.65,137,11711
+1015,APR DRG Code,167,12007.705,660,6096
+1016,APR DRG Code,168,12293.72,481,585
+1017,APR DRG Code,169,12358.380000000001,720,97606
+1018,APR DRG Code,170,12411.885,382,834
+1019,APR DRG Code,171,12450.09,344,4445
+1020,APR DRG Code,172,12516.74,694,2305
+1021,APR DRG Code,173,12708.79,750,35607
+1022,APR DRG Code,174,12785.66,445,439
+1023,APR DRG Code,175,12797.955,110,710
+1024,APR DRG Code,176,12868.58,281,4353
+1025,APR DRG Code,177,13134.08,696,7711
+1026,APR DRG Code,178,13158.17,893,629
+1027,APR DRG Code,179,13173.405,192,13218
+1028,APR DRG Code,180,13194.28,70,323
+1029,APR DRG Code,181,13279.73,136,6147
+1030,APR DRG Code,182,13321.17,132,405
+1031,APR DRG Code,183,13336.95,484,1442
+1032,APR DRG Code,184,13467.85,41,3627
+1033,APR DRG Code,185,13660.904999999999,310,4330
+1034,APR DRG Code,186,13670.45,634,2566
+1035,APR DRG Code,187,13723.775000000001,227,5168
+1036,APR DRG Code,188,13755.55,892,2482
+1037,APR DRG Code,189,13781.58,240,5784
+1038,APR DRG Code,190,13897.17,443,6536
+1039,APR DRG Code,191,13915.875,58,17842
+1040,APR DRG Code,192,14016.81,50,1306
+1041,APR DRG Code,193,14180.015,44,5264
+1042,APR DRG Code,194,14228.735,320,4220
+1043,APR DRG Code,195,14295.66,93,274
+1044,APR DRG Code,196,14313.43,480,2885
+1045,APR DRG Code,197,14530.7,512,1501
+1046,APR DRG Code,198,14562.779999999999,317,2610
+1047,APR DRG Code,199,15095.4,92,1813
+1048,APR DRG Code,200,15203.06,222,2757
+1049,APR DRG Code,201,15509.685000000001,362,3176
+1050,APR DRG Code,202,15521.62,223,5305
+1051,APR DRG Code,203,15537.13,623,189
+1052,APR DRG Code,204,15541.035,361,2184
+1053,APR DRG Code,205,15940.825,791,3246
+1054,APR DRG Code,206,16016.94,343,2947
+1055,APR DRG Code,207,16024.689999999999,651,648
+1056,APR DRG Code,208,16103.49,759,419
+1057,APR DRG Code,209,16230.66,952,4351
+1058,APR DRG Code,210,16656.97,442,3260
+1059,APR DRG Code,211,16682.27,695,1596
+1060,APR DRG Code,212,16692.585,862,7182
+1061,APR DRG Code,213,16791.855000000003,510,452
+1062,APR DRG Code,214,17103.135000000002,315,6902
+1063,APR DRG Code,215,17178.745000000003,313,8904
+1064,APR DRG Code,216,17212.22,322,2502
+1065,APR DRG Code,217,17305.28,314,4651
+1066,APR DRG Code,218,17359.655,264,3964
+1067,APR DRG Code,219,17385.745000000003,40,1066
+1068,APR DRG Code,220,17387.35,193,592
+1069,APR DRG Code,221,17426.56,224,1967
+1070,APR DRG Code,222,17497.16,262,1059
+1071,APR DRG Code,223,17950.725,302,42096
+1072,APR DRG Code,224,17975.18,740,463
+1073,APR DRG Code,225,18149.57,24,7151
+1074,APR DRG Code,226,18340.03,625,1313
+1075,APR DRG Code,227,18480.309999999998,308,12068
+1076,APR DRG Code,228,18744.83,229,3609
+1077,APR DRG Code,229,18987.42,174,14646
+1078,APR DRG Code,230,19185.8,301,34641
+1079,APR DRG Code,231,19188.54,261,1876
+1080,APR DRG Code,232,19348.415,621,570
+1081,APR DRG Code,233,19543.475,363,1806
+1082,APR DRG Code,234,19707.345,511,1022
+1083,APR DRG Code,235,19798.28,401,1292
+1084,APR DRG Code,236,19807.175,860,7802
+1085,APR DRG Code,237,19849.37,22,1303
+1086,APR DRG Code,238,20009.16,321,11384
+1087,APR DRG Code,239,20123.025,121,4540
+1088,APR DRG Code,240,20129.23,220,4603
+1089,APR DRG Code,241,20208.49,171,5809
+1090,APR DRG Code,242,20238.23,691,4029
+1091,APR DRG Code,243,20449.635000000002,26,1418
+1092,APR DRG Code,244,20898.3,650,240
+1093,APR DRG Code,245,20993.65,843,17
+1094,APR DRG Code,246,21211.28,312,714
+1095,APR DRG Code,247,21306.45,863,121
+1096,APR DRG Code,248,21739.94,711,4043
+1097,APR DRG Code,249,22149.589999999997,221,18906
+1098,APR DRG Code,250,22201.32,175,22476
+1099,APR DRG Code,251,22279.65,890,2011
+1100,APR DRG Code,252,22315.57,309,2399
+1101,APR DRG Code,253,22479.91,131,831
+1102,APR DRG Code,254,23229.725,177,448
+1103,APR DRG Code,255,23957.29,681,2325
+1104,APR DRG Code,256,24152.155,120,5870
+1105,APR DRG Code,257,24466.269999999997,951,11740
+1106,APR DRG Code,258,25230.48,305,3634
+1107,APR DRG Code,259,25234.614999999998,180,2240
+1108,APR DRG Code,260,25302.98,850,2447
+1109,APR DRG Code,261,25320.96,181,9838
+1110,APR DRG Code,262,25382.81,447,921
+1111,APR DRG Code,263,25810.550000000003,692,222
+1112,APR DRG Code,264,26101.89,614,2014
+1113,APR DRG Code,265,27049.775,91,568
+1114,APR DRG Code,266,27306.67,23,1993
+1115,APR DRG Code,267,27628.870000000003,182,6504
+1116,APR DRG Code,268,27634.18,49,939
+1117,APR DRG Code,269,27666.175,622,906
+1118,APR DRG Code,270,27711.22,444,928
+1119,APR DRG Code,271,28078.25,405,703
+1120,APR DRG Code,272,30335.455,441,1386
+1121,APR DRG Code,273,30563.5,680,1333
+1122,APR DRG Code,274,30675.565,950,4738
+1123,APR DRG Code,275,30697.8,170,315
+1124,APR DRG Code,276,31365.18,89,1260
+1125,APR DRG Code,277,32459.885000000002,176,1136
+1126,APR DRG Code,278,32570.975,90,338
+1127,APR DRG Code,279,33287.45,260,2961
+1128,APR DRG Code,280,33419.995,710,17866
+1129,APR DRG Code,281,34294.17,169,1999
+1130,APR DRG Code,282,34598.41,304,13967
+1131,APR DRG Code,283,35002.545,21,8554
+1132,APR DRG Code,284,35121.11,912,1665
+1133,APR DRG Code,285,35546.479999999996,20,1172
+1134,APR DRG Code,286,36453.774999999994,911,456
+1135,APR DRG Code,287,37730.6,842,583
+1136,APR DRG Code,288,40597.345,631,368
+1137,APR DRG Code,289,41066.77,613,93
+1138,APR DRG Code,290,41509.86,166,6107
+1139,APR DRG Code,291,43402.24,167,4721
+1140,APR DRG Code,292,46017.94,690,1520
+1141,APR DRG Code,293,46460.99,130,3022
+1142,APR DRG Code,294,47946.09,910,112
+1143,APR DRG Code,295,52679.68,165,2627
+1144,APR DRG Code,296,52796.36,611,414
+1145,APR DRG Code,297,54267.84,163,4738
+1146,APR DRG Code,298,54298.71,161,4107
+1147,APR DRG Code,299,59252.95,612,931
+1148,APR DRG Code,300,61039.490000000005,608,314
+1149,APR DRG Code,301,68547.23,160,231
+1150,APR DRG Code,302,69802.535,303,1648
+1151,APR DRG Code,303,75315.3,440,1299
+1152,APR DRG Code,304,80556.375,162,1196
+1153,APR DRG Code,305,92554.59,607,601
+1154,APR DRG Code,306,101961.96,603,131
+1155,APR DRG Code,307,104583.06,609,199
+1156,APR DRG Code,308,117327.72,6,40
+1157,APR DRG Code,309,117564.9,630,233
+1158,APR DRG Code,310,118034.84,3,1726
+1159,APR DRG Code,311,121103.265,5,1812
+1160,APR DRG Code,312,127087.38500000001,602,530
+1161,APR DRG Code,313,135724.91,841,34
+1162,APR DRG Code,314,151980.53,1,396
+1163,APR DRG Code,315,167699.15,4,4119
+1164,APR DRG Code,316,170279.47,593,521
+1165,APR DRG Code,317,206938.52000000002,591,324
+1166,APR DRG Code,318,224369.565,588,290
+1167,APR DRG Code,319,337394.57999999996,583,42
+1168,APR DRG Code,320,343621.06,2,265
+1169,APR DRG Description,1,1671.635,"Neonate, transferred < 5 days old, born here",1654
+1170,APR DRG Description,2,1947.22,"Neonate birthwt >2499g, normal newborn or neonate w other problem",190245
+1171,APR DRG Description,3,2334.52,Neonate bwt <500g or GA <24 weeks,390
+1172,APR DRG Description,4,2641.36,False labor,629
+1173,APR DRG Description,5,2656.885,"Drug & alcohol abuse or dependence, left against medical advice",13174
+1174,APR DRG Description,6,2949.985,"Neonate bwt 2000-2499g, normal newborn or neonate w other problem",8340
+1175,APR DRG Description,7,3507.775,Preterm labor,2058
+1176,APR DRG Description,8,3843.02,Neonate birthwt >2499g w major anomaly,3895
+1177,APR DRG Description,9,3861.86,Principal diagnosis invalid as discharge diagnosis,43
+1178,APR DRG Description,10,4218.81,Opioid abuse & dependence,15207
+1179,APR DRG Description,11,4334.674999999999,Other antepartum diagnoses,13060
+1180,APR DRG Description,12,4351.22,"Abortion w/o D&C, aspiration curettage or hysterotomy",527
+1181,APR DRG Description,13,4351.8,Cocaine abuse & dependence,5212
+1182,APR DRG Description,14,4585.43,"Neonate, transferred <5 days old, not born here",55
+1183,APR DRG Description,15,4614.29,Adjustment disorders & neuroses except depressive diagnoses,4002
+1184,APR DRG Description,16,4795.795,Allergic reactions,1638
+1185,APR DRG Description,17,5060.705,Abdominal pain,5564
+1186,APR DRG Description,18,5098.61,Postpartum & post abortion diagnoses w/o procedure,3777
+1187,APR DRG Description,19,5273.88,Menstrual & other female reproductive system disorders,1964
+1188,APR DRG Description,20,5343.215,Chest pain,12208
+1189,APR DRG Description,21,5437.14,Alcohol abuse & dependence,21685
+1190,APR DRG Description,22,5525.985,Angina pectoris & coronary atherosclerosis,13324
+1191,APR DRG Description,23,5564.9,Infections of upper respiratory tract,10920
+1192,APR DRG Description,24,5584.555,Acute anxiety & delirium states,3376
+1193,APR DRG Description,25,5589.345,"Other gastroenteritis, nausa & vomiting",20940
+1194,APR DRG Description,26,5631.6,Migraine & other headaches,4769
+1195,APR DRG Description,27,5637.82,Neonate birthwt >2499g w other significant condition,6267
+1196,APR DRG Description,28,5667.16,Depression except major depressive disorder,11713
+1197,APR DRG Description,29,5717.87,Vertigo & other labyrinth disorders,5189
+1198,APR DRG Description,30,5765.924999999999,Other drug abuse & dependence,1896
+1199,APR DRG Description,31,5833.4349999999995,"Concussion, closed skull Fx nos,uncomplicated intracranial injury, coma < 1 hr or no coma",2320
+1200,APR DRG Description,32,5903.18,Other O.R. proc for obstetric diagnoses except delivery diagnoses,740
+1201,APR DRG Description,33,5978.94,Urinary stones & acquired upper urinary tract obstruction,5931
+1202,APR DRG Description,34,6026.98,Viral illness,4179
+1203,APR DRG Description,35,6115.2,Tonsil & adenoid procedures,1745
+1204,APR DRG Description,36,6116.715,Hypovolemia & related electrolyte disorders,10826
+1205,APR DRG Description,37,6177.209999999999,Bronchiolitis & RSV pneumonia,7228
+1206,APR DRG Description,38,6216.16,"Contusion, open wound & other trauma to skin & subcutaneous tissue",4165
+1207,APR DRG Description,39,6260.4400000000005,Female reproductive system infections,1564
+1208,APR DRG Description,40,6282.335,Transient ischemia,7842
+1209,APR DRG Description,41,6282.56,Intestinal obstruction,14009
+1210,APR DRG Description,42,6289.31,"Respiratory signs, symptoms & minor diagnoses",7561
+1211,APR DRG Description,43,6321.08,"D&C, aspiration curettage or hysterotomy for obstetric diagnoses",1762
+1212,APR DRG Description,44,6322.85,Vaginal delivery,138842
+1213,APR DRG Description,45,6340.17,Asthma,19613
+1214,APR DRG Description,46,6385.085,"Other ear, nose, mouth,throat & cranial/facial diagnoses",3832
+1215,APR DRG Description,47,6470.92,"Other skin, subcutaneous tissue & breast disorders",3566
+1216,APR DRG Description,48,6473.07,Cardiac arrhythmia & conduction disorders,31805
+1217,APR DRG Description,49,6507.655,Syncope & collapse,17602
+1218,APR DRG Description,50,6548.36,Fever,3477
+1219,APR DRG Description,51,6556.98,Dental & oral diseases & injuries,2297
+1220,APR DRG Description,52,6570.095,Disorders of personality & impulse control,1584
+1221,APR DRG Description,53,6585.57,"Other injury, poisoning & toxic effect diagnoses",987
+1222,APR DRG Description,54,6618.96,Disorders of pancreas except malignancy,14358
+1223,APR DRG Description,55,6639.555,Cellulitis & other skin infections,32702
+1224,APR DRG Description,56,6696.445,Poisoning of medicinal agents,10832
+1225,APR DRG Description,57,6753.68,Alcohol & drug dependence w rehab or rehab/detox therapy,18566
+1226,APR DRG Description,58,6790.175,Eye disorders except major infections,2104
+1227,APR DRG Description,59,6832.530000000001,Hypertension,10232
+1228,APR DRG Description,60,6851.895,Fracture of femur,1974
+1229,APR DRG Description,61,6861.7,Viral meningitis,679
+1230,APR DRG Description,62,6971.095,Seizure,25766
+1231,APR DRG Description,63,6991.7,Diverticulitis & diverticulosis,14565
+1232,APR DRG Description,64,7018.505,Diabetes,22292
+1233,APR DRG Description,65,7042.22,Vaginal delivery w complicating procedures exc sterilization &/or D&C,4097
+1234,APR DRG Description,66,7061.34,Male reproductive system diagnoses except malignancy,2603
+1235,APR DRG Description,67,7112.005,Electrolyte disorders except hypovolemia related,12906
+1236,APR DRG Description,68,7145.66,"Fractures & dislocations except femur, pelvis & back",6327
+1237,APR DRG Description,69,7154.64,Other musculoskeletal system & connective tissue diagnoses,14205
+1238,APR DRG Description,70,7173.13,Toxic effects of non-medicinal substances,4575
+1239,APR DRG Description,71,7176.09,Other anemia & disorders of blood & blood-forming organs,14209
+1240,APR DRG Description,72,7219.92,Other digestive system diagnoses,18136
+1241,APR DRG Description,73,7251.34,Other esophageal disorders,5077
+1242,APR DRG Description,74,7278.24,"Signs, symptoms & other factors influencing health status",12112
+1243,APR DRG Description,75,7305.965,Kidney & urinary tract infections,30274
+1244,APR DRG Description,76,7331.18,Fracture of pelvis or dislocation of hip,2695
+1245,APR DRG Description,77,7357.63,"Other kidney & urinary tract diagnoses, signs & symptoms",4102
+1246,APR DRG Description,78,7549.06,"Peripheral, cranial & autonomic nerve disorders",5427
+1247,APR DRG Description,79,7624.6900000000005,Other pneumonia,34552
+1248,APR DRG Description,80,7665.06,Other circulatory system diagnoses,6625
+1249,APR DRG Description,81,7677.25,Vaginal delivery w sterilization &/or D&C,3283
+1250,APR DRG Description,82,7718.84,Inflammatory bowel disease,5490
+1251,APR DRG Description,83,7722.285,Gastrointestinal vascular insufficiency,1834
+1252,APR DRG Description,84,7738.52,"Other back & neck disorders, fractures & injuries",14421
+1253,APR DRG Description,85,7900.955,Other complications of treatment,4644
+1254,APR DRG Description,86,7902.29,Major chest & respiratory trauma,4415
+1255,APR DRG Description,87,8041.615,Chronic obstructive pulmonary disease,43704
+1256,APR DRG Description,88,8059.75,Ectopic pregnancy procedure,1128
+1257,APR DRG Description,89,8074.21,Cardiac arrest and shock,1164
+1258,APR DRG Description,90,8163.52,Behavioral disorders,2390
+1259,APR DRG Description,91,8226.21,Partial thickness burns without skin graft,1482
+1260,APR DRG Description,92,8260.38,Nonspecific CVA & precerebral occlusion w/o infarct,991
+1261,APR DRG Description,93,8305.575,Major depressive disorders & other/unspecified psychoses,23944
+1262,APR DRG Description,94,8349.485,Acute major eye infections,546
+1263,APR DRG Description,95,8486.54,Disorders of gallbladder & biliary tract,8059
+1264,APR DRG Description,96,8523.29,Other infectious & parasitic diseases,3417
+1265,APR DRG Description,97,8542.865,Testes & scrotal procedures,464
+1266,APR DRG Description,98,8554.195,Bipolar disorders,25430
+1267,APR DRG Description,99,8557.9,Transurethral prostatectomy,1775
+1268,APR DRG Description,100,8578.07,"Brain contusion/laceration & complicated skull Fx, coma < 1 hr or no coma",173
+1269,APR DRG Description,101,8634.0,Pulmonary embolism,9725
+1270,APR DRG Description,102,8678.78,Peripheral & other vascular disorders,11231
+1271,APR DRG Description,103,8693.994999999999,Other mental health disorders,1002
+1272,APR DRG Description,104,8703.88,Acute Kidney Injury,25029
+1273,APR DRG Description,105,8732.93,"Other respiratory diagnoses except signs, symptoms & minor diagnoses",6280
+1274,APR DRG Description,106,8769.45,Nontraumatic stupor & coma,5897
+1275,APR DRG Description,107,8779.61,Acute myocardial infarction,16708
+1276,APR DRG Description,108,8780.57,Peptic ulcer & gastritis,12105
+1277,APR DRG Description,109,8788.06,Other endocrine disorders,5143
+1278,APR DRG Description,110,8914.22,Appendectomy,11877
+1279,APR DRG Description,111,8945.75,Major gastrointestinal & peritoneal infections,7945
+1280,APR DRG Description,112,9008.46,Chronic Kidney Disease,3772
+1281,APR DRG Description,113,9012.17,Other disorders of the liver,3371
+1282,APR DRG Description,114,9044.470000000001,Sickle cell anemia crisis,8702
+1283,APR DRG Description,115,9127.075,Anal procedures,1066
+1284,APR DRG Description,116,9128.29,"Malfunction, reaction & complication of GI device or procedure",3485
+1285,APR DRG Description,117,9141.53,HIV w one signif HIV cond or w/o signif related cond,1431
+1286,APR DRG Description,118,9358.98,Urethral & transurethral procedures,3377
+1287,APR DRG Description,119,9372.27,Dilation & curettage for non-obstetric diagnoses,563
+1288,APR DRG Description,120,9409.65,"Malfunction, reaction, complic of orthopedic device or procedure",1791
+1289,APR DRG Description,121,9415.97,Cardiomyopathy,427
+1290,APR DRG Description,122,9441.07,Cleft lip & palate repair,117
+1291,APR DRG Description,123,9447.575,Cardiac structural & valvular disorders,1476
+1292,APR DRG Description,124,9462.91,Cardiac catheterization for coronary artery disease,6527
+1293,APR DRG Description,125,9484.3,Other & unspecified gastrointestinal hemorrhage,14643
+1294,APR DRG Description,126,9489.36,Hand & wrist procedures,1154
+1295,APR DRG Description,127,9500.98,Major skin disorders,796
+1296,APR DRG Description,128,9733.119999999999,Heart failure,61678
+1297,APR DRG Description,129,9811.17,"Thyroid, parathyroid & thyroglossal procedures",2025
+1298,APR DRG Description,130,9842.875,Skin ulcers,4016
+1299,APR DRG Description,131,9978.35,Head trauma w coma >1 hr or hemorrhage,6842
+1300,APR DRG Description,132,10017.41,Female reproductive system reconstructive procedures,549
+1301,APR DRG Description,133,10037.86,Major esophageal disorders,1222
+1302,APR DRG Description,134,10051.880000000001,Cesarean delivery,74558
+1303,APR DRG Description,135,10171.555,Uterine & adnexa procedures for non-malignancy except leiomyoma,5878
+1304,APR DRG Description,136,10175.54,Organic mental health disturbances,4991
+1305,APR DRG Description,137,10211.689999999999,"Malnutrition, failure to thrive & other nutritional disorders",3478
+1306,APR DRG Description,138,10288.55,Hepatic coma & other major acute liver disorders,3698
+1307,APR DRG Description,139,10299.465,"Other skin, subcutaneous tissue & related procedures",5448
+1308,APR DRG Description,140,10308.71,"Inguinal, femoral & umbilical hernia procedures",2136
+1309,APR DRG Description,141,10346.49,Inborn errors of metabolism,809
+1310,APR DRG Description,142,10404.96,Eye procedures except orbit,577
+1311,APR DRG Description,143,10431.2,"Malfunction, reaction, complic of genitourinary device or proc",8889
+1312,APR DRG Description,144,10443.08,Ungroupable,197
+1313,APR DRG Description,145,10481.935,Multiple sclerosis & other demyelinating diseases,2338
+1314,APR DRG Description,146,10597.654999999999,Female reproductive system malignancy,1370
+1315,APR DRG Description,147,10662.525,Uterine & adnexa procedures for leiomyoma,7496
+1316,APR DRG Description,148,10713.56,Alcoholic liver disease,3823
+1317,APR DRG Description,149,10840.75,Procedures for obesity,18900
+1318,APR DRG Description,150,10931.26,Other female reproductive system & related procedures,1114
+1319,APR DRG Description,151,10968.58,"Other ear, nose, mouth & throat procedures",2303
+1320,APR DRG Description,152,10975.64,Connective tissue disorders,3506
+1321,APR DRG Description,153,11091.11,"Malfunction,reaction,complication of cardiac/vasc device or procedure",2895
+1322,APR DRG Description,154,11113.935,Interstitial & alveolar lung diseases,2154
+1323,APR DRG Description,155,11146.154999999999,Nephritis & nephrosis,746
+1324,APR DRG Description,156,11210.09,Neonate birthwt >2499g w congenital/perinatal infection,1307
+1325,APR DRG Description,157,11255.16,Coagulation & platelet disorders,3053
+1326,APR DRG Description,158,11263.52,Degenerative nervous system disorders exc mult sclerosis,6403
+1327,APR DRG Description,159,11282.555,"Post-operative, post-traumatic, other device infections",7274
+1328,APR DRG Description,160,11410.925,"Malignancy, male reproductive system",610
+1329,APR DRG Description,161,11488.51,Multiple significant trauma w/o O.R. procedure,1728
+1330,APR DRG Description,162,11511.015,Kidney & urinary tract malignancy,990
+1331,APR DRG Description,163,11591.91,Respiratory Failure,18671
+1332,APR DRG Description,164,11766.88,Laparoscopic cholecystectomy,14495
+1333,APR DRG Description,165,11781.125,CVA & precerebral occlusion w infarct,25846
+1334,APR DRG Description,166,11967.65,Major respiratory infections & inflammations,11711
+1335,APR DRG Description,167,12007.705,Major hematologic/immunologic diag exc sickle cell crisis & coagul,6096
+1336,APR DRG Description,168,12293.72,Penis procedures,585
+1337,APR DRG Description,169,12358.380000000001,Septicemia & disseminated infections,97606
+1338,APR DRG Description,170,12411.885,Malignant breast disorders,834
+1339,APR DRG Description,171,12450.09,"Osteomyelitis, septic arthritis & other musculoskeletal infections",4445
+1340,APR DRG Description,172,12516.74,Lymphatic & other malignancies & neoplasms of uncertain behavior,2305
+1341,APR DRG Description,173,12708.79,Schizophrenia,35607
+1342,APR DRG Description,174,12785.66,Other bladder procedures,439
+1343,APR DRG Description,175,12797.955,"Ear, nose, mouth, throat, cranial/facial malignancies",710
+1344,APR DRG Description,176,12868.58,Malignancy of hepatobiliary system & pancreas,4353
+1345,APR DRG Description,177,13134.08,Other Chemotherapy,7711
+1346,APR DRG Description,178,13158.17,HIV w multiple significant HIV related conditions,629
+1347,APR DRG Description,179,13173.405,Cardiac catheterization for other non-coronary conditions,13218
+1348,APR DRG Description,180,13194.28,Orbital procedures,323
+1349,APR DRG Description,181,13279.73,Respiratory malignancy,6147
+1350,APR DRG Description,182,13321.17,BPD & oth chronic respiratory diseases arising in perinatal period,405
+1351,APR DRG Description,183,13336.95,Other male reproductive system & related procedures,1442
+1352,APR DRG Description,184,13467.85,Nervous system malignancy,3627
+1353,APR DRG Description,185,13660.904999999999,Intervertebral disc excision & decompression,4330
+1354,APR DRG Description,186,13670.45,"Neonate, birthwt >2499g w resp dist synd/oth maj resp cond",2566
+1355,APR DRG Description,187,13723.775000000001,"Hernia procedures except inguinal, femoral & umbilical",5168
+1356,APR DRG Description,188,13755.55,HIV w major HIV related condition,2482
+1357,APR DRG Description,189,13781.58,Digestive malignancy,5784
+1358,APR DRG Description,190,13897.17,Kidney & urinary tract procedures for nonmalignancy,6536
+1359,APR DRG Description,191,13915.875,Other disorders of nervous system,17842
+1360,APR DRG Description,192,14016.81,Non-bacterial infections of nervous system exc viral meningitis,1306
+1361,APR DRG Description,193,14180.015,Intracranial hemorrhage,5264
+1362,APR DRG Description,194,14228.735,Other musculoskeletal system & connective tissue procedures,4220
+1363,APR DRG Description,195,14295.66,Sinus & mastoid procedures,274
+1364,APR DRG Description,196,14313.43,Major male pelvic procedures,2885
+1365,APR DRG Description,197,14530.7,Uterine & adnexa procedures for non-ovarian & non-adnexal malig,1501
+1366,APR DRG Description,198,14562.779999999999,"Tendon, muscle & other soft tissue procedures",2610
+1367,APR DRG Description,199,15095.4,Facial bone procedures except major cranial/facial bone procedures,1813
+1368,APR DRG Description,200,15203.06,"Other stomach, esophageal & duodenal procedures",2757
+1369,APR DRG Description,201,15509.685000000001,Mastectomy procedures,3176
+1370,APR DRG Description,202,15521.62,Other small & large bowel procedures,5305
+1371,APR DRG Description,203,15537.13,Neonate bwt 2000-2499g w congenital/perinatal infection,189
+1372,APR DRG Description,204,15541.035,Skin graft for skin & subcutaneous tissue diagnoses,2184
+1373,APR DRG Description,205,15940.825,O.R. procedure for other complications of treatment,3246
+1374,APR DRG Description,206,16016.94,Musculoskeletal malignancy & pathol fracture d/t muscskel malig,2947
+1375,APR DRG Description,207,16024.689999999999,Other procedures of blood & blood-forming organs,648
+1376,APR DRG Description,208,16103.49,Eating disorders,419
+1377,APR DRG Description,209,16230.66,Nonextensive procedure unrelated to principal diagnosis,4351
+1378,APR DRG Description,210,16656.97,Kidney & urinary tract procedures for malignancy,3260
+1379,APR DRG Description,211,16682.27,Chemotherapy for acute leukemia,1596
+1380,APR DRG Description,212,16692.585,Other aftercare & convalescence,7182
+1381,APR DRG Description,213,16791.855000000003,"Pelvic evisceration, radical hysterectomy & other radical GYN procs",452
+1382,APR DRG Description,214,17103.135000000002,"Shoulder, upper arm & forearm procedures except joint replacement",6902
+1383,APR DRG Description,215,17178.745000000003,Knee & lower leg procedures except foot,8904
+1384,APR DRG Description,216,17212.22,Shoulder & elbow joint replacement,2502
+1385,APR DRG Description,217,17305.28,Foot & toe procedures,4651
+1386,APR DRG Description,218,17359.655,"Other hepatobiliary, pancreas & abdominal procedures",3964
+1387,APR DRG Description,219,17385.745000000003,Spinal disorders & injuries,1066
+1388,APR DRG Description,220,17387.35,Acute & subacute endocarditis,592
+1389,APR DRG Description,221,17426.56,Peritoneal adhesiolysis,1967
+1390,APR DRG Description,222,17497.16,Cholecystectomy except laparoscopic,1059
+1391,APR DRG Description,223,17950.725,Knee joint replacement,42096
+1392,APR DRG Description,224,17975.18,Mental illness diagnosis w O.R. procedure,463
+1393,APR DRG Description,225,18149.57,Extracranial vascular procedures,7151
+1394,APR DRG Description,226,18340.03,Neonate bwt 2000-2499g w other significant condition,1313
+1395,APR DRG Description,227,18480.309999999998,Hip and femur fracture repair,12068
+1396,APR DRG Description,228,18744.83,Other digestive system & abdominal procedures,3609
+1397,APR DRG Description,229,18987.42,Percutaneous coronary intervention w AMI,14646
+1398,APR DRG Description,230,19185.8,Hip joint replacement,34641
+1399,APR DRG Description,231,19188.54,Major biliary tract procedures,1876
+1400,APR DRG Description,232,19348.415,Neonate bwt 2000-2499g w major anomaly,570
+1401,APR DRG Description,233,19543.475,Breast procedures except mastectomy,1806
+1402,APR DRG Description,234,19707.345,Uterine & adnexa procedures for ovarian & adnexal malignancy,1022
+1403,APR DRG Description,235,19798.28,Pituitary & adrenal procedures,1292
+1404,APR DRG Description,236,19807.175,Rehabilitation,7802
+1405,APR DRG Description,237,19849.37,Ventricular shunt procedures,1303
+1406,APR DRG Description,238,20009.16,Cervical spinal fusion & other back/neck proc exc disc excis/decomp,11384
+1407,APR DRG Description,239,20123.025,Other respiratory & chest procedures,4540
+1408,APR DRG Description,240,20129.23,"Major stomach, esophageal & duodenal procedures",4603
+1409,APR DRG Description,241,20208.49,"Perm cardiac pacemaker implant w/o AMI, heart failure or shock",5809
+1410,APR DRG Description,242,20238.23,"Lymphoma, myeloma & non-acute leukemia",4029
+1411,APR DRG Description,243,20449.635000000002,Other nervous system & related procedures,1418
+1412,APR DRG Description,244,20898.3,Splenectomy,240
+1413,APR DRG Description,245,20993.65,Extensive 3rd degree or full thickness burns w/o skin graft,17
+1414,APR DRG Description,246,21211.28,"Skin graft, except hand, for musculoskeletal & connective tissue diagnoses",714
+1415,APR DRG Description,247,21306.45,Neonatal aftercare,121
+1416,APR DRG Description,248,21739.94,"Post-op, post-trauma, other device infections w O.R. procedure",4043
+1417,APR DRG Description,249,22149.589999999997,Major small & large bowel procedures,18906
+1418,APR DRG Description,250,22201.32,Percutaneous coronary intervention w/o AMI,22476
+1419,APR DRG Description,251,22279.65,HIV w multiple major HIV related conditions,2011
+1420,APR DRG Description,252,22315.57,Other significant hip and femur surgery,2399
+1421,APR DRG Description,253,22479.91,Cystic fibrosis - pulmonary disease,831
+1422,APR DRG Description,254,23229.725,Cardiac pacemaker & defibrillator revision except device replacement,448
+1423,APR DRG Description,255,23957.29,Other O.R. procedures for lymphatic/hematopoietic/other neoplasms,2325
+1424,APR DRG Description,256,24152.155,Major respiratory & chest procedures,5870
+1425,APR DRG Description,257,24466.269999999997,Moderately extensive procedure unrelated to principal diagnosis,11740
+1426,APR DRG Description,258,25230.48,Amputation of lower limb except toes,3634
+1427,APR DRG Description,259,25234.614999999998,Other circulatory system procedures,2240
+1428,APR DRG Description,260,25302.98,"Procedure w diag of rehab, aftercare or oth contact w health service",2447
+1429,APR DRG Description,261,25320.96,Lower extremity arterial procedures,9838
+1430,APR DRG Description,262,25382.81,"Other kidney, urinary tract & related procedures",921
+1431,APR DRG Description,263,25810.550000000003,Radiotherapy,222
+1432,APR DRG Description,264,26101.89,Neonate bwt 1500-1999g w or w/o other significant condition,2014
+1433,APR DRG Description,265,27049.775,Other major head & neck procedures,568
+1434,APR DRG Description,266,27306.67,Spinal procedures,1993
+1435,APR DRG Description,267,27628.870000000003,Other peripheral vascular procedures,6504
+1436,APR DRG Description,268,27634.18,Bacterial & tuberculous infections of nervous system,939
+1437,APR DRG Description,269,27666.175,Neonate bwt 2000-2499g w resp dist synd/oth maj resp cond,906
+1438,APR DRG Description,270,27711.22,Renal dialysis access device procedure only,928
+1439,APR DRG Description,271,28078.25,"Other procedures for endocrine, nutritional & metabolic disorders",703
+1440,APR DRG Description,272,30335.455,Major bladder procedures,1386
+1441,APR DRG Description,273,30563.5,Major O.R. procedures for lymphatic/hematopoietic/other neoplasms,1333
+1442,APR DRG Description,274,30675.565,Extensive procedure unrelated to principal diagnosis,4738
+1443,APR DRG Description,275,30697.8,"Permanent cardiac pacemaker implant w AMI, heart failure or shock",315
+1444,APR DRG Description,276,31365.18,Major cranial/facial bone procedures,1260
+1445,APR DRG Description,277,32459.885000000002,Cardiac pacemaker & defibrillator device replacement,1136
+1446,APR DRG Description,278,32570.975,Major larynx & trachea procedures,338
+1447,APR DRG Description,279,33287.45,"Major pancreas, liver & shunt procedures",2961
+1448,APR DRG Description,280,33419.995,Infectious & parasitic diseases including HIV w O.R. procedure,17866
+1449,APR DRG Description,281,34294.17,Major abdominal vascular procedures,1999
+1450,APR DRG Description,282,34598.41,Dorsal & lumbar fusion proc except for curvature of back,13967
+1451,APR DRG Description,283,35002.545,Craniotomy except for trauma,8554
+1452,APR DRG Description,284,35121.11,Musculoskeletal & other procedures for multiple significant trauma,1665
+1453,APR DRG Description,285,35546.479999999996,Craniotomy for trauma,1172
+1454,APR DRG Description,286,36453.774999999994,Extensive abdominal/thoracic procedures for mult significant trauma,456
+1455,APR DRG Description,287,37730.6,Burns with skin graft except extensive 3rd degree burns,583
+1456,APR DRG Description,288,40597.345,Neonate birthwt >2499g w other major procedure,368
+1457,APR DRG Description,289,41066.77,Neonate birthwt 1500-1999g w congenital/perinatal infection,93
+1458,APR DRG Description,290,41509.86,Coronary bypass w/o AMI or complex PDX,6107
+1459,APR DRG Description,291,43402.24,Other cardiothoracic & thoracic vascular procedures,4721
+1460,APR DRG Description,292,46017.94,Acute leukemia,1520
+1461,APR DRG Description,293,46460.99,Respiratory system diagnosis w ventilator support 96+ hours,3022
+1462,APR DRG Description,294,47946.09,Craniotomy for multiple significant trauma,112
+1463,APR DRG Description,295,52679.68,Coronary bypass w AMI or complex PDX,2627
+1464,APR DRG Description,296,52796.36,Neonate birthwt 1500-1999g w major anomaly,414
+1465,APR DRG Description,297,54267.84,Cardiac valve procedures w/o AMI or complex PDX,4738
+1466,APR DRG Description,298,54298.71,Cardiac defibrillator & heart assist implant,4107
+1467,APR DRG Description,299,59252.95,Neonate bwt 1500-1999g w resp dist synd/oth maj resp cond,931
+1468,APR DRG Description,300,61039.490000000005,Neonate bwt 1250-1499g w or w/o other significant condition,314
+1469,APR DRG Description,301,68547.23,Major cardiothoracic repair of heart anomaly,231
+1470,APR DRG Description,302,69802.535,Dorsal & lumbar fusion proc for curvature of back,1648
+1471,APR DRG Description,303,75315.3,Kidney transplant,1299
+1472,APR DRG Description,304,80556.375,Cardiac valve procedures w AMI or complex PDX,1196
+1473,APR DRG Description,305,92554.59,Neonate bwt 1250-1499g w resp dist synd/oth maj resp or maj anom,601
+1474,APR DRG Description,306,101961.96,Neonate birthwt 1000-1249g w or w/o other significant condition,131
+1475,APR DRG Description,307,104583.06,Neonate bwt 1500-2499g w major procedure,199
+1476,APR DRG Description,308,117327.72,Pancreas transplant,40
+1477,APR DRG Description,309,117564.9,Neonate birthwt >2499g w major cardiovascular procedure,233
+1478,APR DRG Description,310,118034.84,Bone marrow transplant,1726
+1479,APR DRG Description,311,121103.265,Tracheostomy w MV 96+ hours w/o extensive procedure,1812
+1480,APR DRG Description,312,127087.38500000001,Neonate bwt 1000-1249g w resp dist synd/oth maj resp or maj anom,530
+1481,APR DRG Description,313,135724.91,Extensive 3rd degree burns w skin graft,34
+1482,APR DRG Description,314,151980.53,Liver transplant &/or intestinal transplant,396
+1483,APR DRG Description,315,167699.15,Tracheostomy w MV 96+ hours w extensive procedure or ECMO,4119
+1484,APR DRG Description,316,170279.47,Neonate birthwt 750-999g w/o major procedure,521
+1485,APR DRG Description,317,206938.52000000002,Neonate birthwt 500-749g w/o major procedure,324
+1486,APR DRG Description,318,224369.565,Neonate bwt <1500g w major procedure,290
+1487,APR DRG Description,319,337394.57999999996,Neonate w ECMO,42
+1488,APR DRG Description,320,343621.06,Heart &/or lung transplant,265
+1489,APR MDC Code,1,2177.15,15,224721
+1490,APR MDC Code,2,4777.85,20,76025
+1491,APR MDC Code,3,7110.69,14,245425
+1492,APR MDC Code,4,7134.05,3,32013
+1493,APR MDC Code,5,7945.75,21,27144
+1494,APR MDC Code,6,7962.1900000000005,9,59554
+1495,APR MDC Code,7,8072.31,2,3635
+1496,APR MDC Code,8,8872.41,10,79913
+1497,APR MDC Code,9,8961.130000000001,19,114924
+1498,APR MDC Code,10,8990.02,16,33711
+1499,APR MDC Code,11,9053.52,4,191532
+1500,APR MDC Code,12,9166.46,11,99583
+1501,APR MDC Code,13,9337.19,6,189873
+1502,APR MDC Code,14,10372.045,13,23618
+1503,APR MDC Code,15,10443.08,0,197
+1504,APR MDC Code,16,10958.849999999999,7,64032
+1505,APR MDC Code,17,11257.05,1,150977
+1506,APR MDC Code,18,11401.48,12,10508
+1507,APR MDC Code,19,11620.865000000002,5,300490
+1508,APR MDC Code,20,13214.755000000001,23,29666
+1509,APR MDC Code,21,13316.28,22,2141
+1510,APR MDC Code,22,13514.99,18,139365
+1511,APR MDC Code,23,14268.73,24,6579
+1512,APR MDC Code,24,16686.97,8,211381
+1513,APR MDC Code,25,18350.51,17,22601
+1514,APR MDC Code,26,22919.38,25,3961
+1515,APR MDC Description,1,2177.15,Newborns and Other Neonates with Conditions Originating in the Perinatal Period,224721
+1516,APR MDC Description,2,4777.85,Alcohol/Drug Use and Alcohol/Drug Induced Organic Mental Disorders,76025
+1517,APR MDC Description,3,7110.69,"Pregnancy, Childbirth and the Puerperium",245425
+1518,APR MDC Description,4,7134.05,"Ear, Nose, Mouth, Throat and Craniofacial Diseases and Disorders",32013
+1519,APR MDC Description,5,7945.75,"Poisonings, Toxic Effects, Other Injuries and Other Complications of Treatment",27144
+1520,APR MDC Description,6,7962.1900000000005,"Diseases and Disorders of the Skin, Subcutaneous Tissue and Breast",59554
+1521,APR MDC Description,7,8072.31,Diseases and Disorders of the Eye,3635
+1522,APR MDC Description,8,8872.41,"Endocrine, Nutritional and Metabolic Diseases and Disorders",79913
+1523,APR MDC Description,9,8961.130000000001,Mental Diseases and Disorders,114924
+1524,APR MDC Description,10,8990.02,"Diseases and Disorders of Blood, Blood Forming Organs and Immunological Disorders",33711
+1525,APR MDC Description,11,9053.52,Diseases and Disorders of the Respiratory System,191532
+1526,APR MDC Description,12,9166.46,Diseases and Disorders of the Kidney and Urinary Tract,99583
+1527,APR MDC Description,13,9337.19,Diseases and Disorders of the Digestive System,189873
+1528,APR MDC Description,14,10372.045,Diseases and Disorders of the Female Reproductive System,23618
+1529,APR MDC Description,15,10443.08,Pre-MDC or Ungroupable,197
+1530,APR MDC Description,16,10958.849999999999,Diseases and Disorders of the Hepatobiliary System and Pancreas,64032
+1531,APR MDC Description,17,11257.05,Diseases and Disorders of the Nervous System,150977
+1532,APR MDC Description,18,11401.48,Diseases and Disorders of the Male Reproductive System,10508
+1533,APR MDC Description,19,11620.865000000002,Diseases and Disorders of the Circulatory System,300490
+1534,APR MDC Description,20,13214.755000000001,"Rehabilitation, Aftercare, Other Factors Influencing Health Status and Other Health Service Contacts",29666
+1535,APR MDC Description,21,13316.28,Burns,2141
+1536,APR MDC Description,22,13514.99,"Infectious and Parasitic Diseases, Systemic or Unspecified Sites",139365
+1537,APR MDC Description,23,14268.73,Human Immunodeficiency Virus Infections,6579
+1538,APR MDC Description,24,16686.97,Diseases and Disorders of the Musculoskeletal System and Conn Tissue,211381
+1539,APR MDC Description,25,18350.51,"Lymphatic, Hematopoietic, Other Malignancies, Chemotherapy and Radiotherapy",22601
+1540,APR MDC Description,26,22919.38,Multiple Significant Trauma,3961
+1541,APR Severity of Illness Code,1,6031.485,1,763664
+1542,APR Severity of Illness Code,2,7623.215,0,240
+1543,APR Severity of Illness Code,3,8649.880000000001,2,905106
+1544,APR Severity of Illness Code,4,13239.41,3,536354
+1545,APR Severity of Illness Code,5,30571.92,4,138205
+1546,APR Severity of Illness Description,1,6031.485,Minor,763664
+1547,APR Severity of Illness Description,2,8649.880000000001,Moderate,905106
+1548,APR Severity of Illness Description,3,13239.41,Major,536354
+1549,APR Severity of Illness Description,4,30571.92,Extreme,138205
+1550,APR Risk of Mortality,1,6971.285,Minor,1338452
+1551,APR Risk of Mortality,2,10451.744999999999,Moderate,508068
+1552,APR Risk of Mortality,3,14017.06,Major,378128
+1553,APR Risk of Mortality,4,24937.42,Extreme,118681
+1554,APR Medical Surgical Description,1,6958.115,Not Applicable,4
+1555,APR Medical Surgical Description,2,6972.125,Medical,1742760
+1556,APR Medical Surgical Description,3,16946.04,Surgical,600805
+1557,Payment Typology 2,1,7914.835,Self-Pay,306126
+1558,Payment Typology 2,2,8240.13,Unknown,1605
+1559,Payment Typology 2,3,8676.18,Medicaid,529741
+1560,Payment Typology 2,4,8822.94,Federal/State/Local/VA,12474
+1561,Payment Typology 2,5,10270.08,Miscellaneous/Other,15546
+1562,Payment Typology 2,6,10402.04,"Managed Care, Unspecified",4207
+1563,Payment Typology 2,7,11190.98,Department of Corrections,418
+1564,Payment Typology 2,8,11467.44,Blue Cross/Blue Shield,113199
+1565,Payment Typology 2,9,11527.625,Medicare,320584
+1566,Payment Typology 2,10,12169.97,Private Health Insurance,160947
+1567,Emergency Department Indicator,1,8702.63,N,969829
+1568,Emergency Department Indicator,2,9039.025000000001,Y,1373740
+1569,Operating Certificate Number,1,1761.975,2701006.0,2
+1570,Operating Certificate Number,2,2298.0,5022000.0,345
+1571,Operating Certificate Number,3,2944.91,632000.0,15
+1572,Operating Certificate Number,4,2984.93,1624000.0,1817
+1573,Operating Certificate Number,5,3110.85,427000.0,626
+1574,Operating Certificate Number,6,3245.41,4102004.0,1928
+1575,Operating Certificate Number,7,3260.45,5820000.0,6562
+1576,Operating Certificate Number,8,3302.0,5002001.0,800
+1577,Operating Certificate Number,9,3694.835,602001.0,7536
+1578,Operating Certificate Number,10,3843.885,2527000.0,2380
+1579,Operating Certificate Number,11,3963.72,1801000.0,4791
+1580,Operating Certificate Number,12,3986.63,601000.0,2042
+1581,Operating Certificate Number,13,4014.09,226700.0,19
+1582,Operating Certificate Number,14,4028.465,1427000.0,962
+1583,Operating Certificate Number,15,4033.58,3622700.0,375
+1584,Operating Certificate Number,16,4148.625,3201002.0,3804
+1585,Operating Certificate Number,17,4170.145,301001.0,4710
+1586,Operating Certificate Number,18,4239.1849999999995,501000.0,5220
+1587,Operating Certificate Number,19,4373.15,228000.0,2069
+1588,Operating Certificate Number,20,4459.245000000001,2701001.0,18508
+1589,Operating Certificate Number,21,4486.22,6120700.0,707
+1590,Operating Certificate Number,22,4520.94,3421000.0,2341
+1591,Operating Certificate Number,23,4646.2,7003001.0,16542
+1592,Operating Certificate Number,24,4707.75,6027000.0,1765
+1593,Operating Certificate Number,25,4709.15,1701000.0,2861
+1594,Operating Certificate Number,26,4752.145,4823700.0,496
+1595,Operating Certificate Number,27,4778.575,4401000.0,3022
+1596,Operating Certificate Number,28,4938.34,401001.0,6281
+1597,Operating Certificate Number,29,4941.5599999999995,3101000.0,4170
+1598,Operating Certificate Number,30,5014.014999999999,3429000.0,5542
+1599,Operating Certificate Number,31,5095.42,3102000.0,5531
+1600,Operating Certificate Number,32,5104.855,1101000.0,3812
+1601,Operating Certificate Number,33,5193.120000000001,5001000.0,4658
+1602,Operating Certificate Number,34,5212.35,2601001.0,2941
+1603,Operating Certificate Number,35,5249.76,5127000.0,2842
+1604,Operating Certificate Number,36,5389.98,3801000.0,1997
+1605,Operating Certificate Number,37,5407.19,701001.0,2155
+1606,Operating Certificate Number,38,5424.76,3702000.0,4490
+1607,Operating Certificate Number,39,5447.42,3202003.0,15024
+1608,Operating Certificate Number,40,5459.235000000001,4429000.0,5310
+1609,Operating Certificate Number,41,5492.2,1401013.0,19110
+1610,Operating Certificate Number,42,5493.514999999999,4402000.0,2140
+1611,Operating Certificate Number,43,5566.405000000001,3301008.0,21086
+1612,Operating Certificate Number,44,5620.91,5263000.0,4456
+1613,Operating Certificate Number,45,5665.030000000001,2238700.0,1274
+1614,Operating Certificate Number,46,5681.12,7001003.0,14057
+1615,Operating Certificate Number,47,5682.7,4720001.0,465
+1616,Operating Certificate Number,48,5829.57,2801001.0,6351
+1617,Operating Certificate Number,49,5830.55,7000014.0,14805
+1618,Operating Certificate Number,50,5892.01,5401001.0,7058
+1619,Operating Certificate Number,51,5910.98,7004010.0,16936
+1620,Operating Certificate Number,52,6001.25,1327000.0,5850
+1621,Operating Certificate Number,53,6010.08,1001000.0,5070
+1622,Operating Certificate Number,54,6010.83,5907001.0,16849
+1623,Operating Certificate Number,55,6050.89,5601000.0,13453
+1624,Operating Certificate Number,56,6095.950000000001,2129700.0,762
+1625,Operating Certificate Number,57,6201.41,7003003.0,21330
+1626,Operating Certificate Number,58,6213.885,5526700.0,310
+1627,Operating Certificate Number,59,6213.95,2201000.0,9979
+1628,Operating Certificate Number,60,6312.71,4324000.0,12857
+1629,Operating Certificate Number,61,6318.24,7002026.0,307
+1630,Operating Certificate Number,62,6556.58,701000.0,10642
+1631,Operating Certificate Number,63,6561.005,4102002.0,8194
+1632,Operating Certificate Number,64,6571.38,5149001.0,10951
+1633,Operating Certificate Number,65,6644.34,2701003.0,33245
+1634,Operating Certificate Number,66,6651.905000000001,303001.0,17212
+1635,Operating Certificate Number,67,6735.43,7004003.0,40415
+1636,Operating Certificate Number,68,6792.67,4601001.0,19787
+1637,Operating Certificate Number,69,6904.745,101003.0,2494
+1638,Operating Certificate Number,70,6946.870000000001,7000008.0,21432
+1639,Operating Certificate Number,71,7026.24,3950000.0,7137
+1640,Operating Certificate Number,72,7106.79,3402000.0,3788
+1641,Operating Certificate Number,73,7203.17,1302001.0,23267
+1642,Operating Certificate Number,74,7239.245,101004.0,29224
+1643,Operating Certificate Number,75,7262.26,5154001.0,26139
+1644,Operating Certificate Number,76,7285.725,3121001.0,5166
+1645,Operating Certificate Number,77,7336.73,824000.0,1331
+1646,Operating Certificate Number,78,7457.174999999999,4102003.0,404
+1647,Operating Certificate Number,79,7460.23,1254700.0,142
+1648,Operating Certificate Number,80,7491.32,7001020.0,40071
+1649,Operating Certificate Number,81,7501.9,1401008.0,21735
+1650,Operating Certificate Number,82,7518.084999999999,4501000.0,10530
+1651,Operating Certificate Number,83,7695.34,1401014.0,55816
+1652,Operating Certificate Number,84,7814.75,3301003.0,26509
+1653,Operating Certificate Number,85,7906.29,5123000.0,12131
+1654,Operating Certificate Number,86,7931.835,5157003.0,11040
+1655,Operating Certificate Number,87,7939.0650000000005,1552701.0,396
+1656,Operating Certificate Number,88,7958.04,5907002.0,6967
+1657,Operating Certificate Number,89,8076.43,7001008.0,6704
+1658,Operating Certificate Number,90,8194.15,101000.0,40937
+1659,Operating Certificate Number,91,8239.58,4423701.0,299
+1660,Operating Certificate Number,92,8295.22,3824000.0,10076
+1661,Operating Certificate Number,93,8297.07,7003004.0,87073
+1662,Operating Certificate Number,94,8364.41,5263700.0,39
+1663,Operating Certificate Number,95,8373.875,7001035.0,13794
+1664,Operating Certificate Number,96,8447.72,4458701.0,31
+1665,Operating Certificate Number,97,8526.13,7000024.0,7375
+1666,Operating Certificate Number,98,8574.53,2950001.0,21901
+1667,Operating Certificate Number,99,8607.36,7001021.0,36153
+1668,Operating Certificate Number,100,8617.54,7001046.0,8735
+1669,Operating Certificate Number,101,8628.02,5901000.0,9263
+1670,Operating Certificate Number,102,8659.33,2952006.0,5972
+1671,Operating Certificate Number,103,8704.2,3522000.0,10451
+1672,Operating Certificate Number,104,8713.815,5922000.0,10124
+1673,Operating Certificate Number,105,8817.41,5126000.0,1914
+1674,Operating Certificate Number,106,8948.6,5154000.0,22779
+1675,Operating Certificate Number,107,9054.7,7002021.0,10539
+1676,Operating Certificate Number,108,9081.69,2701005.0,43275
+1677,Operating Certificate Number,109,9115.439999999999,2424700.0,1276
+1678,Operating Certificate Number,110,9159.705,7003010.0,33474
+1679,Operating Certificate Number,111,9202.435000000001,5902001.0,17690
+1680,Operating Certificate Number,112,9340.28,1401005.0,15837
+1681,Operating Certificate Number,113,9345.66,2909000.0,10829
+1682,Operating Certificate Number,114,9365.795,5153000.0,16856
+1683,Operating Certificate Number,115,9368.035,2221700.0,106
+1684,Operating Certificate Number,116,9410.885,4329000.0,16146
+1685,Operating Certificate Number,117,9441.2,1404000.0,8163
+1686,Operating Certificate Number,118,9502.17,7003000.0,20855
+1687,Operating Certificate Number,119,9761.0,7001045.0,11098
+1688,Operating Certificate Number,120,9851.68,2754001.0,17714
+1689,Operating Certificate Number,121,9853.98,7000002.0,19513
+1690,Operating Certificate Number,122,10004.93,3523000.0,22911
+1691,Operating Certificate Number,123,10008.665,7001024.0,7858
+1692,Operating Certificate Number,124,10048.9,1564701.0,11
+1693,Operating Certificate Number,125,10065.06,7003007.0,13745
+1694,Operating Certificate Number,126,10174.29,7000006.0,87541
+1695,Operating Certificate Number,127,10193.85,7002017.0,32546
+1696,Operating Certificate Number,128,10211.98,3202002.0,10004
+1697,Operating Certificate Number,129,10229.33,2950002.0,18488
+1698,Operating Certificate Number,130,10261.465,901001.0,8862
+1699,Operating Certificate Number,131,10266.34,7002002.0,29433
+1700,Operating Certificate Number,132,10330.06,7001002.0,14133
+1701,Operating Certificate Number,133,10397.785,5155000.0,8558
+1702,Operating Certificate Number,134,10452.27,7001016.0,21579
+1703,Operating Certificate Number,135,10475.05,2951001.0,52128
+1704,Operating Certificate Number,136,10520.61,2952005.0,8443
+1705,Operating Certificate Number,137,10756.12,7002032.0,39575
+1706,Operating Certificate Number,138,10766.82,2625700.0,1489
+1707,Operating Certificate Number,139,10812.16,5151001.0,39292
+1708,Operating Certificate Number,140,10814.11,5920000.0,9949
+1709,Operating Certificate Number,141,10844.035,7002001.0,25886
+1710,Operating Certificate Number,142,10909.735,5149000.0,11842
+1711,Operating Certificate Number,143,11066.66,7001033.0,8503
+1712,Operating Certificate Number,144,11212.145,7000001.0,29694
+1713,Operating Certificate Number,145,11218.49,2901000.0,4643
+1714,Operating Certificate Number,146,11258.1,5501001.0,6957
+1715,Operating Certificate Number,147,11411.675,7002009.0,11850
+1716,Operating Certificate Number,148,11742.7,3301007.0,32871
+1717,Operating Certificate Number,149,11829.595000000001,2908000.0,36702
+1718,Operating Certificate Number,150,11945.34,7002054.0,126069
+1719,Operating Certificate Number,151,12093.560000000001,3535001.0,3542
+1720,Operating Certificate Number,152,12129.37,7001009.0,14261
+1721,Operating Certificate Number,153,12450.16,5501000.0,2902
+1722,Operating Certificate Number,154,12726.27,4601004.0,2373
+1723,Operating Certificate Number,155,12985.75,5904001.0,6733
+1724,Operating Certificate Number,156,13031.185000000001,2953000.0,16894
+1725,Operating Certificate Number,157,13053.535,3529000.0,2430
+1726,Operating Certificate Number,158,13087.74,1226701.0,109
+1727,Operating Certificate Number,159,13196.235,7002024.0,61078
+1728,Operating Certificate Number,160,13568.22,5903001.0,3031
+1729,Operating Certificate Number,161,13699.435,1623001.0,2406
+1730,Operating Certificate Number,162,13877.02,5932000.0,8115
+1731,Operating Certificate Number,163,15243.88,1229700.0,305
+1732,Operating Certificate Number,164,15332.84,7000011.0,2599
+1733,Operating Certificate Number,165,15533.565,1401010.0,4906
+1734,Operating Certificate Number,166,15643.029999999999,7001037.0,11152
+1735,Operating Certificate Number,167,15862.38,7002053.0,67675
+1736,Operating Certificate Number,168,16938.120000000003,5957001.0,27658
+1737,Operating Certificate Number,169,20355.335,4322000.0,2380
+1738,Operating Certificate Number,170,23617.775,5902002.0,2420
+1739,Operating Certificate Number,171,23902.13,7002012.0,15071
+1740,Operating Certificate Number,172,24411.835,7002020.0,23300
+1741,Operating Certificate Number,173,37566.78,5957000.0,585
+1742,Operating Certificate Number,174,130009.005,7002050.0,268
+1743,Permanent Facility Id,1,1761.975,414.0,2
+1744,Permanent Facility Id,2,2298.0,873.0,345
+1745,Permanent Facility Id,3,2762.55,1099.0,6962
+1746,Permanent Facility Id,4,2944.91,111.0,15
+1747,Permanent Facility Id,5,2984.93,325.0,1817
+1748,Permanent Facility Id,6,3245.41,9250.0,1928
+1749,Permanent Facility Id,7,3260.45,1028.0,6562
+1750,Permanent Facility Id,8,3302.0,870.0,800
+1751,Permanent Facility Id,9,3307.7,114.0,721
+1752,Permanent Facility Id,10,3617.4799999999996,12.0,778
+1753,Permanent Facility Id,11,3632.09,103.0,6409
+1754,Permanent Facility Id,12,3772.72,339.0,4347
+1755,Permanent Facility Id,13,3800.75,3376.0,18889
+1756,Permanent Facility Id,14,3843.885,393.0,2380
+1757,Permanent Facility Id,15,3960.73,98.0,1947
+1758,Permanent Facility Id,16,4014.09,37.0,19
+1759,Permanent Facility Id,17,4019.72,102.0,1127
+1760,Permanent Facility Id,18,4028.465,280.0,962
+1761,Permanent Facility Id,19,4033.58,718.0,375
+1762,Permanent Facility Id,20,4148.625,589.0,3804
+1763,Permanent Facility Id,21,4170.145,43.0,4710
+1764,Permanent Facility Id,22,4239.1849999999995,85.0,5220
+1765,Permanent Facility Id,23,4373.15,39.0,2069
+1766,Permanent Facility Id,24,4453.924999999999,1737.0,9424
+1767,Permanent Facility Id,25,4459.245000000001,409.0,18508
+1768,Permanent Facility Id,26,4486.22,1158.0,707
+1769,Permanent Facility Id,27,4520.94,676.0,2341
+1770,Permanent Facility Id,28,4642.325000000001,218.0,14870
+1771,Permanent Facility Id,29,4646.2,1628.0,16542
+1772,Permanent Facility Id,30,4707.75,1153.0,1765
+1773,Permanent Facility Id,31,4709.15,330.0,2861
+1774,Permanent Facility Id,32,4752.145,858.0,496
+1775,Permanent Facility Id,33,4778.575,798.0,3022
+1776,Permanent Facility Id,34,4938.34,66.0,6281
+1777,Permanent Facility Id,35,4941.5599999999995,565.0,4170
+1778,Permanent Facility Id,36,5014.014999999999,678.0,5542
+1779,Permanent Facility Id,37,5095.42,574.0,5531
+1780,Permanent Facility Id,38,5104.855,158.0,3812
+1781,Permanent Facility Id,39,5193.120000000001,866.0,4658
+1782,Permanent Facility Id,40,5212.35,397.0,2941
+1783,Permanent Facility Id,41,5249.76,891.0,2842
+1784,Permanent Facility Id,42,5389.98,739.0,1997
+1785,Permanent Facility Id,43,5393.52,636.0,20363
+1786,Permanent Facility Id,44,5407.19,118.0,2155
+1787,Permanent Facility Id,45,5424.64,208.0,12401
+1788,Permanent Facility Id,46,5447.42,599.0,15024
+1789,Permanent Facility Id,47,5459.235000000001,815.0,5310
+1790,Permanent Facility Id,48,5493.514999999999,804.0,2140
+1791,Permanent Facility Id,49,5501.88,2.0,6
+1792,Permanent Facility Id,50,5620.91,971.0,4456
+1793,Permanent Facility Id,51,5656.385,484.0,6180
+1794,Permanent Facility Id,52,5665.030000000001,379.0,1274
+1795,Permanent Facility Id,53,5681.12,1288.0,14057
+1796,Permanent Facility Id,54,5682.7,851.0,465
+1797,Permanent Facility Id,55,5830.55,1176.0,14805
+1798,Permanent Facility Id,56,5867.98,1738.0,16619
+1799,Permanent Facility Id,57,5886.15,727.0,3712
+1800,Permanent Facility Id,58,5892.01,977.0,7058
+1801,Permanent Facility Id,59,5919.04,3067.0,17449
+1802,Permanent Facility Id,60,6001.25,192.0,5850
+1803,Permanent Facility Id,61,6010.08,146.0,5070
+1804,Permanent Facility Id,62,6050.89,1005.0,13453
+1805,Permanent Facility Id,63,6095.950000000001,362.0,762
+1806,Permanent Facility Id,64,6201.41,1629.0,21330
+1807,Permanent Facility Id,65,6213.885,1002.0,310
+1808,Permanent Facility Id,66,6213.95,367.0,9979
+1809,Permanent Facility Id,67,6217.280000000001,58.0,12842
+1810,Permanent Facility Id,68,6243.674999999999,581.0,1214
+1811,Permanent Facility Id,69,6267.15,9431.0,593
+1812,Permanent Facility Id,70,6312.71,776.0,12857
+1813,Permanent Facility Id,71,6318.24,1460.0,307
+1814,Permanent Facility Id,72,6332.17,848.0,5076
+1815,Permanent Facility Id,73,6469.835,340.0,444
+1816,Permanent Facility Id,74,6556.58,116.0,10642
+1817,Permanent Facility Id,75,6561.005,756.0,8194
+1818,Permanent Facility Id,76,6571.38,896.0,10951
+1819,Permanent Facility Id,77,6644.34,411.0,33245
+1820,Permanent Facility Id,78,6723.87,1639.0,8743
+1821,Permanent Facility Id,79,6899.855,1098.0,3886
+1822,Permanent Facility Id,80,6904.745,4.0,2494
+1823,Permanent Facility Id,81,6946.870000000001,1172.0,21432
+1824,Permanent Facility Id,82,6955.58,412.0,483
+1825,Permanent Facility Id,83,7026.24,752.0,7137
+1826,Permanent Facility Id,84,7106.79,671.0,3788
+1827,Permanent Facility Id,85,7203.17,181.0,23267
+1828,Permanent Facility Id,86,7262.26,925.0,26139
+1829,Permanent Facility Id,87,7284.64,5.0,28631
+1830,Permanent Facility Id,88,7285.725,583.0,5166
+1831,Permanent Facility Id,89,7304.41,829.0,14711
+1832,Permanent Facility Id,90,7333.02,1740.0,30991
+1833,Permanent Facility Id,91,7336.73,128.0,1331
+1834,Permanent Facility Id,92,7379.62,1473.0,317
+1835,Permanent Facility Id,93,7457.174999999999,755.0,404
+1836,Permanent Facility Id,94,7460.23,165.0,142
+1837,Permanent Facility Id,95,7491.32,1305.0,40071
+1838,Permanent Facility Id,96,7501.9,213.0,21735
+1839,Permanent Facility Id,97,7518.084999999999,818.0,10530
+1840,Permanent Facility Id,98,7519.31,1437.0,12891
+1841,Permanent Facility Id,99,7530.355,1638.0,15680
+1842,Permanent Facility Id,100,7751.38,42.0,4370
+1843,Permanent Facility Id,101,7814.75,630.0,26509
+1844,Permanent Facility Id,102,7906.29,885.0,12131
+1845,Permanent Facility Id,103,7931.835,943.0,11040
+1846,Permanent Facility Id,104,7939.0650000000005,303.0,396
+1847,Permanent Facility Id,105,7983.95,1466.0,25473
+1848,Permanent Facility Id,106,8076.43,1293.0,6704
+1849,Permanent Facility Id,107,8085.48,9059.0,723
+1850,Permanent Facility Id,108,8195.15,1.0,40931
+1851,Permanent Facility Id,109,8239.58,812.0,299
+1852,Permanent Facility Id,110,8295.22,746.0,10076
+1853,Permanent Facility Id,111,8298.185,1324.0,9318
+1854,Permanent Facility Id,112,8364.41,968.0,39
+1855,Permanent Facility Id,113,8373.875,1318.0,13794
+1856,Permanent Facility Id,114,8447.72,817.0,31
+1857,Permanent Facility Id,115,8458.625,292.0,4240
+1858,Permanent Facility Id,116,8526.13,1186.0,7375
+1859,Permanent Facility Id,117,8574.53,527.0,21901
+1860,Permanent Facility Id,118,8601.005000000001,1122.0,11618
+1861,Permanent Facility Id,119,8607.36,1306.0,36153
+1862,Permanent Facility Id,120,8617.54,1309.0,8735
+1863,Permanent Facility Id,121,8628.02,1039.0,9263
+1864,Permanent Facility Id,122,8659.33,551.0,5972
+1865,Permanent Facility Id,123,8661.494999999999,889.0,4708
+1866,Permanent Facility Id,124,8704.2,694.0,10451
+1867,Permanent Facility Id,125,8851.6,518.0,8613
+1868,Permanent Facility Id,126,8917.18,1164.0,4131
+1869,Permanent Facility Id,127,8948.6,924.0,22779
+1870,Permanent Facility Id,128,9054.7,1454.0,10539
+1871,Permanent Facility Id,129,9081.69,413.0,43275
+1872,Permanent Facility Id,130,9100.49,3975.0,12115
+1873,Permanent Facility Id,131,9115.439999999999,383.0,1276
+1874,Permanent Facility Id,132,9159.705,1637.0,33474
+1875,Permanent Facility Id,133,9202.435000000001,1045.0,17690
+1876,Permanent Facility Id,134,9340.28,210.0,15837
+1877,Permanent Facility Id,135,9345.66,513.0,10829
+1878,Permanent Facility Id,136,9365.795,913.0,16856
+1879,Permanent Facility Id,137,9368.035,377.0,106
+1880,Permanent Facility Id,138,9407.17,1133.0,3081
+1881,Permanent Facility Id,139,9410.885,779.0,16146
+1882,Permanent Facility Id,140,9441.2,267.0,8163
+1883,Permanent Facility Id,141,9444.96,1097.0,9080
+1884,Permanent Facility Id,142,9502.17,1626.0,20855
+1885,Permanent Facility Id,143,9761.0,1692.0,11098
+1886,Permanent Facility Id,144,9853.98,1165.0,19513
+1887,Permanent Facility Id,145,9903.154999999999,3058.0,29124
+1888,Permanent Facility Id,146,9960.48,471.0,17231
+1889,Permanent Facility Id,147,9985.380000000001,1304.0,23954
+1890,Permanent Facility Id,148,9986.42,1630.0,43891
+1891,Permanent Facility Id,149,10004.93,699.0,22911
+1892,Permanent Facility Id,150,10008.665,1635.0,7858
+1893,Permanent Facility Id,151,10048.9,309.0,11
+1894,Permanent Facility Id,152,10065.06,1633.0,13745
+1895,Permanent Facility Id,153,10145.65,1168.0,15325
+1896,Permanent Facility Id,154,10193.85,1450.0,32546
+1897,Permanent Facility Id,155,10211.98,598.0,10004
+1898,Permanent Facility Id,156,10229.33,528.0,18488
+1899,Permanent Facility Id,157,10261.465,135.0,8862
+1900,Permanent Facility Id,158,10326.76,541.0,48316
+1901,Permanent Facility Id,159,10330.06,1286.0,14133
+1902,Permanent Facility Id,160,10337.115,1169.0,43092
+1903,Permanent Facility Id,161,10397.785,938.0,8558
+1904,Permanent Facility Id,162,10426.62,180.0,5947
+1905,Permanent Facility Id,163,10452.27,1301.0,21579
+1906,Permanent Facility Id,164,10520.61,552.0,8443
+1907,Permanent Facility Id,165,10766.82,401.0,1489
+1908,Permanent Facility Id,166,10814.11,1117.0,9949
+1909,Permanent Facility Id,167,10844.035,1438.0,25886
+1910,Permanent Facility Id,168,10909.735,895.0,11842
+1911,Permanent Facility Id,169,10956.58,628.0,8055
+1912,Permanent Facility Id,170,11033.055,245.0,36498
+1913,Permanent Facility Id,171,11066.66,1315.0,8503
+1914,Permanent Facility Id,172,11218.49,490.0,4643
+1915,Permanent Facility Id,173,11258.1,990.0,6957
+1916,Permanent Facility Id,174,11297.57,1178.0,25563
+1917,Permanent Facility Id,175,11407.7,1439.0,20115
+1918,Permanent Facility Id,176,11411.675,1445.0,11850
+1919,Permanent Facility Id,177,11622.765,207.0,24752
+1920,Permanent Facility Id,178,11829.595000000001,511.0,36702
+1921,Permanent Facility Id,179,12042.77,635.0,24816
+1922,Permanent Facility Id,180,12093.560000000001,708.0,3542
+1923,Permanent Facility Id,181,12129.37,1294.0,14261
+1924,Permanent Facility Id,182,12450.16,989.0,2902
+1925,Permanent Facility Id,183,12660.1,1464.0,49079
+1926,Permanent Facility Id,184,12726.27,831.0,2373
+1927,Permanent Facility Id,185,12985.75,1072.0,6733
+1928,Permanent Facility Id,186,13031.185000000001,563.0,16894
+1929,Permanent Facility Id,187,13053.535,704.0,2430
+1930,Permanent Facility Id,188,13087.74,170.0,109
+1931,Permanent Facility Id,189,13113.47,1047.0,4371
+1932,Permanent Facility Id,190,13214.91,482.0,171
+1933,Permanent Facility Id,191,13568.22,1061.0,3031
+1934,Permanent Facility Id,192,13699.435,324.0,2406
+1935,Permanent Facility Id,193,13877.02,1129.0,8115
+1936,Permanent Facility Id,194,14155.27,1458.0,46119
+1937,Permanent Facility Id,195,14408.34,1456.0,52335
+1938,Permanent Facility Id,196,15141.265,550.0,3812
+1939,Permanent Facility Id,197,15243.88,174.0,305
+1940,Permanent Facility Id,198,15332.84,1175.0,2599
+1941,Permanent Facility Id,199,15533.565,216.0,4906
+1942,Permanent Facility Id,200,15558.77,1469.0,14102
+1943,Permanent Facility Id,201,15643.029999999999,1320.0,11152
+1944,Permanent Facility Id,202,16363.74,1124.0,807
+1945,Permanent Facility Id,203,16653.33,1463.0,36547
+1946,Permanent Facility Id,204,19077.41,1139.0,21711
+1947,Permanent Facility Id,205,20355.335,775.0,2380
+1948,Permanent Facility Id,206,23617.775,1046.0,2420
+1949,Permanent Facility Id,207,23902.13,1447.0,15071
+1950,Permanent Facility Id,208,24411.835,1453.0,23300
+1951,Permanent Facility Id,209,30396.485,1446.0,7174
+1952,Permanent Facility Id,210,37566.78,1138.0,585
+1953,Permanent Facility Id,211,130009.005,1486.0,268
+1954,CCS Diagnosis Code,1,2152.31,218,219894
+1955,CCS Diagnosis Code,2,2160.4,256,77
+1956,CCS Diagnosis Code,3,3288.475,222,2324
+1957,CCS Diagnosis Code,4,3968.09,650,3887
+1958,CCS Diagnosis Code,5,4214.31,255,93
+1959,CCS Diagnosis Code,6,4638.03,49,227
+1960,CCS Diagnosis Code,7,4727.88,661,36468
+1961,CCS Diagnosis Code,8,5073.14,126,5118
+1962,CCS Diagnosis Code,9,5083.09,124,1935
+1963,CCS Diagnosis Code,10,5193.05,251,5815
+1964,CCS Diagnosis Code,11,5277.31,253,1601
+1965,CCS Diagnosis Code,12,5383.68,651,3253
+1966,CCS Diagnosis Code,13,5407.22,660,50957
+1967,CCS Diagnosis Code,14,5443.74,98,1216
+1968,CCS Diagnosis Code,15,5520.09,102,21603
+1969,CCS Diagnosis Code,16,5659.315,177,1358
+1970,CCS Diagnosis Code,17,5659.705,84,4514
+1971,CCS Diagnosis Code,18,5750.0599999999995,93,5224
+1972,CCS Diagnosis Code,19,5774.095,89,410
+1973,CCS Diagnosis Code,20,5775.49,663,3
+1974,CCS Diagnosis Code,21,5850.99,196,6756
+1975,CCS Diagnosis Code,22,5868.29,250,1941
+1976,CCS Diagnosis Code,23,5935.01,154,8680
+1977,CCS Diagnosis Code,24,5945.76,193,18911
+1978,CCS Diagnosis Code,25,5973.02,178,365
+1979,CCS Diagnosis Code,26,5979.01,192,7739
+1980,CCS Diagnosis Code,27,6016.105,184,9540
+1981,CCS Diagnosis Code,28,6058.3150000000005,92,792
+1982,CCS Diagnosis Code,29,6082.57,654,119
+1983,CCS Diagnosis Code,30,6166.495000000001,223,26
+1984,CCS Diagnosis Code,31,6217.17,112,8202
+1985,CCS Diagnosis Code,32,6246.43,125,9685
+1986,CCS Diagnosis Code,33,6320.385,94,620
+1987,CCS Diagnosis Code,34,6343.69,55,23765
+1988,CCS Diagnosis Code,35,6344.969999999999,7,5024
+1989,CCS Diagnosis Code,36,6388.5,128,19819
+1990,CCS Diagnosis Code,37,6430.87,258,1307
+1991,CCS Diagnosis Code,38,6446.86,243,1039
+1992,CCS Diagnosis Code,39,6480.65,656,1091
+1993,CCS Diagnosis Code,40,6487.33,658,1533
+1994,CCS Diagnosis Code,41,6579.41,239,2717
+1995,CCS Diagnosis Code,42,6597.275,245,14784
+1996,CCS Diagnosis Code,43,6615.46,174,11
+1997,CCS Diagnosis Code,44,6675.16,181,23159
+1998,CCS Diagnosis Code,45,6677.325,246,2860
+1999,CCS Diagnosis Code,46,6709.42,135,13053
+2000,CCS Diagnosis Code,47,6718.62,241,1467
+2001,CCS Diagnosis Code,48,6787.04,163,2222
+2002,CCS Diagnosis Code,49,6794.93,176,32
+2003,CCS Diagnosis Code,50,6834.06,185,30873
+2004,CCS Diagnosis Code,51,6891.32,662,5383
+2005,CCS Diagnosis Code,52,6892.610000000001,195,43138
+2006,CCS Diagnosis Code,53,6950.49,655,537
+2007,CCS Diagnosis Code,54,6980.375,197,36750
+2008,CCS Diagnosis Code,55,7064.715,8,1370
+2009,CCS Diagnosis Code,56,7084.36,168,1835
+2010,CCS Diagnosis Code,57,7099.075,10,96
+2011,CCS Diagnosis Code,58,7156.445,190,9080
+2012,CCS Diagnosis Code,59,7204.51,83,26715
+2013,CCS Diagnosis Code,60,7274.465,244,6200
+2014,CCS Diagnosis Code,61,7277.9349999999995,186,7808
+2015,CCS Diagnosis Code,62,7280.08,120,1805
+2016,CCS Diagnosis Code,63,7280.67,224,3433
+2017,CCS Diagnosis Code,64,7288.82,123,6503
+2018,CCS Diagnosis Code,65,7346.87,137,1455
+2019,CCS Diagnosis Code,66,7374.6,235,2376
+2020,CCS Diagnosis Code,67,7383.89,188,1375
+2021,CCS Diagnosis Code,68,7387.72,242,4528
+2022,CCS Diagnosis Code,69,7511.56,2617,435
+2023,CCS Diagnosis Code,70,7526.01,86,22
+2024,CCS Diagnosis Code,71,7530.575,159,31656
+2025,CCS Diagnosis Code,72,7541.36,140,5040
+2026,CCS Diagnosis Code,73,7602.805,117,6346
+2027,CCS Diagnosis Code,74,7605.565,88,96
+2028,CCS Diagnosis Code,75,7635.95,152,16763
+2029,CCS Diagnosis Code,76,7674.0650000000005,191,29394
+2030,CCS Diagnosis Code,77,7717.8,54,1821
+2031,CCS Diagnosis Code,78,7727.78,180,1301
+2032,CCS Diagnosis Code,79,7755.57,171,765
+2033,CCS Diagnosis Code,80,7777.2,236,2171
+2034,CCS Diagnosis Code,81,7788.66,87,358
+2035,CCS Diagnosis Code,82,7802.11,165,1723
+2036,CCS Diagnosis Code,83,7807.31,182,3175
+2037,CCS Diagnosis Code,84,7854.25,657,54465
+2038,CCS Diagnosis Code,85,7880.62,59,11491
+2039,CCS Diagnosis Code,86,7882.03,247,1003
+2040,CCS Diagnosis Code,87,7939.02,172,1198
+2041,CCS Diagnosis Code,88,7943.99,91,643
+2042,CCS Diagnosis Code,89,8029.385,200,1066
+2043,CCS Diagnosis Code,90,8077.74,194,23
+2044,CCS Diagnosis Code,91,8097.13,161,8505
+2045,CCS Diagnosis Code,92,8147.115,60,3358
+2046,CCS Diagnosis Code,93,8158.42,259,7111
+2047,CCS Diagnosis Code,94,8180.41,127,45325
+2048,CCS Diagnosis Code,95,8188.62,160,3386
+2049,CCS Diagnosis Code,96,8213.705,145,18796
+2050,CCS Diagnosis Code,97,8219.65,211,8803
+2051,CCS Diagnosis Code,98,8224.240000000002,167,1236
+2052,CCS Diagnosis Code,99,8247.21,122,38175
+2053,CCS Diagnosis Code,100,8295.295,179,38
+2054,CCS Diagnosis Code,101,8349.18,204,2599
+2055,CCS Diagnosis Code,102,8407.1,138,6947
+2056,CCS Diagnosis Code,103,8425.98,90,1095
+2057,CCS Diagnosis Code,104,8479.5,48,2044
+2058,CCS Diagnosis Code,105,8481.67,166,793
+2059,CCS Diagnosis Code,106,8526.8,189,26557
+2060,CCS Diagnosis Code,107,8547.455,183,16252
+2061,CCS Diagnosis Code,108,8634.61,187,7734
+2062,CCS Diagnosis Code,109,8664.1,164,2603
+2063,CCS Diagnosis Code,110,8690.27,147,2869
+2064,CCS Diagnosis Code,111,8720.145,133,7058
+2065,CCS Diagnosis Code,112,8720.97,134,2672
+2066,CCS Diagnosis Code,113,8816.14,198,973
+2067,CCS Diagnosis Code,114,8864.16,106,41981
+2068,CCS Diagnosis Code,115,8899.17,142,14351
+2069,CCS Diagnosis Code,116,8911.41,61,9237
+2070,CCS Diagnosis Code,117,8922.48,232,1558
+2071,CCS Diagnosis Code,118,8965.81,146,18925
+2072,CCS Diagnosis Code,119,9039.34,173,285
+2073,CCS Diagnosis Code,120,9071.4,118,7201
+2074,CCS Diagnosis Code,121,9167.654999999999,157,26728
+2075,CCS Diagnosis Code,122,9234.95,175,2259
+2076,CCS Diagnosis Code,123,9355.21,119,562
+2077,CCS Diagnosis Code,124,9416.01,652,1303
+2078,CCS Diagnosis Code,125,9424.21,76,1511
+2079,CCS Diagnosis Code,126,9425.345000000001,80,1908
+2080,CCS Diagnosis Code,127,9498.7,206,21
+2081,CCS Diagnosis Code,128,9531.2,103,11161
+2082,CCS Diagnosis Code,129,9544.5,231,14701
+2083,CCS Diagnosis Code,130,9654.235,144,6952
+2084,CCS Diagnosis Code,131,9704.564999999999,136,2088
+2085,CCS Diagnosis Code,132,9799.87,53,113
+2086,CCS Diagnosis Code,133,9822.19,81,1665
+2087,CCS Diagnosis Code,134,9828.28,108,12083
+2088,CCS Diagnosis Code,135,9861.61,50,40891
+2089,CCS Diagnosis Code,136,9909.95,51,3822
+2090,CCS Diagnosis Code,137,9911.37,6,1063
+2091,CCS Diagnosis Code,138,9972.89,153,21900
+2092,CCS Diagnosis Code,139,10012.255000000001,169,1046
+2093,CCS Diagnosis Code,140,10216.81,252,4093
+2094,CCS Diagnosis Code,141,10291.53,155,13629
+2095,CCS Diagnosis Code,142,10415.865,121,1634
+2096,CCS Diagnosis Code,143,10422.23,670,1919
+2097,CCS Diagnosis Code,144,10502.779999999999,228,3846
+2098,CCS Diagnosis Code,145,10510.35,46,8127
+2099,CCS Diagnosis Code,146,10524.32,110,4666
+2100,CCS Diagnosis Code,147,10547.44,99,73867
+2101,CCS Diagnosis Code,148,10668.455,653,7404
+2102,CCS Diagnosis Code,149,10677.79,170,1703
+2103,CCS Diagnosis Code,150,10778.435000000001,58,26266
+2104,CCS Diagnosis Code,151,10791.845,36,1088
+2105,CCS Diagnosis Code,152,10835.34,139,2135
+2106,CCS Diagnosis Code,153,10844.06,104,638
+2107,CCS Diagnosis Code,154,10980.955,3,1814
+2108,CCS Diagnosis Code,155,11085.08,149,24004
+2109,CCS Diagnosis Code,156,11122.27,95,21287
+2110,CCS Diagnosis Code,157,11197.47,229,8123
+2111,CCS Diagnosis Code,158,11207.24,62,3339
+2112,CCS Diagnosis Code,159,11388.91,64,365
+2113,CCS Diagnosis Code,160,11392.62,132,445
+2114,CCS Diagnosis Code,161,11499.6,63,3729
+2115,CCS Diagnosis Code,162,11521.36,4,929
+2116,CCS Diagnosis Code,163,11563.46,151,7147
+2117,CCS Diagnosis Code,164,11567.36,9,350
+2118,CCS Diagnosis Code,165,11591.1,129,8441
+2119,CCS Diagnosis Code,166,11646.8,215,603
+2120,CCS Diagnosis Code,167,11871.32,79,1903
+2121,CCS Diagnosis Code,168,11879.22,141,3067
+2122,CCS Diagnosis Code,169,11879.9,214,948
+2123,CCS Diagnosis Code,170,11997.34,659,41928
+2124,CCS Diagnosis Code,171,12029.62,162,1143
+2125,CCS Diagnosis Code,172,12147.185,156,896
+2126,CCS Diagnosis Code,173,12240.91,233,12645
+2127,CCS Diagnosis Code,174,12261.41,130,5983
+2128,CCS Diagnosis Code,175,12345.35,238,32259
+2129,CCS Diagnosis Code,176,12376.875,143,11676
+2130,CCS Diagnosis Code,177,12381.23,234,4367
+2131,CCS Diagnosis Code,178,12599.880000000001,57,654
+2132,CCS Diagnosis Code,179,12606.11,148,1247
+2133,CCS Diagnosis Code,180,12675.85,202,894
+2134,CCS Diagnosis Code,181,12818.705,26,684
+2135,CCS Diagnosis Code,182,12826.47,158,549
+2136,CCS Diagnosis Code,183,13000.935000000001,44,2760
+2137,CCS Diagnosis Code,184,13180.77,210,2371
+2138,CCS Diagnosis Code,185,13243.33,28,435
+2139,CCS Diagnosis Code,186,13412.43,240,2228
+2140,CCS Diagnosis Code,187,13428.72,52,895
+2141,CCS Diagnosis Code,188,13616.835,131,22176
+2142,CCS Diagnosis Code,189,13739.83,199,2737
+2143,CCS Diagnosis Code,190,13816.64,29,4648
+2144,CCS Diagnosis Code,191,13880.57,45,9707
+2145,CCS Diagnosis Code,192,14152.51,208,307
+2146,CCS Diagnosis Code,193,14297.18,107,1583
+2147,CCS Diagnosis Code,194,14336.67,25,2108
+2148,CCS Diagnosis Code,195,14375.715,109,37068
+2149,CCS Diagnosis Code,196,14402.74,2,117175
+2150,CCS Diagnosis Code,197,14462.23,22,175
+2151,CCS Diagnosis Code,198,14547.845000000001,249,300
+2152,CCS Diagnosis Code,199,14742.470000000001,97,5538
+2153,CCS Diagnosis Code,200,14847.07,225,1497
+2154,CCS Diagnosis Code,201,15138.93,31,82
+2155,CCS Diagnosis Code,202,15264.115,114,7014
+2156,CCS Diagnosis Code,203,15324.630000000001,101,29906
+2157,CCS Diagnosis Code,204,15445.96,230,13703
+2158,CCS Diagnosis Code,205,15623.650000000001,100,35032
+2159,CCS Diagnosis Code,206,15682.32,23,423
+2160,CCS Diagnosis Code,207,15906.23,217,2081
+2161,CCS Diagnosis Code,208,16117.95,24,4854
+2162,CCS Diagnosis Code,209,16158.045,33,3356
+2163,CCS Diagnosis Code,210,16359.134999999998,27,1692
+2164,CCS Diagnosis Code,211,16392.46,201,4753
+2165,CCS Diagnosis Code,212,16431.46,5,2611
+2166,CCS Diagnosis Code,213,17076.23,34,285
+2167,CCS Diagnosis Code,214,17108.72,212,3209
+2168,CCS Diagnosis Code,215,17185.82,47,8109
+2169,CCS Diagnosis Code,216,17375.08,237,36630
+2170,CCS Diagnosis Code,217,17561.97,205,34686
+2171,CCS Diagnosis Code,218,17777.11,203,70865
+2172,CCS Diagnosis Code,219,17941.684999999998,105,5096
+2173,CCS Diagnosis Code,220,18395.95,226,17338
+2174,CCS Diagnosis Code,221,18995.83,257,9266
+2175,CCS Diagnosis Code,222,19235.114999999998,32,2260
+2176,CCS Diagnosis Code,223,19327.230000000003,42,15852
+2177,CCS Diagnosis Code,224,19386.96,207,3332
+2178,CCS Diagnosis Code,225,19469.19,216,597
+2179,CCS Diagnosis Code,226,19558.835,19,9558
+2180,CCS Diagnosis Code,227,19794.25,254,71
+2181,CCS Diagnosis Code,228,19872.66,14,5951
+2182,CCS Diagnosis Code,229,20084.2,116,1259
+2183,CCS Diagnosis Code,230,20157.67,17,2989
+2184,CCS Diagnosis Code,231,20432.39,43,903
+2185,CCS Diagnosis Code,232,20675.105,16,2264
+2186,CCS Diagnosis Code,233,20885.425000000003,82,1122
+2187,CCS Diagnosis Code,234,21170.61,56,715
+2188,CCS Diagnosis Code,235,21648.805,113,8276
+2189,CCS Diagnosis Code,236,22279.21,20,205
+2190,CCS Diagnosis Code,237,22982.87,85,361
+2191,CCS Diagnosis Code,238,23297.055,21,1170
+2192,CCS Diagnosis Code,239,23417.1,12,937
+2193,CCS Diagnosis Code,240,23503.305,15,2454
+2194,CCS Diagnosis Code,241,23648.16,18,1569
+2195,CCS Diagnosis Code,242,24128.38,13,2293
+2196,CCS Diagnosis Code,243,24296.48,77,817
+2197,CCS Diagnosis Code,244,24473.63,37,317
+2198,CCS Diagnosis Code,245,24626.35,41,700
+2199,CCS Diagnosis Code,246,24638.27,11,2322
+2200,CCS Diagnosis Code,247,25329.300000000003,248,1678
+2201,CCS Diagnosis Code,248,25527.995000000003,30,124
+2202,CCS Diagnosis Code,249,27242.87,35,2903
+2203,CCS Diagnosis Code,250,27376.78,220,132
+2204,CCS Diagnosis Code,251,27457.9,38,2986
+2205,CCS Diagnosis Code,252,27532.114999999998,111,2114
+2206,CCS Diagnosis Code,253,28987.57,78,533
+2207,CCS Diagnosis Code,254,33002.49,213,3035
+2208,CCS Diagnosis Code,255,33104.31,209,4488
+2209,CCS Diagnosis Code,256,34028.4,219,425
+2210,CCS Diagnosis Code,257,35003.325,115,5316
+2211,CCS Diagnosis Code,258,35109.41,227,642
+2212,CCS Diagnosis Code,259,36244.21,1,517
+2213,CCS Diagnosis Code,260,40957.009999999995,221,220
+2214,CCS Diagnosis Code,261,43964.745,40,1934
+2215,CCS Diagnosis Code,262,44037.075,39,3290
+2216,CCS Diagnosis Code,263,51954.2,96,12110
+2217,CCS Procedure Code,1,1537.3249999999998,220,35564
+2218,CCS Procedure Code,2,2170.68,115,45615
+2219,CCS Procedure Code,3,2274.13,228,67632
+2220,CCS Procedure Code,4,4435.264999999999,219,59238
+2221,CCS Procedure Code,5,4718.7,139,4457
+2222,CCS Procedure Code,6,5654.335,203,4652
+2223,CCS Procedure Code,7,5865.965,141,634
+2224,CCS Procedure Code,8,5983.95,32,2197
+2225,CCS Procedure Code,9,6014.334999999999,136,1610
+2226,CCS Procedure Code,10,6023.305,0,695044
+2227,CCS Procedure Code,11,6269.08,127,1728
+2228,CCS Procedure Code,12,6359.52,137,118794
+2229,CCS Procedure Code,13,6504.395,30,1036
+2230,CCS Procedure Code,14,6608.04,53,8
+2231,CCS Procedure Code,15,6625.04,16,21
+2232,CCS Procedure Code,16,6650.0650000000005,171,10446
+2233,CCS Procedure Code,17,6683.33,126,475
+2234,CCS Procedure Code,18,6804.1,135,6739
+2235,CCS Procedure Code,19,6841.23,131,2829
+2236,CCS Procedure Code,20,6944.65,138,25
+2237,CCS Procedure Code,21,7086.95,205,307
+2238,CCS Procedure Code,22,7113.43,186,27
+2239,CCS Procedure Code,23,7115.514999999999,133,1536
+2240,CCS Procedure Code,24,7392.76,179,6916
+2241,CCS Procedure Code,25,7463.4,22,5
+2242,CCS Procedure Code,26,7552.91,178,1106
+2243,CCS Procedure Code,27,7567.66,227,8284
+2244,CCS Procedure Code,28,7572.13,132,2249
+2245,CCS Procedure Code,29,7608.67,160,10275
+2246,CCS Procedure Code,30,7624.215,182,2
+2247,CCS Procedure Code,31,7667.675,221,5556
+2248,CCS Procedure Code,32,7843.68,196,1251
+2249,CCS Procedure Code,33,8001.53,183,3668
+2250,CCS Procedure Code,34,8115.55,27,635
+2251,CCS Procedure Code,35,8207.56,91,722
+2252,CCS Procedure Code,36,8273.265,41,23866
+2253,CCS Procedure Code,37,8341.595000000001,231,96242
+2254,CCS Procedure Code,38,8388.755000000001,122,468
+2255,CCS Procedure Code,39,8392.89,214,2951
+2256,CCS Procedure Code,40,8407.875,229,1594
+2257,CCS Procedure Code,41,8461.72,201,2397
+2258,CCS Procedure Code,42,8471.98,177,9847
+2259,CCS Procedure Code,43,8577.025000000001,194,190
+2260,CCS Procedure Code,44,8608.1,210,594
+2261,CCS Procedure Code,45,8732.66,129,31
+2262,CCS Procedure Code,46,8734.675,199,17160
+2263,CCS Procedure Code,47,8748.11,29,708
+2264,CCS Procedure Code,48,8825.425,225,4742
+2265,CCS Procedure Code,49,8932.0,192,309
+2266,CCS Procedure Code,50,9031.06,168,9081
+2267,CCS Procedure Code,51,9077.75,208,197
+2268,CCS Procedure Code,52,9085.7,107,471
+2269,CCS Procedure Code,53,9158.91,180,3063
+2270,CCS Procedure Code,54,9165.8,80,12614
+2271,CCS Procedure Code,55,9177.2,195,897
+2272,CCS Procedure Code,56,9188.58,185,349
+2273,CCS Procedure Code,57,9199.73,121,48
+2274,CCS Procedure Code,58,9228.555,202,6216
+2275,CCS Procedure Code,59,9232.28,156,1903
+2276,CCS Procedure Code,60,9270.09,106,3
+2277,CCS Procedure Code,61,9282.92,81,189
+2278,CCS Procedure Code,62,9299.37,113,2119
+2279,CCS Procedure Code,63,9422.849999999999,102,5610
+2280,CCS Procedure Code,64,9503.35,209,5
+2281,CCS Procedure Code,65,9558.56,187,573
+2282,CCS Procedure Code,66,9562.765,15,68
+2283,CCS Procedure Code,67,9602.12,123,1875
+2284,CCS Procedure Code,68,9774.09,10,1742
+2285,CCS Procedure Code,69,9782.14,197,2168
+2286,CCS Procedure Code,70,9805.665,120,826
+2287,CCS Procedure Code,71,9831.91,31,2301
+2288,CCS Procedure Code,72,9969.35,23,171
+2289,CCS Procedure Code,73,10034.44,134,73357
+2290,CCS Procedure Code,74,10055.57,117,487
+2291,CCS Procedure Code,75,10096.55,101,4025
+2292,CCS Procedure Code,76,10260.51,198,5239
+2293,CCS Procedure Code,77,10261.78,19,2271
+2294,CCS Procedure Code,78,10265.68,222,59154
+2295,CCS Procedure Code,79,10323.63,33,2829
+2296,CCS Procedure Code,80,10362.415,5,1386
+2297,CCS Procedure Code,81,10404.96,20,141
+2298,CCS Procedure Code,82,10507.32,14,73
+2299,CCS Procedure Code,83,10533.98,128,521
+2300,CCS Procedure Code,84,10561.01,58,25239
+2301,CCS Procedure Code,85,10582.16,149,24
+2302,CCS Procedure Code,86,10615.51,218,51097
+2303,CCS Procedure Code,87,10656.15,108,4875
+2304,CCS Procedure Code,88,10778.06,155,1240
+2305,CCS Procedure Code,89,10880.689999999999,163,1838
+2306,CCS Procedure Code,90,10903.46,18,79
+2307,CCS Procedure Code,91,10983.79,125,2463
+2308,CCS Procedure Code,92,11003.415,70,28864
+2309,CCS Procedure Code,93,11013.9,193,27515
+2310,CCS Procedure Code,94,11044.57,74,15170
+2311,CCS Procedure Code,95,11059.56,85,2110
+2312,CCS Procedure Code,96,11115.84,124,10669
+2313,CCS Procedure Code,97,11139.33,226,1851
+2314,CCS Procedure Code,98,11231.39,217,3247
+2315,CCS Procedure Code,99,11339.57,109,785
+2316,CCS Procedure Code,100,11404.125,25,272
+2317,CCS Procedure Code,101,11437.98,21,88
+2318,CCS Procedure Code,102,11443.28,95,3165
+2319,CCS Procedure Code,103,11554.21,76,4943
+2320,CCS Procedure Code,104,11571.335,26,1142
+2321,CCS Procedure Code,105,11576.52,92,6536
+2322,CCS Procedure Code,106,11717.51,130,575
+2323,CCS Procedure Code,107,11812.2,166,469
+2324,CCS Procedure Code,108,11925.45,118,1125
+2325,CCS Procedure Code,109,12027.165,4,10576
+2326,CCS Procedure Code,110,12036.09,116,260
+2327,CCS Procedure Code,111,12072.91,24,38
+2328,CCS Procedure Code,112,12280.9,84,16587
+2329,CCS Procedure Code,113,12433.744999999999,47,30644
+2330,CCS Procedure Code,114,12506.15,35,339
+2331,CCS Procedure Code,115,12521.560000000001,145,2238
+2332,CCS Procedure Code,116,12590.085,164,1272
+2333,CCS Procedure Code,117,12627.670000000002,200,8
+2334,CCS Procedure Code,118,12667.2,13,22
+2335,CCS Procedure Code,119,12755.869999999999,28,32
+2336,CCS Procedure Code,120,12879.77,8,1228
+2337,CCS Procedure Code,121,12879.81,77,1209
+2338,CCS Procedure Code,122,12907.74,51,4640
+2339,CCS Procedure Code,123,12956.135,165,454
+2340,CCS Procedure Code,124,12970.095,103,1222
+2341,CCS Procedure Code,125,12997.34,119,1023
+2342,CCS Procedure Code,126,13076.65,69,803
+2343,CCS Procedure Code,127,13077.65,174,5669
+2344,CCS Procedure Code,128,13149.66,100,1570
+2345,CCS Procedure Code,129,13150.51,111,5622
+2346,CCS Procedure Code,130,13370.87,150,143
+2347,CCS Procedure Code,131,13432.395,88,8708
+2348,CCS Procedure Code,132,13476.725,212,1498
+2349,CCS Procedure Code,133,13643.145,6,3312
+2350,CCS Procedure Code,134,13726.365,94,10658
+2351,CCS Procedure Code,135,13884.84,87,753
+2352,CCS Procedure Code,136,13926.07,181,85
+2353,CCS Procedure Code,137,14048.58,114,4183
+2354,CCS Procedure Code,138,14101.4,170,1897
+2355,CCS Procedure Code,139,14124.57,93,3744
+2356,CCS Procedure Code,140,14163.965,184,36
+2357,CCS Procedure Code,141,14201.845000000001,82,116
+2358,CCS Procedure Code,142,14297.02,86,4597
+2359,CCS Procedure Code,143,14539.39,3,3853
+2360,CCS Procedure Code,144,14827.76,144,2325
+2361,CCS Procedure Code,145,14915.72,167,2469
+2362,CCS Procedure Code,146,15102.19,98,13035
+2363,CCS Procedure Code,147,15267.69,224,10637
+2364,CCS Procedure Code,148,15273.24,223,7483
+2365,CCS Procedure Code,149,15333.59,39,13055
+2366,CCS Procedure Code,150,15377.84,207,28
+2367,CCS Procedure Code,151,15780.494999999999,159,5462
+2368,CCS Procedure Code,152,15877.165,97,6754
+2369,CCS Procedure Code,153,16129.36,104,4452
+2370,CCS Procedure Code,154,16192.3,147,8356
+2371,CCS Procedure Code,155,16644.42,173,5279
+2372,CCS Procedure Code,156,16972.67,148,5003
+2373,CCS Procedure Code,157,17298.83,96,10517
+2374,CCS Procedure Code,158,17335.935,215,2454
+2375,CCS Procedure Code,159,17351.690000000002,112,3044
+2376,CCS Procedure Code,160,17441.35,188,1400
+2377,CCS Procedure Code,161,17565.07,175,11394
+2378,CCS Procedure Code,162,17657.38,189,572
+2379,CCS Procedure Code,163,17684.364999999998,190,400
+2380,CCS Procedure Code,164,17785.655,40,1108
+2381,CCS Procedure Code,165,17819.065000000002,45,24810
+2382,CCS Procedure Code,166,17872.06,11,269
+2383,CCS Procedure Code,167,17909.26,54,27137
+2384,CCS Procedure Code,168,17926.51,216,74043
+2385,CCS Procedure Code,169,17942.5,152,41041
+2386,CCS Procedure Code,170,18014.23,12,1583
+2387,CCS Procedure Code,171,18291.7,67,4650
+2388,CCS Procedure Code,172,18500.895,110,1444
+2389,CCS Procedure Code,173,18731.28,90,3401
+2390,CCS Procedure Code,174,18757.84,191,629
+2391,CCS Procedure Code,175,18855.64,146,13890
+2392,CCS Procedure Code,176,18984.97,83,2245
+2393,CCS Procedure Code,177,19060.7,154,5689
+2394,CCS Procedure Code,178,19170.335,153,34228
+2395,CCS Procedure Code,179,19359.77,162,5600
+2396,CCS Procedure Code,180,19419.82,37,7148
+2397,CCS Procedure Code,181,19523.18,89,186
+2398,CCS Procedure Code,182,20084.375,46,8
+2399,CCS Procedure Code,183,20701.45,161,2330
+2400,CCS Procedure Code,184,21216.405,42,3752
+2401,CCS Procedure Code,185,21223.04,38,180
+2402,CCS Procedure Code,186,21686.375,78,9370
+2403,CCS Procedure Code,187,21824.49,2,1565
+2404,CCS Procedure Code,188,22264.83,142,3883
+2405,CCS Procedure Code,189,22717.39,63,3835
+2406,CCS Procedure Code,190,23133.495,60,2542
+2407,CCS Procedure Code,191,23246.48,36,5365
+2408,CCS Procedure Code,192,23376.495000000003,213,12780
+2409,CCS Procedure Code,193,23388.11,99,7411
+2410,CCS Procedure Code,194,24143.7,62,1930
+2411,CCS Procedure Code,195,24178.715,79,2552
+2412,CCS Procedure Code,196,24415.0,157,7981
+2413,CCS Procedure Code,197,24822.91,172,1795
+2414,CCS Procedure Code,198,24905.875,71,3608
+2415,CCS Procedure Code,199,25768.445,211,1802
+2416,CCS Procedure Code,200,26038.28,66,436
+2417,CCS Procedure Code,201,26660.59,9,5993
+2418,CCS Procedure Code,202,26932.39,75,555
+2419,CCS Procedure Code,203,27203.38,55,5151
+2420,CCS Procedure Code,204,28078.96,65,2625
+2421,CCS Procedure Code,205,28480.28,61,17045
+2422,CCS Procedure Code,206,28532.04,48,11633
+2423,CCS Procedure Code,207,28672.675,72,1098
+2424,CCS Procedure Code,208,29307.114999999998,7,2070
+2425,CCS Procedure Code,209,29460.82,17,39
+2426,CCS Procedure Code,210,30215.68,49,8795
+2427,CCS Procedure Code,211,30488.69,204,214
+2428,CCS Procedure Code,212,30683.120000000003,158,24144
+2429,CCS Procedure Code,213,31346.2,73,1094
+2430,CCS Procedure Code,214,33097.705,59,3570
+2431,CCS Procedure Code,215,35577.19,1,5497
+2432,CCS Procedure Code,216,45214.14,44,8387
+2433,CCS Procedure Code,217,48673.68,52,186
+2434,CCS Procedure Code,218,51827.994999999995,56,408
+2435,CCS Procedure Code,219,60142.62,43,11685
+2436,CCS Procedure Code,220,76476.72,105,1335
+2437,CCS Procedure Code,221,91735.79,50,767
+2438,CCS Procedure Code,222,118687.97,64,1626
+2439,CCS Procedure Code,223,126825.735,34,3886
+2440,CCS Procedure Code,224,196853.92,176,647

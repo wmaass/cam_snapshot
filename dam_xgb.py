@@ -44,6 +44,8 @@ from scipy.stats import ks_2samp
 from scipy.spatial.distance import squareform
 from scipy.stats import ttest_ind
 
+import xgboost as xgb
+
 import joblib
 
 import matplotlib.pyplot as plt
@@ -70,8 +72,8 @@ import json
 
 import plotly.graph_objects as go
 
-import h2o
-from h2o.estimators import H2OGradientBoostingEstimator
+#import h2o
+#from h2o.estimators import H2OGradientBoostingEstimator
 
 from flask import request
 
@@ -81,7 +83,7 @@ import re
 #target = "Gesamtkosten"
 
 # Initialize H2O
-h2o.init()
+#h2o.init()
 
 app_name = "HIS17-two-classes" 
 
@@ -104,18 +106,18 @@ y_cut = 5
 
 result_path = './results/'
 
-file_path = './results/'+app_name+'/ranked_h2o/shap_values_df.csv'
+file_path = './results/'+app_name+'/ranked/shap_values_df.csv'
 
 #file_path_db = './data/hdma_1M.csv'
-file_path_db = './results/'+app_name+'/ranked_h2o/test.csv'
+file_path_db = './results/'+app_name+'/ranked/test.csv'
 
-inputdata_path_db = './results/' + app_name + '/ranked_h2o/rank_encoded.csv'
+inputdata_path_db = './results/' + app_name + '/ranked/rank_encoded.csv'
 
-gbm_model_path = './results/'+app_name+'/ranked_h2o/model/'+'best_model_h2o'
+#gbm_model_path = './results/'+app_name+'/ranked/model/'+'GBM_model_python_1739459721817_1'
 
-model_path = './results/'+app_name+'/ranked/model_h2o/'+'best_model.json'
+model_path = './results/'+app_name+'/ranked/model/'+'best_model.json'
 
-original_path_db = './results/'+app_name+'/ranked_h2o/df_original.csv'
+original_path_db = './results/'+app_name+'/ranked/df_original.csv'
 
 # Create output directory if it doesn't exists
 figure_path = './figures/'+app_name
@@ -127,10 +129,9 @@ os.makedirs(dist_path, exist_ok=True)
 
 ################################
 
-
 def prepare_firework_data(df, feature, prominence):
     # shap_val = np.sign(df[feature]) * np.log2(np.abs(df[feature]) + 1)  # Log2 scale preserving sign
-    # m = df[feature].mean()k
+    # m = df[feature].mean()
     shap_val = df[feature] # - m  # Log2 scale preserving sign
     #log2_y = np.log2(np.abs(df[feature] / df[feature].mean()) + 1)
 
@@ -427,8 +428,6 @@ def parse_hovertext(entries, threshold_percent=5):
 
     return parsed_dict
 
-
-
 ################################################################
 #### START PROGRAM ####
 ################################################################
@@ -458,6 +457,9 @@ if os.path.exists(file_path):
 
     # Impute values in df
     df = df.fillna(df.mean())
+    
+    print(df.head())
+    
 else:
     print("File not found")
 
@@ -473,6 +475,8 @@ if os.path.exists(file_path_db):
     df_db['Total Costs'] = np.log1p(df_db['Total Costs'])
 
     df_index = df_db.index
+    
+    print(df_db.head())
 
 else:
     print("DB not found: ", file_path_db)
@@ -488,6 +492,7 @@ if os.path.exists(inputdata_path_db):
     # drop all rows in df_input_db with index not in df_db
     df_input_db = df_input_db[df_input_db.index.isin(df_db.index)] 
 
+    print(df_input_db.head())
 else:
     print("DB not found: ", file_path_db)
 
@@ -496,17 +501,29 @@ if os.path.exists(original_path_db):
     print("Path DB file exists: " + original_path_db)
     #fn_db = pd.read_csv(original_path_db, index_col=0, usecols=['Facility Name'])
     fn_db = pd.read_csv(original_path_db, index_col=0)
+    print(fn_db.head())
+    
+    print(f"Anzahl eindeutiger Werte: {fn_db['Facility Name'].nunique()}")
+    print(fn_db['Facility Name'].unique())
 
     drop_cols = ['Birth Weight', 'Abortion Edit Indicator'] #, 'Total Costs']
     fn_db = fn_db.drop(drop_cols, axis=1)
 
     # drop all columns in fn_db except 'Facility Name'
     #fn_db = fn_db.drop(fn_db.columns.difference(['Facility Name']), axis=1)
+    
+    print(df_db.index)
+    print(fn_db.index)
 
     fn_db = fn_db.loc[fn_db.index.isin(df_db.index)]
 
     # fn_list is feature 'Facility Name' in fn_db
     fn_list = ['All'] + list(set(fn_db['Facility Name']))
+
+    print(f"Anzahl eindeutiger Werte: {fn_db['Facility Name'].nunique()}")
+    print(fn_db['Facility Name'].unique())
+
+    print(fn_list)
 
 else:
     print("DB not found: ", file_path_db)
@@ -515,8 +532,9 @@ else:
 # model_path = './models/' + app_name + '/model'
 # model = joblib.load(model_path)
 
-# load h2o gbm model
-model = h2o.load_model(gbm_model_path)
+# Lade das XGBoost-Modell aus der JSON-Datei
+model = xgb.XGBRegressor()
+model.load_model(model_path)
 
 # Initialize Dash app
 app = dash.Dash(__name__)
@@ -1337,15 +1355,16 @@ def display_radar_plot(clickData, table_data, selected_item):
 
     # Drop columns from sample_df
     #sample_df.drop(columns=drop_cols, inplace=True)
-
     
+    # sample_df ist ein Pandas DataFrame mit den gleichen Features wie beim Training
+    sample_df = sample_df.astype(np.float32)  # sicherstellen, dass der Typ passt
 
-    sample_h20 = h2o.H2OFrame(sample_df)
+    # Vorhersage mit dem geladenen XGBoost-Modell
+    prediction = model.predict(sample_df)
 
-    # Use the model to make a prediction
-    prediction = model.predict(sample_h20)
+    # Falls du das Ergebnis in einem DataFrame haben willst:
+    p = pd.DataFrame(prediction, columns=["Prediction"])
 
-    p = prediction.as_data_frame()
     p1 = p.iloc[0,0]
     p1f = round(p1, 2)
 

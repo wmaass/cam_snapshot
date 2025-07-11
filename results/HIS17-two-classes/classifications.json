@@ -1,0 +1,170 @@
+[
+    {
+        "Feature": "Length of Stay",
+        "Classification": "Single Peak",
+        "DivPos": 0.056396325986777615,
+        "DivNeg": 0.056774468836579176
+    },
+    {
+        "Feature": "Type of Admission",
+        "Classification": "Single Peak",
+        "DivPos": 0.6361699453231369,
+        "DivNeg": 0.6361629356128176
+    },
+    {
+        "Feature": "Payment Typology 1",
+        "Classification": "Single Peak",
+        "DivPos": 1.0904824700941753,
+        "DivNeg": 1.0905186401025746
+    },
+    {
+        "Feature": "Payment Typology 3",
+        "Classification": "Single Peak",
+        "DivPos": 1.0594743413352725,
+        "DivNeg": 1.0594821956453748
+    },
+    {
+        "Feature": "Hospital Service Area",
+        "Classification": "Two Peaks",
+        "DivPos": 0.8917068586105273,
+        "DivNeg": 0.8917094822656088
+    },
+    {
+        "Feature": "Hospital County",
+        "Classification": "Single Peak",
+        "DivPos": 0.6513121960813317,
+        "DivNeg": 0.651309377358952
+    },
+    {
+        "Feature": "Facility Name",
+        "Classification": "Single Peak",
+        "DivPos": 0.32804368089678126,
+        "DivNeg": 0.32804331157552336
+    },
+    {
+        "Feature": "Age Group",
+        "Classification": "Single Peak",
+        "DivPos": 0.6921746926538266,
+        "DivNeg": 0.6921954032052051
+    },
+    {
+        "Feature": "Zip Code",
+        "Classification": "Single Peak",
+        "DivPos": 0.8211078938967198,
+        "DivNeg": 0.8214197844780188
+    },
+    {
+        "Feature": "Gender",
+        "Classification": "Single Peak",
+        "DivPos": 2.0345627576026555,
+        "DivNeg": 2.035228592191479
+    },
+    {
+        "Feature": "Race",
+        "Classification": "Single Peak",
+        "DivPos": 1.5295106454095013,
+        "DivNeg": 1.5296298751799093
+    },
+    {
+        "Feature": "Ethnicity",
+        "Classification": "Single Peak",
+        "DivPos": 1.4690586094272997,
+        "DivNeg": 1.4695231079466877
+    },
+    {
+        "Feature": "Patient Disposition",
+        "Classification": "Single Peak",
+        "DivPos": 0.7221023874330397,
+        "DivNeg": 0.7220731743666335
+    },
+    {
+        "Feature": "CCS Diagnosis Description",
+        "Classification": "Single Peak",
+        "DivPos": 0.6382505779497958,
+        "DivNeg": 0.6382558069209561
+    },
+    {
+        "Feature": "CCS Procedure Description",
+        "Classification": "Single Peak",
+        "DivPos": 0.3976266713830751,
+        "DivNeg": 0.397627356761706
+    },
+    {
+        "Feature": "APR DRG Code",
+        "Classification": "Single Peak",
+        "DivPos": 0.8343703172598144,
+        "DivNeg": 0.834376990815116
+    },
+    {
+        "Feature": "APR DRG Description",
+        "Classification": "Two Peaks",
+        "DivPos": 0.49271228293385355,
+        "DivNeg": 0.492652307491565
+    },
+    {
+        "Feature": "APR MDC Code",
+        "Classification": "Single Peak",
+        "DivPos": 0.3973504260573365,
+        "DivNeg": 0.3973582103436345
+    },
+    {
+        "Feature": "APR MDC Description",
+        "Classification": "Single Peak",
+        "DivPos": 0.7966753298399853,
+        "DivNeg": 0.7965510977208728
+    },
+    {
+        "Feature": "APR Severity of Illness Code",
+        "Classification": "Two Peaks",
+        "DivPos": 0.2646311519551841,
+        "DivNeg": 0.26463043020275084
+    },
+    {
+        "Feature": "APR Risk of Mortality",
+        "Classification": "Two Peaks",
+        "DivPos": 0.3914973928306963,
+        "DivNeg": 0.39150230591085944
+    },
+    {
+        "Feature": "APR Medical Surgical Description",
+        "Classification": "Two Peaks",
+        "DivPos": 0.5296546987803048,
+        "DivNeg": 0.5297844343246336
+    },
+    {
+        "Feature": "Payment Typology 2",
+        "Classification": "Single Peak",
+        "DivPos": 1.54462909503744,
+        "DivNeg": 1.544676356606911
+    },
+    {
+        "Feature": "Emergency Department Indicator",
+        "Classification": "Single Peak",
+        "DivPos": 0.8956932630815746,
+        "DivNeg": 0.8956307365040447
+    },
+    {
+        "Feature": "Operating Certificate Number",
+        "Classification": "Single Peak",
+        "DivPos": 0.2690725198187195,
+        "DivNeg": 0.2690644545349833
+    },
+    {
+        "Feature": "Permanent Facility Id",
+        "Classification": "Single Peak",
+        "DivPos": 1.0903423624308892,
+        "DivNeg": 1.090337167372294
+    },
+    {
+        "Feature": "CCS Diagnosis Code",
+        "Classification": "Single Peak",
+        "DivPos": 0.7123659065365088,
+        "DivNeg": 0.7122944331695411
+    },
+    {
+        "Feature": "CCS Procedure Code",
+        "Classification": "Single Peak",
+        "DivPos": 1.064174315777702,
+        "DivNeg": 1.064373282106055
+    }
+]

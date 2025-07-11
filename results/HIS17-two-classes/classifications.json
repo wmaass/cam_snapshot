@@ -2,169 +2,169 @@
     {
         "Feature": "Length of Stay",
         "Classification": "Single Peak",
-        "DivPos": 0.056396325986777615,
-        "DivNeg": 0.056774468836579176
+        "DivPos": 0.05639632531831719,
+        "DivNeg": 0.05677446849329828
     },
     {
         "Feature": "Type of Admission",
         "Classification": "Single Peak",
-        "DivPos": 0.6361699453231369,
-        "DivNeg": 0.6361629356128176
+        "DivPos": 0.6361699465397854,
+        "DivNeg": 0.6361629345168557
     },
     {
         "Feature": "Payment Typology 1",
         "Classification": "Single Peak",
-        "DivPos": 1.0904824700941753,
-        "DivNeg": 1.0905186401025746
+        "DivPos": 1.0904824706219602,
+        "DivNeg": 1.090518640288897
     },
     {
         "Feature": "Payment Typology 3",
         "Classification": "Single Peak",
-        "DivPos": 1.0594743413352725,
-        "DivNeg": 1.0594821956453748
+        "DivPos": 1.0594743424637865,
+        "DivNeg": 1.0594821960574128
     },
     {
         "Feature": "Hospital Service Area",
         "Classification": "Two Peaks",
-        "DivPos": 0.8917068586105273,
-        "DivNeg": 0.8917094822656088
+        "DivPos": 0.8917068587884331,
+        "DivNeg": 0.8917094841047813
     },
     {
         "Feature": "Hospital County",
         "Classification": "Single Peak",
-        "DivPos": 0.6513121960813317,
-        "DivNeg": 0.651309377358952
+        "DivPos": 0.6513121948862887,
+        "DivNeg": 0.6513093776503648
     },
     {
         "Feature": "Facility Name",
         "Classification": "Single Peak",
-        "DivPos": 0.32804368089678126,
-        "DivNeg": 0.32804331157552336
+        "DivPos": 0.3280436795024201,
+        "DivNeg": 0.32804330899104794
     },
     {
         "Feature": "Age Group",
         "Classification": "Single Peak",
-        "DivPos": 0.6921746926538266,
-        "DivNeg": 0.6921954032052051
+        "DivPos": 0.6921746914746609,
+        "DivNeg": 0.6921954018621231
     },
     {
         "Feature": "Zip Code",
         "Classification": "Single Peak",
-        "DivPos": 0.8211078938967198,
-        "DivNeg": 0.8214197844780188
+        "DivPos": 0.8211078938227784,
+        "DivNeg": 0.8214197844614807
     },
     {
         "Feature": "Gender",
         "Classification": "Single Peak",
-        "DivPos": 2.0345627576026555,
-        "DivNeg": 2.035228592191479
+        "DivPos": 2.0345627545311538,
+        "DivNeg": 2.035228590851543
     },
     {
         "Feature": "Race",
         "Classification": "Single Peak",
-        "DivPos": 1.5295106454095013,
-        "DivNeg": 1.5296298751799093
+        "DivPos": 1.5295106462999026,
+        "DivNeg": 1.5296298758922213
     },
     {
         "Feature": "Ethnicity",
         "Classification": "Single Peak",
-        "DivPos": 1.4690586094272997,
-        "DivNeg": 1.4695231079466877
+        "DivPos": 1.4690586099151177,
+        "DivNeg": 1.4695231065300791
     },
     {
         "Feature": "Patient Disposition",
         "Classification": "Single Peak",
-        "DivPos": 0.7221023874330397,
-        "DivNeg": 0.7220731743666335
+        "DivPos": 0.7221023883956357,
+        "DivNeg": 0.7220731756828738
     },
     {
         "Feature": "CCS Diagnosis Description",
         "Classification": "Single Peak",
-        "DivPos": 0.6382505779497958,
-        "DivNeg": 0.6382558069209561
+        "DivPos": 0.638250577211189,
+        "DivNeg": 0.6382558045890042
     },
     {
         "Feature": "CCS Procedure Description",
         "Classification": "Single Peak",
-        "DivPos": 0.3976266713830751,
-        "DivNeg": 0.397627356761706
+        "DivPos": 0.3976266696903693,
+        "DivNeg": 0.39762735649961356
     },
     {
         "Feature": "APR DRG Code",
         "Classification": "Single Peak",
-        "DivPos": 0.8343703172598144,
-        "DivNeg": 0.834376990815116
+        "DivPos": 0.8343703180749671,
+        "DivNeg": 0.8343769898450824
     },
     {
         "Feature": "APR DRG Description",
         "Classification": "Two Peaks",
-        "DivPos": 0.49271228293385355,
-        "DivNeg": 0.492652307491565
+        "DivPos": 0.49271228214429985,
+        "DivNeg": 0.4926523074077841
     },
     {
         "Feature": "APR MDC Code",
         "Classification": "Single Peak",
-        "DivPos": 0.3973504260573365,
-        "DivNeg": 0.3973582103436345
+        "DivPos": 0.3973504255745487,
+        "DivNeg": 0.39735821033850255
     },
     {
         "Feature": "APR MDC Description",
         "Classification": "Single Peak",
-        "DivPos": 0.7966753298399853,
-        "DivNeg": 0.7965510977208728
+        "DivPos": 0.7966753314763689,
+        "DivNeg": 0.7965510968365249
     },
     {
         "Feature": "APR Severity of Illness Code",
         "Classification": "Two Peaks",
-        "DivPos": 0.2646311519551841,
-        "DivNeg": 0.26463043020275084
+        "DivPos": 0.2646311512790752,
+        "DivNeg": 0.264630429738528
     },
     {
         "Feature": "APR Risk of Mortality",
         "Classification": "Two Peaks",
-        "DivPos": 0.3914973928306963,
-        "DivNeg": 0.39150230591085944
+        "DivPos": 0.3914973910518437,
+        "DivNeg": 0.3915023036671551
     },
     {
         "Feature": "APR Medical Surgical Description",
         "Classification": "Two Peaks",
-        "DivPos": 0.5296546987803048,
-        "DivNeg": 0.5297844343246336
+        "DivPos": 0.5296546979603682,
+        "DivNeg": 0.5297844341771593
     },
     {
         "Feature": "Payment Typology 2",
         "Classification": "Single Peak",
-        "DivPos": 1.54462909503744,
-        "DivNeg": 1.544676356606911
+        "DivPos": 1.544629094924896,
+        "DivNeg": 1.5446763548419633
     },
     {
         "Feature": "Emergency Department Indicator",
         "Classification": "Single Peak",
-        "DivPos": 0.8956932630815746,
-        "DivNeg": 0.8956307365040447
+        "DivPos": 0.895693263110805,
+        "DivNeg": 0.8956307372612408
     },
     {
         "Feature": "Operating Certificate Number",
         "Classification": "Single Peak",
-        "DivPos": 0.2690725198187195,
-        "DivNeg": 0.2690644545349833
+        "DivPos": 0.26907252037830254,
+        "DivNeg": 0.26906445550235314
     },
     {
         "Feature": "Permanent Facility Id",
         "Classification": "Single Peak",
-        "DivPos": 1.0903423624308892,
-        "DivNeg": 1.090337167372294
+        "DivPos": 1.0903423633621208,
+        "DivNeg": 1.0903371694281299
     },
     {
         "Feature": "CCS Diagnosis Code",
         "Classification": "Single Peak",
-        "DivPos": 0.7123659065365088,
-        "DivNeg": 0.7122944331695411
+        "DivPos": 0.7123659057502004,
+        "DivNeg": 0.71229443293115
     },
     {
         "Feature": "CCS Procedure Code",
         "Classification": "Single Peak",
-        "DivPos": 1.064174315777702,
-        "DivNeg": 1.064373282106055
+        "DivPos": 1.064174315988954,
+        "DivNeg": 1.0643732814592384
     }
 ]
